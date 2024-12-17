@@ -1,0 +1,14 @@
+---
+title: "R en 90 minutos"
+subtitle: "En la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on R en 90 minutos"
+date: "2023-05-18"
+categories: [R, Estadística, Charlas]
+image: "image.jpeg"
+toc: false
+---
+
+El pasado miércoles 17 de mayo en el aula **300** de la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on **R en 90 minutos**, la cual fue organizada por la **Carrera de Sociología** y contó con el apoyo de los **Colegios Profesionales** de Sociología de CABA y PBA.
+
+La actividad tuvo como objetivo llevar adelante una primera inmersión en vivo, para los y las estudiantes, en el mundo de la programación aplicada al analisis de datos, utilizando el lenguaje de código abierto R. La misma estuvo a cargo de tres miembros del NIS, egresadxs de la carrera y reprentantes de los Colegios Profesionales: Betsabé Cohen, Alejandro González y Pedro Damian Orden
+
+Los materiales del curso estan subidos a [[github]{.underline}](https://github.com/pedroorden/ren90minutos) para su consulta y descarga pública.

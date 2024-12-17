@@ -1,0 +1,9 @@
+---
+title: "Proyectos"
+listing: 
+  contents: proyectos
+  type: grid
+  sort: "date"
+---
+
+Estos son los proyectos en los que hemos participado

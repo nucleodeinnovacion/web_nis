@@ -1,0 +1,16 @@
+---
+title: "RLadies+NIS llevan la EPh a Sociales"
+subtitle: "Más de 80 participantes se sumaron el pasado jueves 7 de Septiembre en el Taller de Introducción al análisis de la Encuesta Permanente de Hogares (EPH)"
+date: "2023-10-01"
+categories: [R, Estadística, RLadies, Charlas]
+image: "image.jpeg"
+toc: false
+---
+
+Andrea Gómez y Betsy Cohen, guiaron a los más de 100 inscriptos en una experiencia de programación hands on con tres paquetes del lenguaje de código abierto R: EPH, Tidyverse y GT.
+
+La actrividad organizada en conjunto desde RLadies y el NIS contó con el apoyo de los Colegios Profesionales de Sociología de CABA y PBA, así como de las autoridades de la Carrera de Sociología UBA.
+
+La actividad tuvo como objetivo elaborar descargar diractamente desde R las bases de EPH, realizar una serie de pasos de limpieza de datos y disponibilizarlos en una tabla en HTML.
+
+Todo el material (incluyendo slides y ejercicios) está disponible en el micrositio del Taller https://eph-ubasociales.netlify.app/

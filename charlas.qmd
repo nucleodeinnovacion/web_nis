@@ -1,0 +1,9 @@
+---
+title: "charlas"
+listing: 
+  contents: charlas
+  type: grid
+  sort: "date"
+---
+
+En esta seccion encontraras nuestras charlas y talleres

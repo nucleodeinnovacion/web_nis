@@ -1,0 +1,24 @@
+---
+title: "R para la demografía social"
+subtitle: "Nos recibe la Cátedra de Demografía Social de UNLaM en un taller exclusivo para estudiantes de la cátedra"
+date: "2023-10-01"
+categories: [R, Estadística, RenBaires, Charlas]
+image: "image.jpeg"
+toc: false
+---
+
+Los y las invitamos a participar del taller titulado "R para la demografía social: un taller aplicado a la EPH", organizado por la Cátedra de Demografía Social de la Licenciatura en Ciencia Política de la Universidad Nacional de La Matanza (UNLaM), la Secretaría de Ciencia y Tecnología de la UNLaM, **R en Buenos Aires** y el **Núcleo de Innovación Social (NIS).**
+
+Durante este encuentro, se explorarán las herramientas que ofrece el software R para el análisis sociodemográfico en el entorno de ciencia de datos, con un enfoque especial en el uso de diversos paquetes que facilitan el trabajo en este campo.
+
+Expositoras:
+
+Betsy Cohen
+
+Andrea Gómez Vargas
+
+Fecha y hora: Martes 29 de octubre, a las 18:00 hs.
+
+Lugar: Auditorio de la Biblioteca de la Universidad Nacional de La Matanza.Dirección: Florencio Varela 1903, B1754 San Justo, Provincia de Buenos Aires.
+
+Se recomienda a quienes deseen realizar la práctica en vivo, traer sus computadoras. Previo al taller, se enviarán las instrucciones para la instalación del software.

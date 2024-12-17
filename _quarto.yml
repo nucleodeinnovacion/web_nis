@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Núcleo de Innovación Social"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: charlas.qmd
+        text: Charlas
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: about.qmd
+        text: Nosotros
+      - href: contacto.qmd
+        text: Contacto
+    tools:
+      - icon: linkedin
+        href: "https://www.linkedin.com/company/nucleois"
+      - icon: instagram
+        href: "https://www.instagram.com/nucleodeinnovacion/"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: false
+
+editor: visual
+

@@ -1,0 +1,30 @@
+---
+title: "Informe de Avance EPEAR 2024"
+subtitle: "El Núcleo de Innovación Social (NIS), en conjunto con el Colectivo Gerontológico de ADISAC y el Instituto de Estudios y Formación de la CTA, ha publicado la segunda edición de la Encuesta con Perspectiva de Envejecimiento (EPEAR) 2024"
+date: "2024-09-19"
+categories: [R, Estadística, Encuestas]
+image: "image.png"
+toc: false
+---
+
+El **Núcleo de Innovación Social (NIS)**, en conjunto con el **Colectivo Gerontológico de ADISAC** y el **Instituto de Estudios y Formación de la CTA**, ha publicado la segunda edición de la **Encuesta con Perspectiva de Envejecimiento (EPEAR) 2024**, un estudio dedicado a comprender las condiciones de vida de las personas mayores en Argentina. Este informe se centra en uno de los temas más urgentes: los cuidados y la calidad de vida de este sector de la población.
+
+El envejecimiento trae consigo desafíos específicos en materia de cuidados, tanto a nivel personal como institucional. La encuesta revela que muchas personas mayores dependen de cuidados esenciales que no siempre están garantizados, lo que plantea la necesidad de fortalecer los servicios de asistencia y apoyo para este grupo etario. En este sentido, el estudio busca abrir un espacio de reflexión sobre cómo mejorar la calidad de esos cuidados.
+
+La **calidad de vida** de las personas mayores está íntimamente relacionada con la provisión de cuidados. Las personas mayores que requieren asistencia para realizar tareas cotidianas, como la limpieza, el traslado o la alimentación, a menudo dependen de familiares o cuidadores no remunerados. Esta situación no solo afecta su bienestar, sino que también genera una carga significativa sobre sus seres queridos. El informe destaca la importancia de avanzar hacia un sistema de cuidados más accesible y equitativo.
+
+![](proyectos/2024_11_informe_avance_EPEAR/image_2.png)
+
+Uno de los puntos críticos abordados por el informe es la **soledad no deseada**, que afecta a muchas personas mayores que viven solas o que no reciben el acompañamiento adecuado. Esta situación, agravada en los últimos años, genera un impacto negativo en la salud emocional y física de las personas mayores. Es necesario, entonces, crear políticas que fomenten redes de apoyo y programas de acompañamiento para quienes más lo necesitan.
+
+En este contexto, el **informe EPEAR 2024** pone en relieve la importancia de que las personas mayores participen activamente en la definición de sus propios cuidados. La encuesta recoge sus voces y experiencias, subrayando que es fundamental promover una **cultura de cuidado** basada en el respeto y la dignidad. Esto implica tanto un compromiso de las instituciones como de la sociedad en su conjunto.
+
+La calidad de vida en la vejez no debe ser vista únicamente desde una perspectiva económica, sino también desde un enfoque integral que contemple el acceso a servicios de cuidado de calidad, el bienestar emocional y la participación social. En este sentido, el **NIS**, junto con sus organizaciones aliadas, apuesta por un envejecimiento saludable y activo, donde las personas mayores puedan ejercer plenamente sus derechos y vivir con dignidad.
+
+![](proyectos/2024_11_informe_avance_EPEAR/image_3.png)
+
+Este informe, fruto de un esfuerzo colaborativo interdisciplinario, busca ser una herramienta clave para que decisores políticos, instituciones y la sociedad civil tomen acciones concretas que mejoren los servicios de cuidados. Es imperativo garantizar que las personas mayores reciban el apoyo que necesitan para vivir plenamente, respetando su autonomía y promoviendo su bienestar en todas las etapas de la vida.
+
+Finalmente, el **informe EPEAR 2024** aspira a abrir un nuevo capítulo en el abordaje de los cuidados en Argentina, donde la calidad de vida de las personas mayores se convierta en una prioridad en la agenda pública, asegurando así un futuro más justo y equitativo para todos.
+
+Te invitamos a leer el primer documento aquí

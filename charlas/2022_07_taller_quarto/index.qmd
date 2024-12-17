@@ -1,0 +1,22 @@
+---
+title: "Taller abierto: “Creando informes en R con Quarto”"
+subtitle: "Perdro Orden presenta la nueva plataforma de publicacions para R"
+date: "2022-07-21"
+categories: [R, Estadística, Charlas]
+image: "image.jpeg"
+toc: false
+---
+
+El pasado **viernes 29 de julio**, de 18:30 a 19:30 hs., llevamos adelante el taller abierto **“Creando informes en R con Quarto”**, una actividad de actualización técnica orientada a profesionales de las ciencias sociales, pero abierta a cualquier persona interesada en participar de la experiencia.
+
+La propuesta consistió en **explorar paso a paso el sistema de publicación Quarto**, destacándolo como una herramienta esencial para **comunicar procesos de análisis generados en R**. Durante la actividad, se introdujo al público en conceptos clave como la **replicabilidad**, la **iteración** y la **mejora continua**.
+
+El encuentro fue presentado y coordinado por el **Lic. Pedro Orden**, Sociólogo (UBA) y Científico de Datos. Si bien no se requirieron conocimientos avanzados de programación, fue necesario contar con una idea general de **R** y tener **RStudio instalado** en las computadoras para poder replicar los ejercicios propuestos en el taller.
+
+La actividad fue **libre y gratuita**, organizada por el **Núcleo de Innovación Social** con el apoyo de los **Colegios Profesionales de Sociología de la Provincia y Ciudad de Buenos Aires** y la **Asociación de Sociólogos de la República Argentina**.
+
+Agradecemos a todas y todos los participantes por sumarse y compartir este espacio de aprendizaje e intercambio.
+
+Ponemos a disposición del público el [video](https://youtu.be/0SE_XjWJLvA) del taller abierto para profesionales de las ciencias sociales orientado a la creación de informes con R y Quarto, llevado adelante el pasado viernes 29 de julio en vivo vía Zoom.
+
+Los **materiales** de cursada y bases de datos se encuentrán abiertos y pueden consultarse en [[github]{.underline}](https://github.com/pedroorden/taller_abierto_29_7_22).

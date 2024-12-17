@@ -1,0 +1,53 @@
+{
+  "index.qmd": {
+    "index.html": "fce274b3"
+  },
+  "about.qmd": {
+    "about.html": "6b9ad5b1"
+  },
+  "charlas.qmd": {
+    "charlas.html": "b25d7fab"
+  },
+  "proyectos.qmd": {
+    "proyectos.html": "cd192d7d"
+  },
+  "charlas/2024-10_r_para_demo/index.qmd": {
+    "index.html": "5ee6fbfe"
+  },
+  "charlas/2022_07_taller_quarto/index.qmd": {
+    "index.html": "5cd58717"
+  },
+  "charlas/2022_09_procesando_datos_encuestas/index.qmd": {
+    "index.html": "9c517623"
+  },
+  "charlas/2022_11_taller_sports_analytics/index.qmd": {
+    "index.html": "7f745117"
+  },
+  "charlas/2022_12_taller_NLP/index.qmd": {
+    "index.html": "d5e37f84"
+  },
+  "charlas/2023-08_cs_soc_y_op/index.qmd": {
+    "index.html": "e3cf8b45"
+  },
+  "charlas/2023-11_actividad_uni_mdq/index.qmd": {
+    "index.html": "df291316"
+  },
+  "charlas/2023-12_progra_datos_electorales/index.qmd": {
+    "index.html": "38ac4048"
+  },
+  "charlas/2023_05_R_en_90_minutos/index.qmd": {
+    "index.html": "d6b36885"
+  },
+  "charlas/2023_09_r_para_demo_uba/index.qmd": {
+    "index.html": "87b04815"
+  },
+  "charlas/2023_10_jornadas_antropo/index.qmd": {
+    "index.html": "982cd9f2"
+  },
+  "proyectos/2024_04_informe_anual_cal/index.qmd": {
+    "index.html": "3576dc13"
+  },
+  "proyectos/2024_11_informe_avance_EPEAR/index.qmd": {
+    "index.html": "ea8acfe9"
+  }
+}

@@ -1,0 +1,20 @@
+---
+title: "Ciencias Sociales aplicadas, Data y Opinión Pública"
+subtitle: "Walter González nos comparte su experiencia en el analisis de encuestas y opinión pública"
+date: "2023-08-14"
+categories: [R, Estadística, Charlas,Opinion Pública]
+image: "image.png"
+toc: false
+---
+
+El Núcleo de Innovación Social (NIS), en su continua búsqueda de promover la integración de las ciencias sociales con la tecnología, organizó recientemente una actividad que fusionó el análisis político con avanzadas técnicas de programación. La misma fue llevada a cabo por el reconocido sociólogo y científico de datos, el Lic. Walter González.
+
+Durante el encuentro, el Lic. González compartió su extensa experiencia y conocimientos en el análisis de encuestas de opinión pública y su representación en los medios de comunicación, utilizando el lenguaje de programación R. Su presentación no solo ofreció insights valiosos sobre la interpretación y el manejo de datos en el ámbito público, sino que también demostró cómo las herramientas de programación pueden ser aplicadas de manera efectiva en la investigación social.
+
+La jornada fue moderada por el Lic. Pedro D. Orden (Mat. Prof. N° 304), presidente del Colegio de Sociólogos de la Provincia de Buenos Aires y Coodinador del Núcleo de Innovación Social, quien subrayó la importancia de este tipo de eventos en la promoción y visibilización del trabajo sociológico en campos interdisciplinarios.
+
+El objetivo de esta y otras jornadas organizadas por el NIS es doble: por un lado, generar espacios de divulgación de las acciones y trabajos realizados por colegas en el campo de la Sociología; y por otro, socializar herramientas de programación y técnicas avanzadas que amplíen la comprensión sobre la empleabilidad y las aplicaciones prácticas de nuestra disciplina.
+
+Este encuentro es un claro ejemplo de cómo la sociología, en combinación con la ciencia de datos, puede crear nuevas narrativas y enfoques en el estudio de fenómenos sociales complejos. El NIS se enorgullece de ser un facilitador de estos espacios de aprendizaje e intercambio, contribuyendo al desarrollo profesional continuo de sociólogos y sociólogas.
+
+Para quienes no pudieron asistir, compartimos el video evento. Invitamos a todos los interesados a ver esta interesante presentación y a sumarse a futuras jornadas que continúan explorando los límites y posibilidades de las ciencias sociales en el mundo contemporáneo.

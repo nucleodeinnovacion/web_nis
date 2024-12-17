@@ -1,0 +1,22 @@
+---
+title: "Taller abierto de programación aplicada a datos electorales"
+subtitle: "Ponemos Hands-on en el análisis de datos electorales utilizando R en la Facultad de Ciencias Sociales UBA"
+date: "2023-11-15"
+categories: [R, Estadística, Charlas,Opinion Pública]
+image: "image.jpg"
+toc: false
+---
+
+El martes 14 de noviembre, se llevó a cabo la última clase abierta de programación hands-on del año, enfocada en el análisis de datos electorales utilizando R. Esta sesión fue coorganizada por la Carrera de Sociología de la UBA y contó con la participación activa del Lic. Pedro Damian Orden, Director del Núcleo de Innovación Social.
+
+![](image_2.jpg){width="563"}
+
+El evento nucleó a estudiantes, académicos y profesionales interesados en el cruce entre la ciencia de datos y las ciencias sociales. el Lic. Orden inició la clase destacando la importancia de R como herramienta para el análisis científico en sociología, especialmente para el manejo de grandes conjuntos de datos.
+
+La sesión se centró en el procesamiento y análisis de los microdatos de las Elecciones Generales 2023, obtenidos del portal del Estado Nacional. Los participantes trabajaron con volúmenes de datos desafiantes, demostrando la capacidad de R para superar las limitaciones de herramientas más convencionales.
+
+Una parte clave de la clase se dedicó al paradigma tidy y el uso del Tidyverse en R, mostrando cómo una estructura de datos bien organizada puede simplificar significativamente el análisis de datos. Los asistentes aplicaron técnicas de filtrado, transformación y resumen de datos, además de explorar métodos de visualización efectiva.
+
+El evento culminó con la invitación a los participantes a seguir explorando los recursos y el código abierto proporcionado en el blog de Lic. Orden. La clase fue un ejemplo claro de la sinergia entre la ciencia de datos y la sociología, ofreciendo herramientas y conocimientos valiosos para el análisis de fenómenos sociales complejos.
+
+La coorganización con la Carrera de Sociología de la UBA fue fundamental para el éxito de la actividad, reflejando un esfuerzo colaborativo para integrar la ciencia de datos en el estudio de las ciencias sociales.

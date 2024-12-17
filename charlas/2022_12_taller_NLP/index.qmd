@@ -1,0 +1,16 @@
+---
+title: "Taller abierto de análisis de lenguaje natural"
+subtitle: "Veni a conocer un campo especializado de las ciencias de la computación, la ingeniería y la inteligencia artificial enraizado en la lingüística computacional"
+date: "2023-10-01"
+categories: [R, Estadística, Charlas]
+image: "image.jpeg"
+toc: false
+---
+
+El miércoles 21 de diciembre, entre las 18:30 y las 19:30 hs., realizamos el último **taller abierto del año**, un espacio orientado a introducir conocimientos básicos sobre el **Análisis de Lenguaje Natural (NLP)**. Esta disciplina, enraizada en la lingüística computacional y aplicada en campos como las ciencias de la computación, la ingeniería y la inteligencia artificial, es hoy una herramienta fundamental para las y los cientistas sociales contemporáneos.
+
+Durante el encuentro, presentamos un **contexto general del NLP**, repasamos la escena productiva actual y nos enfocamos en una implementación inicial de técnicas de procesamiento de texto utilizando **R**. Bajo la modalidad de **codeo en vivo**, aplicamos estas herramientas a la **exploración de los subtítulos de una película mundialmente famosa** (sorpresa incluida), lo que permitió a las y los participantes experimentar de manera práctica con las tecnologías del momento.
+
+Los **talleres abiertos** son espacios creados para la **difusión y socialización de experiencias profesionales** en el mundo de los datos. Su objetivo es fomentar el aprendizaje, la experimentación y la construcción de nuevos saberes aplicables a procesos de trabajo e investigación.
+
+Acompañaron e invitaron a esta actividad: el **Núcleo de Innovación Social**, el **Colegio de Sociólogos y Sociólogas de la Provincia de Buenos Aires**, el **Consejo de Profesionales en Sociología** y la **Asociación de Sociólogos de la República Argentina**.

@@ -1,0 +1,16 @@
+---
+title: "Taller abierto de Sports Analytics con R"
+subtitle: "Una experiencia de trabajo en vivo con datos deportivos"
+date: "2022-11-02"
+categories: [R, Estadística, Charlas]
+image: "image.jpg"
+toc: false
+---
+
+En el marco de un nuevo taller abierto de programación en vivo, el viernes 11 de noviembre entre las 18:30 y 19:30 hs (hora argentina) llevaremos adelante vía streaming una experiencia de trabajo en vivo con datos deportivos. La propuesta del encuentro es indagar grupalmente, y de manera aplicada, técnicas y lógicas para la recopilación, exploración y visualización de grandes volúmenes de datos.
+
+Los talleres abiertos son espacios de difusión y socialización experiencias profesionales relacionadas con el mundo de los datos, creados para hacer y experimentar con las tecnologías del momento, y construir así nuevos saberes aplicables a otros procesos de trabajo y/o investigación.
+
+El ingreso al taller es libre pero con espacios limitados por orden de llegada y requiere una pre inscripción en el siguiente [[enlace]{.underline}](https://docs.google.com/forms/d/e/1FAIpQLScwnw25aTEbVSJdDf4BD07eYwHv4mo5dqX6p2tEbmf1GKpDOQ/viewform). Quienes se inscriban, el día de la actividad recibirán un link con un acceso para participar del Zoom del taller.
+
+Invitan y acompañan la actividad: Núcleo de Innovación Social, Colegio de Sociólogos y Sociólogas de la Provincia de Buenos Aires, Consejo de Profesionales en Sociología y la Asociación de Sociólogos de la República Argentina.
