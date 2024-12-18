@@ -1,0 +1,31 @@
+{
+    "id": "B0062C70",
+    "path": "~/NIS/web_nis/proyectos/2024_08_Encuestas_cal/index.qmd",
+    "project_path": "proyectos/2024_08_Encuestas_cal/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "932302902",
+    "contents": "",
+    "dirty": false,
+    "created": 1734524112061.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "435:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1734524155,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1734524155360,
+    "read_only": false,
+    "read_only_alternatives": []
+}
