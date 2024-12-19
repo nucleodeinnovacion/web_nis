@@ -1,0 +1,16 @@
+---
+title: "Monitor de la producción editorial comercial"
+subtitle: "Una herramienta para explorar la producción del sector editorial comercial argentino"
+date: "2024-12-19"
+categories: [R, Estadística, Apps]
+image: "image.png"
+toc: false
+---
+
+![Foto de [Kimberly Farme](https://unsplash.com/es/@kimberlyfarmer) en [Unsplash](https://unsplash.com/es/fotos/fotografia-de-enfoque-superficial-de-libros-lUaaKCUANVI)](image.jpg){fig-alt="Foto de <a href=\"https://unsplash.com/es/@kimberlyfarmer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Kimberly Farmer</a> en <a href=\"https://unsplash.com/es/fotos/fotografia-de-enfoque-superficial-de-libros-lUaaKCUANVI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>"}
+
+Junto a la Cámara Argentina del Libro, desarrollamos el Monitor de Producción Editorial, una herramienta diseñada para explorar y comprender mejor los principales datos del sector comercial en Argentina.
+
+Utilizando la información recopilada por la Agencia Argentina de ISBN, esta aplicación permite visualizar tendencias, identificar patrones y generar conocimiento sobre la industria editorial.
+
+Te invitamos a conocerlo en <https://monitoreditorialcal.shinyapps.io/monitor_editorial/>

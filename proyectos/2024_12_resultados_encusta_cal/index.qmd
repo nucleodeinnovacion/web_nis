@@ -1,0 +1,28 @@
+---
+title: "Resultados de la encuesta del sector del libro"
+subtitle: "Más del 50% de los encuestados considera que la situación del sector del libro en los próximos meses no será buena. Sin embargo, observan un panorama más optimista para su empresa en particular"
+date: "2024-12-19"
+categories: [R, Estadística, Encuestas]
+image: "image.png"
+toc: false
+---
+
+La Cámara Argentina del Libro (CAL), en conjunto con el Núcleo de Innovación Social (NIS) del Colegio de Sociólogos de la Provincia de Buenos Aires, presentó el informe de ventas del sector editorial argentino basado en una encuesta realizada en agosto de 2024, con la participación de 95 empresas del sector.
+
+![](image.png)
+
+Entre los principales hallazgos se observó que
+
+-   Participación por actividad: Más del 90% de las empresas encuestadas se dedican a la venta en librerías y la edición de libros. Concentración geográfica: El 73% de las empresas se ubican en Ciudad y Provincia de Buenos Aires.
+-   Estructura empresarial: La mayoría de las empresas tienen menos de 10 empleados, reflejando una operación en pequeña escala.
+-   Facturación: El 27% factura entre 100 y 499 millones anuales, siendo este el rango más representativo.
+-   Tendencias de ventas: Las librerías muestran un impacto prolongado en la caída de ingresos, con un 94% reportando disminuciones en el primer semestre de 2024 comparado con 2023. Por su parte, las editoriales presentan una caída interanual del 36% en sus ventas mayores al 26%.
+-   Expectativas del sector: El 80% de las empresas perciben una caída en la demanda interna como su mayor desafío, sumado al aumento en los costos de producción y distribución. A pesar de este panorama, las empresas mantienen expectativas moderadas, enfocadas en adaptarse a los cambios del mercado y fortalecer sus estrategias comerciales.
+
+![](image_2.png)
+
+Colaboración técnica: El informe fue desarrollado utilizando R, asegurando estándares de anonimización y reproducibilidad en el marco de un convenio entre la CAL y el NIS, promoviendo la transparencia y el fortalecimiento del sector editorial.
+
+Este análisis busca aportar herramientas estratégicas para enfrentar los desafíos del mercado y fomentar el desarrollo del sector del libro argentino.
+
+El informe completo ya puede leerse [aquí](https://www.camaradellibro.com.ar/informes-encuesta-del-sector-del-libro/)
