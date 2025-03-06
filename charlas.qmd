@@ -1,12 +1,17 @@
 ---
 title: "Charlas y actividades"
+css: presenta.css
 listing: 
   contents: charlas
   categories: true
   type: grid
   sort: "date desc"
+  sort-ui: true
+  filter-ui: true
+  page-size: 30
+  feed: true
 ---
 
-En el NIS llevamos a cabo diversas actividades relacionadas con nuestra misión: investigamos, desarrollamos y formamos.
+En el NIS llevamos a cabo diversas actividades relacionadas con nuestra misión: **`investigamos`**, **`desarrollamos`** y **`formamos`**.
 
-En esta sección de blogging te contamos lo que hacemos.
+En esta sección te contamos lo que hacemos.

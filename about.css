@@ -1,0 +1,70 @@
+/* Fondo de sección */
+section {
+    background-color: #f6e9fa; /* Fondo suave con sombra ligera */
+    padding: 50px 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 40px;
+}
+
+/* Títulos */
+h2, h3 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #2f3c56; /* Título moderno en color oscuro */
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Subtítulos */
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    color: var(--primary-color); /* Títulos más destacados */
+}
+
+/* Imágenes de equipo */
+img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #f6e9fa;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* sombra suave para imagen */
+}
+
+/* Estilo de los miembros del equipo */
+.column {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Card para las secciones de historia */
+.card {
+    background-color: #f6e9fa;
+    color: #333333;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* Encabezados y texto */
+h2 {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+/* Título principal */
+h1 {
+    font-size: 50px;
+    color: var(--primary-color); /* Color atractivo para el título */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}

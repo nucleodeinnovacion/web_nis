@@ -2,32 +2,41 @@ project:
   type: website
 
 website:
-  title: "Núcleo de Innovación Social"
+  favicon: images/hex.png
+  title: " | Núcleo de Innovación Social"
+  image: images/hex.png
+
+  page-footer:
+    left: "&copy; 2025 Betsabé Cohen & Ariana Bardauil"
+    right: "Website construida con [Quarto](https://quarto.org/)."
+    
   navbar:
     background: primary
+    logo: "images/logoNIS.png"
     search: true
-    left:
+    
+    right:
       - href: index.qmd
-        text: Inicio
+        text: INICIO
       - href: charlas.qmd
-        text: Charlas
+        text: CHARLAS
       - href: proyectos.qmd
-        text: Proyectos
+        text: PROYECTOS
       - href: about.qmd
-        text: Nosotros
+        text: NOSOTROS
       - href: contacto.qmd
-        text: Contacto
+        text: CONTACTO
     tools:
       - icon: linkedin
         href: "https://www.linkedin.com/company/nucleois"
       - icon: instagram
         href: "https://www.instagram.com/nucleodeinnovacion/"
 
+ 
+
 format:
   html:
-    theme: 
-      light: flatly 
-      dark: darkly
+    theme:  flatly 
     css: styles.css
     toc: false
 

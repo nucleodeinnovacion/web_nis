@@ -1,25 +1,43 @@
 ---
-title: "Hola, Somos el Núcleo de Innovación Social"
+title: ""
+format: html
+css: presenta.css
 ---
 
-![[Concept of data analysis and maintenance](https://iconscout.com/illustrations/concept) by [WOOBRO LTD](https://iconscout.com/contributors/woobrodesign)](images/portada.png){fig-alt="Concept of data analysis and maintenance by WOOBRO LTD"}
+# **¡Bienvenidos al Núcleo de Innovación Social!**
+
+::::: columns
+::: {.column width="60%"}
+Somos un `laboratorio` de trabajo con un enfoque multidisciplinario, arraigado en las `ciencias sociales.`
+
+Creamos `iniciativas` de investigación, desarrollo y formación generando **Insights accionables** basados en evidencia.
+
+Nuestra misión es promover procesos de `transformación` y mejora colectiva basados en el conocimiento, la `innovación` y la sostenibilidad.
+:::
+
+::: {.column width="40%"}
+![](images/logoNIS.png){fig-align="center" width="230"}
+:::
+:::::
 
 ------------------------------------------------------------------------
 
-Somos un laboratorio de trabajo con un enfoque multidisciplinario, arraigado en las ciencias sociales. 
+### **Transformamos lo que se puede conocer**
 
-Creamos iniciativas de investigación, desarrollo y formación generando Insights accionables basado en evidencia.
-
-Nuestra misión es promover procesos de transformación y mejora colectiva basados en el conocimiento, la innovación y la sostenibilidad.
-
-### **Se transforma lo que se puede conocer**
-
-Transformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concretos y mensurable.
+::: card
+Transformamos el conocimiento en **acciones**, **soluciones** y **productos tecnológicos** con **impacto concreto** y **mensurable**.
+:::
 
 ### **Ideas basadas en evidencia para construir accionables**
 
-Abarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las personas y la tecnología, así como procesos políticos, económicos y culturales de alta complejidad.
+::: card
+Abarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las **personas** y la **tecnología**, así como procesos **políticos**, **económicos** y **culturales** de alta complejidad.
+:::
 
 ### **Formar para transformar**
 
-Diseñamos procesos de aprendizaje basados en la formación constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales
+::: card
+Diseñamos procesos de **aprendizaje constante** promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las **ciencias sociales**.
+:::
+
+

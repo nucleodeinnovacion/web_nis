@@ -1,20 +1,25 @@
 ---
-title: "Acerca del NIS"
+title: "¿Quienes somos?"
+css: about.css
 ---
 
-## Acerca del NIS
+El **Núcleo de Innovación Social (NIS)** comenzó como un laboratorio de tecnología social en 2017, gracias a la colaboración entre la **Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires**, el **Consejo de Profesionales de Sociología** y la **Asociación de Sociólogos y Sociólogas de la República Argentina**.
 
-El Núcleo de Innovación Social (NIS) es un laboratorio que surge en 2017 como resultado de la colaboración entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.
+En sus inicios, el NIS se centró en conectar a los profesionales de la sociología involucrados en tecnología y en organizar jornadas de programación. Con el tiempo, el laboratorio se consolidó, expandiendo su campo de acción hacia áreas estratégicas como **Ciencia de Datos**, **Inteligencia Artificial**, **Diseño de Experiencias** y **Cripto Tecnologías**. 
 
-## Nuestra Historia
+Una característica distintiva del NIS es su **estructura descentralizada**, lo que permite una mayor flexibilidad y colaboración entre diferentes actores. Este enfoque innovador y colaborativo continúa marcando la diferencia en todos nuestros proyectos.
 
-El Núcleo de Innovación Social (NIS) es hoy un laboratorio de tecnología social que surge en 2017 como resultado de la colaboración entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.
+## Nuestra historia
 
-En sus primeras etapas, la comisión se centró en conectar a profesionales de la sociología que estuvieran involucrados en tecnología y en organizar las primeras jornadas de programación. Con el tiempo, el NIS se consolidó como un grupo estable y definió áreas de trabajo estratégicas que son de gran relevancia profesional. Estas áreas incluyen Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías.
+Nació en 2017 como un esfuerzo colaborativo entre la **Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires**, el **Consejo de Profesionales de Sociología** y la **Asociación de Sociólogos y Sociólogas de la República Argentina**.
 
-Una característica importante del NIS es su enfoque descentralizado en términos de organización, lo que significa que no está anclado en una única entidad, sino que promueve la colaboración y el trabajo interdisciplinario.
+Desde su creación, el NIS se ha enfocado en promover la integración de las **ciencias sociales** con las **tecnologías emergentes**, buscando crear soluciones innovadoras que aborden los problemas más complejos de nuestra sociedad. 
 
-Hoy en día, el Núcleo de Innovación Social se dedica a promover la colaboración interdisciplinaria y el intercambio de conocimientos entre las ciencias sociales y la tecnología. Sus proyectos y grupos de trabajo buscan abordar los desafíos contemporáneos generando nuevas preguntas y respuestas para los problemas de la era actual. Este enfoque refleja la importancia de la ciencia de datos, la inteligencia artificial y otras tecnologías emergentes en el ámbito de las ciencias sociales y la innovación social.
+A lo largo de los años, el NIS ha evolucionado para convertirse en un referente en áreas clave como **Ciencia de Datos**, **Inteligencia Artificial**, **Diseño de Experiencias** y **Cripto Tecnologías**. Nos enorgullece ser un espacio descentralizado que fomenta el trabajo interdisciplinario, facilitando la colaboración entre profesionales de diversas áreas y disciplinas.
+
+Hoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la **tecnología** y las **ciencias sociales**. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio.
+
+
 
 ## Nuestro equipo
 
@@ -49,3 +54,4 @@ Hoy en día, el Núcleo de Innovación Social se dedica a promover la colaboraci
 *Socióloga*
 :::
 ::::::::
+

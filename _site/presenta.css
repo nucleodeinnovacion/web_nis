@@ -1,0 +1,109 @@
+/* Fondo y colores */
+body {
+    background-color: #f8f8f8; /* Fondo suave */
+    color: #333333;  /* Texto más oscuro para mejorar la legibilidad */
+}
+
+/* Título principal */
+h1 {
+    font-size: 50px;
+    color: var(--primary-color); /* Color atractivo para el título */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Card o caja para resaltar las secciones */
+.card {
+    background-color: #ffffff;
+    color: #1e1b1c;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+/* Sección de introducción */
+.intro-section {
+    margin-top: 50px;
+    text-align: center;
+}
+
+/* Imagen del logo con bordes redondeados */
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave para la imagen */
+}
+
+/* Mejores márgenes */
+section {
+    margin: 40px 0;
+}
+
+
+h2 {
+    font-size: 28px;
+    color: #333333;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+
+.pullout-block {
+  text-align: center;
+  max-width: calc(1000px + 6vw);
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1.8em; 
+  box-sizing: border-box;
+}
+
+.black-background {
+  background-color: black;
+}
+
+
+/* Estilo para el índice (TOC) de categorías */
+.toc {
+    list-style-type: none; /* Elimina los puntos de lista */
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Estilo para cada categoría */
+.toc .category {
+    background-color: #f1f1f1; /* Fondo claro para cada categoría */
+    margin: 10px 0;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+/* Efecto de hover en las categorías */
+.toc .category:hover {
+    background-color: #009688; /* Fondo verde al pasar el cursor */
+    color: #ffffff; /* Texto blanco al pasar el cursor */
+    transform: scale(1.05); /* Efecto de expansión al pasar el cursor */
+}
+
+/* Títulos dentro de las categorías */
+.toc .category h3 {
+    font-size: 20px;
+    margin: 0;
+}
+
+/* Estilo para subcategorías o elementos dentro de cada categoría */
+.toc .category .subcategory {
+    margin-left: 20px;
+    font-size: 16px;
+    color: #555;
+}
+
