@@ -76,5 +76,17 @@
   },
   "equipo.qmd": {
     "equipo.html": "7d7c6a72"
+  },
+  "last_contenido.qmd": {
+    "last_contenido.html": "8da4f5ed"
+  },
+  "novedades/ejemplo/index.qmd": {
+    "index.html": "c8590326"
+  },
+  "novedades/prueba.qmd": {
+    "prueba.html": "e54863c2"
+  },
+  "proyectos/2025_03_07_monitor_seguridad/index.qmd": {
+    "index.html": "3b185856"
   }
 }

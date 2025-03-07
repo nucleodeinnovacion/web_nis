@@ -1,0 +1,54 @@
+---
+title: "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real"
+author: "Tu nombre o el equipo"
+date: "2025-03-07"
+categories: [monitorización, seguridad, medios de comunicación]
+image: "image.png"
+---
+
+
+## Introducción
+
+En el mundo actual, donde la información circula rápidamente y los medios de comunicación juegan un rol crucial en la conformación de la agenda pública, es fundamental contar con herramientas que permitan seguir de cerca la presencia de figuras clave en los medios. Uno de los actores más importantes en la agenda de seguridad es el **Ministro de Seguridad**. Para facilitar este seguimiento, hemos desarrollado un **monitor en tiempo real** que permite observar la frecuencia y el contexto de las menciones a los Ministros de Seguridad en los medios de comunicación.
+
+Este proyecto fue desarrollado por **Ariana Bardauil**, en colaboración con **Cristopher Cardarelli**, utilizando los datos proporcionados por **Chaski.com**. El objetivo es ofrecer un análisis detallado de la cobertura mediática relacionada con los temas de seguridad y el rol que los ministros desempeñan en ellos.
+
+
+## ¿Cómo Funciona el Monitor?
+
+El monitor de **ministros de seguridad en medios** permite visualizar en tiempo real la aparición de estos actores en diversas fuentes de medios digitales. Este sistema se encuentra disponible en línea a través de la siguiente plataforma:  
+[**Acceder al monitor**](https://ariana-bard.shinyapps.io/seguridad-en-medios-digitales/).
+
+La herramienta se basa en una combinación de tecnologías de **web scraping** y **análisis de texto**, que extrae información de distintos medios de comunicación. Posteriormente, se procesan estos datos y se presentan visualmente en un dashboard interactivo, proporcionando indicadores clave sobre las menciones de los ministros de seguridad.
+
+### Características Principales
+
+1. **Seguimiento en Tiempo Real:** El sistema permite monitorear las menciones de los ministros de seguridad a medida que ocurren.
+2. **Filtrado por Fuente y Fecha:** Puedes filtrar la información por el medio de comunicación y por el periodo de tiempo que desees analizar.
+3. **Análisis de Tendencias:** La herramienta presenta gráficos interactivos que permiten observar las tendencias de aparición en los medios, lo que facilita la comprensión de la cobertura mediática.
+4. **Accesibilidad y Usabilidad:** El monitor es completamente accesible desde cualquier dispositivo con conexión a internet y está diseñado para ser intuitivo.
+
+## Aplicaciones del Monitor
+
+Este tipo de herramienta puede ser útil en una variedad de contextos, tales como:
+
+- **Investigación Académica:** Analizar la cobertura mediática de temas de seguridad pública y las percepciones que se construyen alrededor de los ministros de seguridad.
+- **Política Pública:** Ayudar a los tomadores de decisiones a entender cómo los medios informan sobre los temas de seguridad y cómo esto influye en la opinión pública.
+- **Estudios de Medios:** Observar los patrones de cobertura de temas específicos en los medios digitales.
+
+## ¿Cómo Puedes Usarlo?
+
+1. **Accede al Monitor:** Ingresa al siguiente enlace para acceder al dashboard interactivo:  
+   [**Monitor de Ministros de Seguridad en los Medios**](https://ariana-bard.shinyapps.io/seguridad-en-medios-digitales/).
+   
+2. **Explora los Gráficos y Datos:** Puedes navegar por los diferentes filtros y explorar las menciones a los ministros en distintas plataformas mediáticas.
+
+3. **Descarga los Reportes:** Si lo necesitas, también puedes descargar los informes generados para un análisis más detallado.
+
+
+---
+
+**Para más detalles sobre este proyecto, no dudes en seguirnos o contactarnos.**
+
+---
+

@@ -5,6 +5,25 @@
     ],
     "proyectos.qmd": [
       "proyectos"
+    ],
+    "last_contenido.qmd": [
+      "/novedades",
+      "/charlas",
+      "/proyectos",
+      "!index.qmd",
+      "novedades",
+      "charlas",
+      "proyectos",
+      "novedades/*",
+      "charlas/*",
+      "proyectos/*",
+      "/icharlas"
+    ],
+    "index.qmd": [
+      "/novedades",
+      "/charlas",
+      "/proyectos",
+      "!index.qmd"
     ]
   }
 }

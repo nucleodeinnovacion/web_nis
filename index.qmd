@@ -2,6 +2,18 @@
 title: ""
 format: html
 css: presenta.css
+listing:
+  - id: last_contenido
+    contents: 
+    - /charlas
+    - /proyectos
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
 ---
 
 # **¡Bienvenidos al Núcleo de Innovación Social!**
@@ -19,3 +31,12 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 ![](images/logoNIS.png){fig-align="center" width="230"}
 :::
 :::::
+
+------------------------------------------------------------------------
+
+# Novedades
+
+</a>
+
+::: {#last_contenido}
+:::

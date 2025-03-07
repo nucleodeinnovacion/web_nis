@@ -1,7 +1,7 @@
 ---
 title: "R para la demografía social"
 subtitle: "Nos recibe la Cátedra de Demografía Social de UNLaM en un taller exclusivo para estudiantes de la cátedra"
-date: "2023-10-01"
+date: "2024-10-01"
 categories: [R, Estadística, RenBaires, Charlas]
 image: "image.jpg"
 toc: false
