@@ -1,0 +1,22 @@
+---
+title: "Institucional"
+css: presenta.css
+---
+
+### **Transformamos lo que se puede conocer**
+
+::: card
+Transformamos el conocimiento en **acciones**, **soluciones** y **productos tecnológicos** con **impacto concreto** y **mensurable**.
+:::
+
+### **Ideas basadas en evidencia para construir accionables**
+
+::: card
+Abarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las **personas** y la **tecnología**, así como procesos **políticos**, **económicos** y **culturales** de alta complejidad.
+:::
+
+### **Formar para transformar**
+
+::: card
+Diseñamos procesos de **aprendizaje constante** promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las **ciencias sociales**.
+:::

@@ -54,7 +54,7 @@ body {
 }
 
 .navbar .navbar-brand {
-    font-size: 36px;  /* Cambia el tamaño del texto del logo */
+    font-size: 30px;  /* Cambia el tamaño del texto del logo */
 }
 
 /* Buttons */
@@ -126,4 +126,22 @@ input, textarea {
 input:focus, textarea:focus {
     border-color: var(--secondary-color);
     outline: none;
+}
+
+/* Estilos para el menú desplegable */
+.navbar .dropdown-menu {
+    background-color: #f8e9fc !important; /* Un lila muy claro para contraste */
+    border: none;
+}
+
+/* Estilos para los ítems del menú */
+.navbar .dropdown-item {
+    color: var(--primary-color) !important; /* Texto en el color principal */
+    font-weight: 500;
+}
+
+/* Estilo al pasar el mouse */
+.navbar .dropdown-item:hover {
+    background-color: var(--secondary-color) !important; /* Resalta con el secundario */
+    color: #ffffff !important; /* Texto en blanco para contraste */
 }

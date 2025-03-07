@@ -1,0 +1,39 @@
+---
+title: "Nosotros"
+---
+
+
+## Nuestro equipo
+
+:::::::: columns
+::: {.column .text-center width="20%"}
+![](images/team/pedro.png){width="150px"}\
+**Pedro Orden**\
+*Sociólogo*
+:::
+
+::: {.column .text-center width="20%"}
+![](images/team/walter.png){width="150px"}\
+**Walter González**\
+*Sociólogo*
+:::
+
+::: {.column .text-center width="20%"}
+![](images/team/ariana.png){width="150px"}\
+**Ariana Bardauil**\
+*Politóloga*
+:::
+
+::: {.column .text-center width="20%"}
+![](images/team/betsy.png){width="150px"}\
+**Betsy Cohen**\
+*Socióloga*
+:::
+
+::: {.column .text-center width="20%"}
+![](images/team/andre.png){width="150px"}\
+**Andrea Gomez Vargas**\
+*Socióloga*
+:::
+::::::::
+

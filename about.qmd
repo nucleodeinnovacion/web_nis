@@ -1,6 +1,6 @@
 ---
-title: "¿Quienes somos?"
-css: about.css
+title: "El NIS en el tiempo"
+css: presenta.css
 ---
 
 El **Núcleo de Innovación Social (NIS)** comenzó como un laboratorio de tecnología social en 2017, gracias a la colaboración entre la **Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires**, el **Consejo de Profesionales de Sociología** y la **Asociación de Sociólogos y Sociólogas de la República Argentina**.
@@ -20,38 +20,4 @@ A lo largo de los años, el NIS ha evolucionado para convertirse en un referente
 Hoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la **tecnología** y las **ciencias sociales**. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio.
 
 
-
-## Nuestro equipo
-
-:::::::: columns
-::: {.column .text-center width="20%"}
-![](images/team/pedro.png){width="150px"}\
-**Pedro Orden**\
-*Sociólogo*
-:::
-
-::: {.column .text-center width="20%"}
-![](images/team/walter.png){width="150px"}\
-**Walter González**\
-*Sociólogo*
-:::
-
-::: {.column .text-center width="20%"}
-![](images/team/ariana.png){width="150px"}\
-**Ariana Bardauil**\
-*Politóloga*
-:::
-
-::: {.column .text-center width="20%"}
-![](images/team/betsy.png){width="150px"}\
-**Betsy Cohen**\
-*Socióloga*
-:::
-
-::: {.column .text-center width="20%"}
-![](images/team/andre.png){width="150px"}\
-**Andrea Gomez Vargas**\
-*Socióloga*
-:::
-::::::::
 

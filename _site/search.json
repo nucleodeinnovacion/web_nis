@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "¡Bienvenidos al Núcleo de Innovación Social!",
     "section": "",
-    "text": "¡Bienvenidos al Núcleo de Innovación Social!\n\n\nSomos un laboratorio de trabajo con un enfoque multidisciplinario, arraigado en las ciencias sociales.\nCreamos iniciativas de investigación, desarrollo y formación generando Insights accionables basados en evidencia.\nNuestra misión es promover procesos de transformación y mejora colectiva basados en el conocimiento, la innovación y la sostenibilidad.\n\n\n\n\n\n\n\n\n\n\nTransformamos lo que se puede conocer\n\nTransformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concreto y mensurable.\n\n\n\nIdeas basadas en evidencia para construir accionables\n\nAbarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las personas y la tecnología, así como procesos políticos, económicos y culturales de alta complejidad.\n\n\n\nFormar para transformar\n\nDiseñamos procesos de aprendizaje constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales."
+    "text": "¡Bienvenidos al Núcleo de Innovación Social!\n\n\nSomos un laboratorio de trabajo con un enfoque multidisciplinario, arraigado en las ciencias sociales.\nCreamos iniciativas de investigación, desarrollo y formación generando insights accionables basados en evidencia.\nNuestra misión es promover procesos de transformación y mejora colectiva basados en el conocimiento, la innovación y la sostenibilidad."
   },
   {
     "objectID": "index.html#núcleo-de-innovación-social",
@@ -16,7 +16,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "¿Quienes somos?",
+    "title": "El NIS en el tiempo",
     "section": "",
     "text": "El Núcleo de Innovación Social (NIS) comenzó como un laboratorio de tecnología social en 2017, gracias a la colaboración entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.\nEn sus inicios, el NIS se centró en conectar a los profesionales de la sociología involucrados en tecnología y en organizar jornadas de programación. Con el tiempo, el laboratorio se consolidó, expandiendo su campo de acción hacia áreas estratégicas como Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías.\nUna característica distintiva del NIS es su estructura descentralizada, lo que permite una mayor flexibilidad y colaboración entre diferentes actores. Este enfoque innovador y colaborativo continúa marcando la diferencia en todos nuestros proyectos."
   },
@@ -37,7 +37,7 @@
   {
     "objectID": "about.html#nuestra-historia",
     "href": "about.html#nuestra-historia",
-    "title": "¿Quienes somos?",
+    "title": "El NIS en el tiempo",
     "section": "Nuestra historia",
     "text": "Nuestra historia\nNació en 2017 como un esfuerzo colaborativo entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.\nDesde su creación, el NIS se ha enfocado en promover la integración de las ciencias sociales con las tecnologías emergentes, buscando crear soluciones innovadoras que aborden los problemas más complejos de nuestra sociedad.\nA lo largo de los años, el NIS ha evolucionado para convertirse en un referente en áreas clave como Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías. Nos enorgullece ser un espacio descentralizado que fomenta el trabajo interdisciplinario, facilitando la colaboración entre profesionales de diversas áreas y disciplinas.\nHoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la tecnología y las ciencias sociales. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio."
   },
@@ -236,5 +236,47 @@
     "title": "¡Bienvenidos al Núcleo de Innovación Social!",
     "section": "",
     "text": "Diseñamos procesos de aprendizaje constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales."
+  },
+  {
+    "objectID": "institucional.html",
+    "href": "institucional.html",
+    "title": "Institucional",
+    "section": "",
+    "text": "Transformamos lo que se puede conocer\n\nTransformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concreto y mensurable.\n\n\n\nIdeas basadas en evidencia para construir accionables\n\nAbarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las personas y la tecnología, así como procesos políticos, económicos y culturales de alta complejidad.\n\n\n\nFormar para transformar\n\nDiseñamos procesos de aprendizaje constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales."
+  },
+  {
+    "objectID": "institucional.html#nuestros-pilares",
+    "href": "institucional.html#nuestros-pilares",
+    "title": "Institucional",
+    "section": "",
+    "text": "Transformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concreto y mensurable.\n\n\n\n\n\nAbarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las personas y la tecnología, así como procesos políticos, económicos y culturales de alta complejidad.\n\n\n\n\n\nDiseñamos procesos de aprendizaje constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales."
+  },
+  {
+    "objectID": "equipo.html",
+    "href": "equipo.html",
+    "title": "Nuestro Equipo",
+    "section": "",
+    "text": "Nuestro Equipo\n\n\n\n\n\nBetsy Cohen\nCoordinación\n  \n\n\nAriana Bardauil\nCoordinación\n  \n\n\nPedro Orden\nCiencia de datos\n \n\n\nWalter González\nCiencia de datos\n\n\nAndrea Gomez Vargas\nCiencia de datos"
+  },
+  {
+    "objectID": "equipo.html#nuestro-equipo",
+    "href": "equipo.html#nuestro-equipo",
+    "title": "Nosotros",
+    "section": "",
+    "text": "Pedro Orden\nSociólogo\n\n\nWalter González\nSociólogo\n\n\nAriana Bardauil\nPolitóloga\n\n\nBetsy Cohen\nSocióloga\n\n\nAndrea Gomez Vargas\nSocióloga"
+  },
+  {
+    "objectID": "institucional.html#nuestra-historia",
+    "href": "institucional.html#nuestra-historia",
+    "title": "Institucional",
+    "section": "Nuestra historia",
+    "text": "Nuestra historia\nNació en 2017 como un esfuerzo colaborativo entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.\nDesde su creación, el NIS se ha enfocado en promover la integración de las ciencias sociales con las tecnologías emergentes, buscando crear soluciones innovadoras que aborden los problemas más complejos de nuestra sociedad.\nA lo largo de los años, el NIS ha evolucionado para convertirse en un referente en áreas clave como Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías. Nos enorgullece ser un espacio descentralizado que fomenta el trabajo interdisciplinario, facilitando la colaboración entre profesionales de diversas áreas y disciplinas.\nHoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la tecnología y las ciencias sociales. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio."
+  },
+  {
+    "objectID": "equipo.html#nuestro-equipo-1",
+    "href": "equipo.html#nuestro-equipo-1",
+    "title": "Integrantes",
+    "section": "Nuestro Equipo",
+    "text": "Nuestro Equipo"
   }
 ]

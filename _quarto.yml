@@ -9,6 +9,19 @@ website:
   page-footer:
     left: "&copy; 2025 Betsabé Cohen & Ariana Bardauil"
     right: "Website construida con [Quarto](https://quarto.org/)."
+    center:
+      - href: https://github.com/nucleodeinnovacion
+        icon: github
+        aria-label: GitHub
+      - href: https://www.linkedin.com/company/nucleois
+        icon: linkedin
+        aria-label: LinkedIn
+      - href: https://www.instagram.com/nucleodeinnovacion/
+        icon: twitter-x
+        aria-label: Twitter/X
+
+
+   
     
   navbar:
     background: primary
@@ -17,20 +30,29 @@ website:
     
     right:
       - href: index.qmd
-        text: INICIO
-      - href: charlas.qmd
-        text: CHARLAS
-      - href: proyectos.qmd
-        text: PROYECTOS
-      - href: about.qmd
-        text: NOSOTROS
+        icon: house-door-fill
+        text: " "
+      - text: ¿Quienes somos? 
+        menu:
+          
+        - href: institucional.qmd
+          text: Institucional
+          
+        - href: about.qmd
+          text: Nuestra Historia
+        
+        - href: equipo.qmd
+          text: Equipo
+          
+      - text: ¿Qué hacemos?
+        menu:
+        - href: charlas.qmd
+          text: CHARLAS
+        - href: proyectos.qmd
+          text: PROYECTOS
       - href: contacto.qmd
-        text: CONTACTO
-    tools:
-      - icon: linkedin
-        href: "https://www.linkedin.com/company/nucleois"
-      - icon: instagram
-        href: "https://www.instagram.com/nucleodeinnovacion/"
+        text: Contactanos
+
 
  
 
