@@ -9,6 +9,9 @@ En sus inicios, el NIS se centró en conectar a los profesionales de la sociolog
 
 Una característica distintiva del NIS es su **estructura descentralizada**, lo que permite una mayor flexibilidad y colaboración entre diferentes actores. Este enfoque innovador y colaborativo continúa marcando la diferencia en todos nuestros proyectos.
 
+
+::: card2
+
 ## Nuestra historia
 
 Nació en 2017 como un esfuerzo colaborativo entre la **Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires**, el **Consejo de Profesionales de Sociología** y la **Asociación de Sociólogos y Sociólogas de la República Argentina**.
@@ -19,5 +22,5 @@ A lo largo de los años, el NIS ha evolucionado para convertirse en un referente
 
 Hoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la **tecnología** y las **ciencias sociales**. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio.
 
-
+:::
 

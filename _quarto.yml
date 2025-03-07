@@ -47,9 +47,9 @@ website:
       - text: ¿Qué hacemos?
         menu:
         - href: charlas.qmd
-          text: CHARLAS
+          text: Formación
         - href: proyectos.qmd
-          text: PROYECTOS
+          text: Proyectos
       - href: contacto.qmd
         text: Contactanos
 
