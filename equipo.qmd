@@ -1,55 +1,63 @@
 ---
 title: ""
-css: presenta.css
+css: equipo.css
 ---
 
-::: {.text-center}
-# Nuestro Equipo
-:::
 
+## Coordinación
+::: {.team-grid}
+::: {.team-card}
+![](images/team/betsy.png){.team-img}
 
-:::::::: {#team}
-::: {.columns}
-
-::: {.column .text-center width="25%"}
-![](images/team/betsy.png){width="120px"}  
 **Betsy Cohen**  
-*Coordinación*  
-<a href="https://www.linkedin.com/in/betsabe1984/" target="_blank"><i class="bi bi-linkedin"></i></a> 
-<a href="https://github.com/betsycohen" target="_blank"><i class="bi bi-github"></i></a> 
-<a href="mailto:betsabecohen@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://www.linkedin.com/in/betsabe1984/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/betsycohen" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:betsaObecohen@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.column .text-center width="25%"}
-![](images/team/ariana.png){width="120px"}  
+::: {.team-card}
+![](images/team/ariana.png){.team-img}
+
 **Ariana Bardauil**  
-*Coordinación*  
-<a href="https://linkedin.com/in/arianabardauil" target="_blank"><i class="bi bi-linkedin"></i></a> 
-<a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a> 
-<a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://linkedin.com/in/arianabardauil" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.column .text-center width="25%"}
-![](images/team/pedro.png){width="120px"}  
+::: {.team-card}
+![](images/team/carmen.png){.team-img}
+
+**Carmen Potenze**  
+<a href="https://linkedin.com/in/arianabardauil" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a> <a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
+:::
+:::
+
+---
+
+## Colaboradores
+
+::: {.team-grid}
+
+
+::: {.team-card}
+![](images/team/pedro.png){.team-img}
+
 **Pedro Orden**  
-*Ciencia de datos*  
-<a href="https://linkedin.com/in/pedroorden" target="_blank"><i class="bi bi-linkedin"></i></a> 
-<a href="https://github.com/pedroorden" target="_blank"><i class="bi bi-github"></i></a> 
+*Founder*  
+<a href="https://linkedin.com/in/pedroorden" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/pedroorden" target="_blank"><i class="bi bi-github"></i></a>
 :::
 
-::: {.column .text-center width="25%"}
-![](images/team/walter.png){width="120px"}  
+::: {.team-card}
+![](images/team/walter.png){.team-img}
+
 **Walter González**  
-*Ciencia de datos*  
+*Ciencia de datos*
 :::
 
-::: {.column .text-center width="25%"}
-![](images/team/andre.png){width="120px"}  
-**Andrea Gomez Vargas**  
+::: {.team-card}
+![](images/team/andre.png){.team-img}
+
+**Andrea Gómez Vargas**  
 *Ciencia de datos*  
-<a href="https://www.linkedin.com/in/andreasociologa/" target="_blank"><i class="bi bi-linkedin"></i></a> 
-<a href="https://github.com/soyandrea" target="_blank"><i class="bi bi-github"></i></a> 
-<a href="https://soyandrea.netlify.app/" target="_blank"><i class="bi bi-globe"></i></a>
+<a href="https://www.linkedin.com/in/andreasociologa/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/soyandrea" target="_blank"><i class="bi bi-github"></i></a> <a href="https://soyandrea.netlify.app/" target="_blank"><i class="bi bi-globe"></i></a>
+:::
 :::
 
-::::::::
+
+

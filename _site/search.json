@@ -254,16 +254,16 @@
   {
     "objectID": "equipo.html",
     "href": "equipo.html",
-    "title": "Nuestro Equipo",
+    "title": " | Núcleo de Innovación Social",
     "section": "",
-    "text": "Nuestro Equipo\n\n\n\n\n\nBetsy Cohen\nCoordinación\n  \n\n\nAriana Bardauil\nCoordinación\n  \n\n\nPedro Orden\nCiencia de datos\n \n\n\nWalter González\nCiencia de datos\n\n\nAndrea Gomez Vargas\nCiencia de datos"
+    "text": "Betsy Cohen\n \n\n\n\nAriana Bardauil\n\n\n\n\nCarmen Potenze"
   },
   {
     "objectID": "equipo.html#nuestro-equipo",
     "href": "equipo.html#nuestro-equipo",
-    "title": "Nosotros",
-    "section": "",
-    "text": "Pedro Orden\nSociólogo\n\n\nWalter González\nSociólogo\n\n\nAriana Bardauil\nPolitóloga\n\n\nBetsy Cohen\nSocióloga\n\n\nAndrea Gomez Vargas\nSocióloga"
+    "title": " | Núcleo de Innovación Social",
+    "section": "Nuestro equipo",
+    "text": "Nuestro equipo\n\n\n\nPedro Orden\nFounder\n \n\n\n\nWalter González\nCiencia de datos\n\n\n\nAndrea Gómez Vargas\nCiencia de datos"
   },
   {
     "objectID": "institucional.html#nuestra-historia",
@@ -275,9 +275,9 @@
   {
     "objectID": "equipo.html#nuestro-equipo-1",
     "href": "equipo.html#nuestro-equipo-1",
-    "title": "Integrantes",
-    "section": "Nuestro Equipo",
-    "text": "Nuestro Equipo"
+    "title": "Nuestro Equipo",
+    "section": "",
+    "text": "Carmen Potenze\n\n  \n\n\nPedro Orden\nCiencia de datos\n \n\n\nWalter González\nCiencia de datos\n\n\nAndrea Gomez Vargas\nCiencia de datos\n  \n\n\nNombre del Integrante\nCiencia de datos"
   },
   {
     "objectID": "novedades/ejemplo/index.html",
@@ -327,5 +327,26 @@
     "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
     "section": "¿Cómo Puedes Usarlo?",
     "text": "¿Cómo Puedes Usarlo?\n\nAccede al Monitor: Ingresa al siguiente enlace para acceder al dashboard interactivo:\nMonitor de Ministros de Seguridad en los Medios.\nExplora los Gráficos y Datos: Puedes navegar por los diferentes filtros y explorar las menciones a los ministros en distintas plataformas mediáticas.\nDescarga los Reportes: Si lo necesitas, también puedes descargar los informes generados para un análisis más detallado.\n\n\nPara más detalles sobre este proyecto, no dudes en seguirnos o contactarnos."
+  },
+  {
+    "objectID": "equipo.html#conoce-a-nuestro-equipo",
+    "href": "equipo.html#conoce-a-nuestro-equipo",
+    "title": "Nuestro Equipo",
+    "section": "",
+    "text": "::: {.team-card founder}  ### Pedro Gómez\nFundador & CEO\nLinkedIn | Twitter\n\n\n ### Ana Rodríguez\nMarketing & Comunicación\nLinkedIn | Twitter\n\n\n ### Luis Pérez\nDesarrollo & Tecnología\nLinkedIn\n\n:::"
+  },
+  {
+    "objectID": "equipo.html#coordinación",
+    "href": "equipo.html#coordinación",
+    "title": " | Núcleo de Innovación Social",
+    "section": "",
+    "text": "Betsy Cohen\n \n\n\n\nAriana Bardauil\n\n\n\n\nCarmen Potenze"
+  },
+  {
+    "objectID": "equipo.html#colaboradores",
+    "href": "equipo.html#colaboradores",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Colaboradores",
+    "text": "Colaboradores\n\n\n\nPedro Orden\nFounder\n \n\n\n\nWalter González\nCiencia de datos\n\n\n\nAndrea Gómez Vargas\nCiencia de datos"
   }
 ]
