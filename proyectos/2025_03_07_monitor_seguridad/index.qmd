@@ -1,6 +1,5 @@
 ---
 title: "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real"
-author: "Tu nombre o el equipo"
 date: "2025-03-07"
 categories: [monitorización, seguridad, medios de comunicación]
 image: "image.png"
