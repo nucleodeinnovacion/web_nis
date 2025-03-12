@@ -1,7 +1,18 @@
 ---
-title: "Nuestros pilares"
+title: ""
 css: presenta.css
 ---
+
+::: card3
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/> Nuestra Misión <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"/>
+
+**Promover procesos de transformación y mejora colectiva**\
+Basándonos en el **conocimiento, la innovación y la sostenibilidad**.
+:::
+
+------------------------------------------------------------------------
+
+# Nuestros pilares
 
 ### **Transformamos lo que se puede conocer**
 

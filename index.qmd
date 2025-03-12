@@ -32,9 +32,47 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 :::
 :::::
 
+# <img src="images/Developer.gif" width="40px"/> ¿Qué hacemos? <img src="images/Developer.gif" width="40px"/>
+
 ------------------------------------------------------------------------
 
+::::::::::: grid
+::: {.g-col-6 .card4}
+### 🎤 Workshops, charlas y capacitaciones
+:::
+
+::: {.g-col-6 .card4}
+### 🧼 Procesamiento, limpieza y normalización de datos
+:::
+
+::: {.g-col-6 .card4}
+### 📊 Modelado estadístico
+:::
+
+::: {.g-col-6 .card4}
+### 📖 Data Storytelling / Tableros interactivos
+:::
+
+::: {.g-col-6 .card4}
+### 📈 Generación de indicadores de gestión / producción
+:::
+
+::: {.g-col-6 .card4}
+### 🏗️ Diseño de gestión de datos / información
+:::
+
+::: {.g-col-6 .card4}
+### 📝 Diseño y gestión de encuestas on-line
+:::
+
+::: {.g-col-6 .card4}
+### 📄 Elaboración de informes ad-hoc
+:::
+:::::::::::
+
 # Novedades
+
+------------------------------------------------------------------------
 
 </a>
 

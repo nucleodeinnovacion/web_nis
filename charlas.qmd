@@ -1,5 +1,5 @@
 ---
-title: "Charlas y actividades"
+title: "Formación, Charlas y actividades"
 css: presenta.css
 listing: 
   contents: charlas
@@ -13,5 +13,3 @@ listing:
 ---
 
 En el NIS llevamos a cabo diversas actividades relacionadas con nuestra misión: **`investigamos`**, **`desarrollamos`** y **`formamos`**.
-
-En esta sección te contamos lo que hacemos.

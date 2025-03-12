@@ -1,6 +1,12 @@
 ---
-title: "Contactanos"
+title: "📬 Contactanos"
 format: html
+css: presenta.css
 ---
 
-Si te interesa sumarte a alguno de nuestros proyectos te invitamos escribirnos a **info\@nucleodeinnovacion.com**
+Si necesitás de nuestros servicios, querés participar o tenés una propuesta de investigación, no dudes en consultarnos.  
+
+::: contacto
+[📩 info@nucleodeinnovacion.com](mailto:info@nucleodeinnovacion.com)
+:::
+

@@ -36,7 +36,7 @@ website:
         menu:
           
         - href: institucional.qmd
-          text: Institucional
+          text: Nuestros pilares
           
         - href: about.qmd
           text: Nuestra Historia
