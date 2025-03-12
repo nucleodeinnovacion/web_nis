@@ -96,7 +96,7 @@ h2 {
 
 /* Estilos para la grilla */
 .team-grid {
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     justify-content: center;
@@ -132,6 +132,17 @@ h2 {
 /* Agregar un toque sutil de interactividad */
 .team-card:hover {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15); /* Más profundidad al pasar el mouse */
+}
+
+.team-card {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 

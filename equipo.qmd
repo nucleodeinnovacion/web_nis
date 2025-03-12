@@ -5,6 +5,7 @@ css: equipo.css
 
 
 ## Coordinación
+
 ::: {.team-grid}
 ::: {.team-card}
 ![](images/team/betsy.png){.team-img}
@@ -17,24 +18,85 @@ css: equipo.css
 ![](images/team/ariana.png){.team-img}
 
 **Ariana Bardauil**  
-<a href="https://linkedin.com/in/arianabardauil" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://www.linkedin.com/in/ariana-bardauil/" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
-![](images/team/carmen.png){.team-img}
+:::
 
-**Carmen Potenze**  
-<a href="https://linkedin.com/in/arianabardauil" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a> <a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
-:::
-:::
 
 ---
 
-## Colaboradores
+## Equipo
 
 ::: {.team-grid}
 
 
+::: {.team-card}
+![](images/team/andre.jpg){.team-img}
+
+**Andrea Gómez Vargas**  
+*Consultoría*  
+<a href="https://www.linkedin.com/in/andreasociologa/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/soyandrea" target="_blank"><i class="bi bi-github"></i></a> <a href="https://soyandrea.netlify.app/" target="_blank"><i class="bi bi-globe"></i></a>
+:::
+
+
+::: {.team-card}
+
+![](images/team/cande.png){.team-img}
+
+**Candela Fia**  
+*Metodología e investigación*  
+<a href="https://www.linkedin.com/in/candela-fia-a686b121a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/candelafia" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:candelafia2002@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+::: {.team-card}
+
+![](images/team/euge.jpg){.team-img}
+
+**Eugenia Martino**  
+*Comunicación*  
+<a href="https://www.linkedin.com/in/eugenia-m-464710215/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:EugeniaMartinoBA@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+:::
+
+::: {.team-grid}
+::: {.team-card}
+
+![](images/team/lore.jpg){.team-img}
+
+**Lorena Upiachihua**  
+*Relevamientos*  
+<a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+::: {.team-card}
+
+![](images/team/viole.jpeg){.team-img}
+
+**Violeta Bardauil**  
+*Relevamientos*  
+<a href="mailto:viole.583.2005@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+
+::: {.team-card}
+![](images/team/walter.png){.team-img}
+
+**Walter González**  
+*Opinión Pública*
+:::
+
+
+
+
+:::
+
+
+
+
+## Fundador
+:::{.center}
+::: {.team-grid}
 ::: {.team-card}
 ![](images/team/pedro.png){.team-img}
 
@@ -42,22 +104,6 @@ css: equipo.css
 *Founder*  
 <a href="https://linkedin.com/in/pedroorden" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/pedroorden" target="_blank"><i class="bi bi-github"></i></a>
 :::
-
-::: {.team-card}
-![](images/team/walter.png){.team-img}
-
-**Walter González**  
-*Ciencia de datos*
 :::
 
-::: {.team-card}
-![](images/team/andre.png){.team-img}
-
-**Andrea Gómez Vargas**  
-*Ciencia de datos*  
-<a href="https://www.linkedin.com/in/andreasociologa/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/soyandrea" target="_blank"><i class="bi bi-github"></i></a> <a href="https://soyandrea.netlify.app/" target="_blank"><i class="bi bi-globe"></i></a>
 :::
-:::
-
-
-
