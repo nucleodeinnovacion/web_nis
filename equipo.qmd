@@ -51,23 +51,78 @@ css: equipo.css
 
 ::: {.team-card}
 
+![](images/team/guali.jpg){.team-img}
+
+**Cristpher Cardarelli**  
+*Análisis de datos*  
+<a href="https://www.linkedin.com/in/cristopher-cardarelli/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/CCarda_" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:cardarelli.cristopher@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+:::
+
+::: {.team-grid}
+
+
+::: {.team-card}
+
 ![](images/team/euge.jpg){.team-img}
 
 **Eugenia Martino**  
 *Comunicación*  
 <a href="https://www.linkedin.com/in/eugenia-m-464710215/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:EugeniaMartinoBA@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
 :::
+
+::: {.team-card}
+
+![](images/team/flor.jpg){.team-img}
+
+**Florencia Buschi**  
+*Desarrollo Institucional*  
+<a href="https://www.linkedin.com/in/florencia-buschi-76980828a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: florbuschi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+::: {.team-card}
+
+![](images/team/guada.jpeg){.team-img}
+
+**Guadalupe Mercado**  
+*Formación*  
+<a href="http://linkedin.com/in/guamercado" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: mercadoguada04@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
 :::
 
 ::: {.team-grid}
+
 ::: {.team-card}
 
 ![](images/team/lore.jpg){.team-img}
 
 **Lorena Upiachihua**  
 *Relevamientos*  
-<a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+<a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
 :::
+
+::: {.team-card}
+![](images/team/marina.jpg){.team-img}
+
+**Marina Anderson**  
+*Desarrollo Institucional*
+<a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+::: {.team-card}
+
+![](images/team/paula.jpg){.team-img}
+
+**Paula Federico**  
+*Formación*  
+<a href="https://www.linkedin.com/in/paula-mora-federico-630a32145/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: federico.paulam@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+:::
+
+:::
+
+::: {.team-grid}
+
 
 ::: {.team-card}
 
@@ -79,16 +134,15 @@ css: equipo.css
 :::
 
 
+
+
 ::: {.team-card}
 ![](images/team/walter.png){.team-img}
 
-**Walter González**  
+**Walter González**
+
 *Opinión Pública*
 :::
-
-
-
-
 :::
 
 
