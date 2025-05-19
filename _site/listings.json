@@ -14,22 +14,6 @@
     ]
   },
   {
-    "listing": "/charlas.html",
-    "items": [
-      "/charlas/2024-10_r_para_demo/index.html",
-      "/charlas/2023-12_progra_datos_electorales/index.html",
-      "/charlas/2023-11_actividad_uni_mdq/index.html",
-      "/charlas/2023_10_jornadas_antropo/index.html",
-      "/charlas/2022_12_taller_NLP/index.html",
-      "/charlas/2023_09_r_para_demo_uba/index.html",
-      "/charlas/2023-08_cs_soc_y_op/index.html",
-      "/charlas/2022_09_procesando_datos_encuestas/index.html",
-      "/charlas/2023_05_R_en_90_minutos/index.html",
-      "/charlas/2022_11_taller_sports_analytics/index.html",
-      "/charlas/2022_07_taller_quarto/index.html"
-    ]
-  },
-  {
     "listing": "/last_contenido.html",
     "items": [
       "/proyectos/2025_03_07_monitor_seguridad/index.html",
@@ -73,6 +57,22 @@
       "/charlas/2023-08_cs_soc_y_op/index.html",
       "/proyectos/2023_06_Informe_EPAR/index.html",
       "/proyectos/2023_12_anuario_2023/index.html",
+      "/charlas/2022_09_procesando_datos_encuestas/index.html",
+      "/charlas/2023_05_R_en_90_minutos/index.html",
+      "/charlas/2022_11_taller_sports_analytics/index.html",
+      "/charlas/2022_07_taller_quarto/index.html"
+    ]
+  },
+  {
+    "listing": "/charlas.html",
+    "items": [
+      "/charlas/2024-10_r_para_demo/index.html",
+      "/charlas/2023-12_progra_datos_electorales/index.html",
+      "/charlas/2023-11_actividad_uni_mdq/index.html",
+      "/charlas/2023_10_jornadas_antropo/index.html",
+      "/charlas/2022_12_taller_NLP/index.html",
+      "/charlas/2023_09_r_para_demo_uba/index.html",
+      "/charlas/2023-08_cs_soc_y_op/index.html",
       "/charlas/2022_09_procesando_datos_encuestas/index.html",
       "/charlas/2023_05_R_en_90_minutos/index.html",
       "/charlas/2022_11_taller_sports_analytics/index.html",

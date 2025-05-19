@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d19aaff0441ffe538fac26ca03b5f350.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
@@ -214,6 +214,12 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="team-grid">
 <div class="team-card">
+<p><img src="images/team/lauti.jpg" class="team-img img-fluid"></p>
+<p><strong>Lautaro Perez</strong><br>
+<em>Analisis de datos</em><br>
+<a href="https://x.com/lautaroX86" target="_blank"><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/in/lautaro-perez-771a6087/" target="_blank"><i class="bi bi-linkedin"></i></a></p>
+</div>
+<div class="team-card">
 <p><img src="images/team/lore.jpg" class="team-img img-fluid"></p>
 <p><strong>Lorena Upiachihua</strong><br>
 <em>Relevamientos</em><br>
@@ -224,14 +230,14 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Marina Anderson</strong><br>
 <em>Desarrollo Institucional</em> <a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a></p>
 </div>
+</div>
+<div class="team-grid">
 <div class="team-card">
 <p><img src="images/team/paula.jpg" class="team-img img-fluid"></p>
 <p><strong>Paula Federico</strong><br>
 <em>Formación</em><br>
 <a href="https://www.linkedin.com/in/paula-mora-federico-630a32145/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: federico.paulam@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a></p>
 </div>
-</div>
-<div class="team-grid">
 <div class="team-card">
 <p><img src="images/team/viole.jpeg" class="team-img img-fluid"></p>
 <p><strong>Violeta Bardauil</strong><br>
@@ -344,8 +350,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -456,7 +460,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

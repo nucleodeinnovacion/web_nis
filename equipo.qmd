@@ -3,161 +3,144 @@ title: ""
 css: equipo.css
 ---
 
-
 ## Coordinación
 
-::: {.team-grid}
-::: {.team-card}
+::::: team-grid
+::: team-card
 ![](images/team/betsy.png){.team-img}
 
-**Betsy Cohen**  
+**Betsy Cohen**\
 <a href="https://www.linkedin.com/in/betsabe1984/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/betsycohen" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:betsaObecohen@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
+::: team-card
 ![](images/team/ariana.png){.team-img}
 
-**Ariana Bardauil**  
+**Ariana Bardauil**\
 <a href="https://www.linkedin.com/in/ariana-bardauil/" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
+:::::
 
-:::
-
-
----
+------------------------------------------------------------------------
 
 ## Equipo
 
-::: {.team-grid}
-
-
-::: {.team-card}
+:::::: team-grid
+::: team-card
 ![](images/team/andre.jpg){.team-img}
 
-**Andrea Gómez Vargas**  
-*Consultoría*  
+**Andrea Gómez Vargas**\
+*Consultoría*\
 <a href="https://www.linkedin.com/in/andreasociologa/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/soyandrea" target="_blank"><i class="bi bi-github"></i></a> <a href="https://soyandrea.netlify.app/" target="_blank"><i class="bi bi-globe"></i></a>
 :::
 
-
-::: {.team-card}
-
+::: team-card
 ![](images/team/cande.png){.team-img}
 
-**Candela Fia**  
-*Metodología e investigación*  
-<a href="https://www.linkedin.com/in/candela-fia-a686b121a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/candelafia" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:candelafia2002@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Candela Fia**\
+*Metodología e investigación*\
+<a href="https://www.linkedin.com/in/candela-fia-a686b121a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/candelafia" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:candelafia2002@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
-
+::: team-card
 ![](images/team/guali.jpg){.team-img}
 
-**Cristopher Cardarelli**  
-*Análisis de datos*  
-<a href="https://www.linkedin.com/in/cristopher-cardarelli/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/CCarda_" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:cardarelli.cristopher@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Cristopher Cardarelli**\
+*Análisis de datos*\
+<a href="https://www.linkedin.com/in/cristopher-cardarelli/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/CCarda_" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:cardarelli.cristopher@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
-:::
+::::::
 
-::: {.team-grid}
-
-
-::: {.team-card}
-
+:::::: team-grid
+::: team-card
 ![](images/team/euge.jpg){.team-img}
 
-**Eugenia Martino**  
-*Comunicación*  
-<a href="https://www.linkedin.com/in/eugenia-m-464710215/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:EugeniaMartinoBA@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Eugenia Martino**\
+*Comunicación*\
+<a href="https://www.linkedin.com/in/eugenia-m-464710215/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:EugeniaMartinoBA@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
-
+::: team-card
 ![](images/team/flor.jpg){.team-img}
 
-**Florencia Buschi**  
-*Desarrollo Institucional*  
-<a href="https://www.linkedin.com/in/florencia-buschi-76980828a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: florbuschi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Florencia Buschi**\
+*Desarrollo Institucional*\
+<a href="https://www.linkedin.com/in/florencia-buschi-76980828a/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: florbuschi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
-
+::: team-card
 ![](images/team/guada.jpeg){.team-img}
 
-**Guadalupe Mercado**  
-*Formación*  
-<a href="http://linkedin.com/in/guamercado" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: mercadoguada04@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Guadalupe Mercado**\
+*Formación*\
+<a href="http://linkedin.com/in/guamercado" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: mercadoguada04@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
+:::
+::::::
+
+:::::: team-grid
+
+::: team-card
+![](images/team/lauti.jpg){.team-img}
+
+**Lautaro Perez**\
+*Analisis de datos*\
+<a href="https://x.com/lautaroX86" target="_blank"><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/in/lautaro-perez-771a6087/" target="_blank"><i class="bi bi-linkedin"></i></a>
 :::
 
-:::
-
-::: {.team-grid}
-
-::: {.team-card}
-
+::: team-card
 ![](images/team/lore.jpg){.team-img}
 
-**Lorena Upiachihua**  
-*Relevamientos*  
-<a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Lorena Upiachihua**\
+*Relevamientos*\
+<a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
+::: team-card
 ![](images/team/marina.jpg){.team-img}
 
-**Marina Anderson**  
-*Desarrollo Institucional*
-<a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Marina Anderson**\
+*Desarrollo Institucional* <a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-::: {.team-card}
+::::::
 
+::::: team-grid
+
+::: team-card
 ![](images/team/paula.jpg){.team-img}
 
-**Paula Federico**  
-*Formación*  
-<a href="https://www.linkedin.com/in/paula-mora-federico-630a32145/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: federico.paulam@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Paula Federico**\
+*Formación*\
+<a href="https://www.linkedin.com/in/paula-mora-federico-630a32145/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: federico.paulam@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-:::
-
-::: {.team-grid}
-
-
-::: {.team-card}
-
+::: team-card
 ![](images/team/viole.jpeg){.team-img}
 
-**Violeta Bardauil**  
-*Relevamientos*  
-<a href="mailto:viole.583.2005@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a> 
+**Violeta Bardauil**\
+*Relevamientos*\
+<a href="mailto:viole.583.2005@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
-
-
-
-::: {.team-card}
+::: team-card
 ![](images/team/walter.png){.team-img}
 
 **Walter González**
 
 *Opinión Pública*
 :::
-:::
-
-
-
+:::::
 
 ## Fundador
-:::{.center}
-::: {.team-grid}
-::: {.team-card}
+
+::::: center
+:::: team-grid
+::: team-card
 ![](images/team/pedro.png){.team-img}
 
-**Pedro Orden**  
-*Founder*  
+**Pedro Orden**\
+*Founder*\
 <a href="https://linkedin.com/in/pedroorden" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/pedroorden" target="_blank"><i class="bi bi-github"></i></a>
 :::
-:::
-
-:::
+::::
+:::::

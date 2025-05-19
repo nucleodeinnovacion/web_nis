@@ -3,27 +3,17 @@
     "charlas.qmd": [
       "charlas"
     ],
-    "proyectos.qmd": [
-      "proyectos"
+    "index.qmd": [
+      "/charlas",
+      "/proyectos"
     ],
     "last_contenido.qmd": [
       "/novedades",
       "/charlas",
-      "/proyectos",
-      "!index.qmd",
-      "novedades",
-      "charlas",
-      "proyectos",
-      "novedades/*",
-      "charlas/*",
-      "proyectos/*",
-      "/icharlas"
+      "/proyectos"
     ],
-    "index.qmd": [
-      "/novedades",
-      "/charlas",
-      "/proyectos",
-      "!index.qmd"
+    "proyectos.qmd": [
+      "proyectos"
     ]
   }
 }
