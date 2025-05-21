@@ -1,0 +1,39 @@
+---
+title: "Informe de Producción Anual del Libro Argentino 2024"
+categories: [R, CAL, industrias culturales, encuestas]
+date: "2025-05-20"
+image: "isbn.png"
+toc: false
+---
+
+## Producción del Libro Argentino 2024
+
+Ya está disponible el nuevo informe sobre la **Producción del Libro Argentino 2024**, elaborado a partir de los registros del **ISBN Argentina** gestionados por la Cámara Argentina del Libro. Este análisis nos permite conocer las principales tendencias de la industria editorial en el país.
+
+### ¿Qué es el ISBN?
+
+El **ISBN (International Standard Book Number)** es un sistema internacional que identifica de forma única a cada libro publicado. En Argentina, los datos provienen de los registros declarados por editoras y editoriales, lo que permite saber **qué, cuándo y dónde** se publican libros en nuestro país.
+
+---
+
+## Principales hallazgos del informe
+
+### 🔍 Publicaciones en el Sector Editorial Comercial
+
+En 2024, se registraron **10.104 novedades** en el **Sector Editorial Comercial (SEC)**, que abarca principalmente a las publicaciones destinadas a librerías. Esto representa una **caída del 7%** respecto al año anterior en cuanto al número de publicaciones, y una **baja del 14%** en los ejemplares declarados para primera edición.
+
+Sin embargo, no todos los actores del sector se comportan igual:
+
+- Los **grandes grupos editoriales** declaran tiradas más altas, con un valor típico de **2000 ejemplares**.
+- Las **pequeñas y medianas editoriales (pymes)** tienden a registrar tiradas de alrededor de **1000 ejemplares**.
+
+### 📍 Concentración geográfica
+
+La producción editorial sigue fuertemente concentrada en la **Ciudad Autónoma de Buenos Aires**, que representa el **57% del total de publicaciones** del SEC. Le siguen:
+
+- Provincia de Buenos Aires: **18%**
+- Córdoba: **8%**
+- Santa Fe: **4%**
+- Resto del país: **13%**
+
+📎 Accedé al informe completo acá: [Informe de Producción Anual del Libro Argentino 2024](https://issuu.com/camaradellibro/docs/informe_de_producci_n_anual_libro_argentino_2024)
