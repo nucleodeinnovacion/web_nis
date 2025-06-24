@@ -5,27 +5,27 @@ css: equipo.css
 
 ## Coordinación
 
-::::: team-grid
+::: team-grid
 ::: team-card
 ![](images/team/betsy.png){.team-img}
 
 **Betsy Cohen**\
-<a href="https://www.linkedin.com/in/betsabe1984/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/betsycohen" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:betsaObecohen@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://www.linkedin.com/in/betsabe1984/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/betsycohen" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:betsabecohen@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
 
 ::: team-card
 ![](images/team/ariana.png){.team-img}
 
 **Ariana Bardauil**\
-<a href="https://www.linkedin.com/in/ariana-bardauil/" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/a" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
+<a href="https://www.linkedin.com/in/ariana-bardauil/" target="_blank"><i class="bi bi-linkedin"></i></a><a href="https://github.com/ariibard" target="_blank"><i class="bi bi-github"></i></a><a href="mailto:arianabardauil@gmail.com"><i class="bi bi-envelope"></i></a>
 :::
-:::::
+:::
 
 ------------------------------------------------------------------------
 
 ## Equipo
 
-:::::: team-grid
+::: team-grid
 ::: team-card
 ![](images/team/andre.jpg){.team-img}
 
@@ -49,9 +49,9 @@ css: equipo.css
 *Análisis de datos*\
 <a href="https://www.linkedin.com/in/cristopher-cardarelli/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://x.com/CCarda_" target="_blank"><i class="bi bi-twitter"></i></a> <a href="mailto:cardarelli.cristopher@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
-::::::
+:::
 
-:::::: team-grid
+::: team-grid
 ::: team-card
 ![](images/team/euge.jpg){.team-img}
 
@@ -75,10 +75,9 @@ css: equipo.css
 *Formación*\
 <a href="http://linkedin.com/in/guamercado" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: mercadoguada04@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
-::::::
+:::
 
-:::::: team-grid
-
+::: team-grid
 ::: team-card
 ![](images/team/lauti.jpg){.team-img}
 
@@ -101,11 +100,9 @@ css: equipo.css
 **Marina Anderson**\
 *Desarrollo Institucional* <a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
+:::
 
-::::::
-
-::::: team-grid
-
+::: team-grid
 ::: team-card
 ![](images/team/paula.jpg){.team-img}
 
@@ -129,12 +126,12 @@ css: equipo.css
 
 *Opinión Pública*
 :::
-:::::
+:::
 
 ## Fundador
 
-::::: center
-:::: team-grid
+::: center
+::: team-grid
 ::: team-card
 ![](images/team/pedro.png){.team-img}
 
@@ -142,5 +139,5 @@ css: equipo.css
 *Founder*\
 <a href="https://linkedin.com/in/pedroorden" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="https://github.com/pedroorden" target="_blank"><i class="bi bi-github"></i></a>
 :::
-::::
-:::::
+:::
+:::
