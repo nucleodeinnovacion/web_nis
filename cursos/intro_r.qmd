@@ -1,0 +1,48 @@
+---
+title: ""
+format: html
+page-layout: full
+css: ../presenta.css
+---
+#### **Introducción al análisis de datos con R para Ciencias Sociales**
+
+Desde el NIS pensamos en un curso de introducción al análisis de datos con R desde y para las Ciencias Sociales.
+
+Estuvimos como vos: en ese momento en que quisimos procesar nuestros propios datos y no sabíamos por dónde empezar.
+
+Si te cansaste de usar Excel, SPSS o simplemente querés arrancar de cero, este curso es para vos.
+
+Vas a aprender todo lo necesario para comenzar a analizar datos:
+- Manipulación y limpieza de datos
+- Visualización de datos con gráficos y mapas
+- Generación de informes HTML claros y atractivos
+
+Sumate a la NIS Academy y aprendé a analizar tus datos con autonomía.
+
+[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){target="_blank" .btn}
+
+---
+
+### Modalidad y fechas
+
+El curso tiene una duración de ocho encuentros virtuales, una vez por semana.
+
+**Opciones de cursada:**
+
+- Martes de 18:30 a 20:30
+
+- Viernes de 18:30 a 20:30
+
+Inicio: semana del 5 de agosto.
+
+---
+
+### Inscripción
+
+El curso tiene un costo de $70.000, que podés abonar por transferencia en un solo pago o en dos cuotas de $37.500.
+
+Para confirmar tu inscripción, completá el siguiente formulario y adjuntá el comprobante de pago:
+
+[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){target="_blank" .btn}
+
+

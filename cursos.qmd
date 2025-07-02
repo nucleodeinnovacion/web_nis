@@ -1,0 +1,32 @@
+---
+title: "NIS Academy"
+format: html
+page-layout: full
+css: presenta.css
+---
+
+::: body-centrado
+Explora, aprende, transforma: Cursos prácticos para potenciar tus habilidades en datos.
+
+:::
+
+<div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
+
+<div class="card" style="max-width: 320px; text-align: center;">
+
+<img src="imagenes/curso_shiny.png" alt="Curso Shiny" style="width:100%; border-radius: 12px;">
+
+### Introducción al Análisis de Datos con R
+
+<p>Un curso hecho desde y para las ciencias sociales</p>
+
+Aprenderás manipulación de datos, limpieza, visualización, gráficos y armado de documentos con R
+
+<h3 style="color: var(--primary-color); font-size: 1.2rem; margin-top: 10px;">ARS$70.000</h3>
+
+<a href="cursos/intro_r.html" target="_blank" class="btn" style="margin-top: 10px;">Ver curso</a>
+
+</div>
+
+</div>
+

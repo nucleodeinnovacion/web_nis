@@ -94,5 +94,11 @@
   },
   "charlas/2025-06_charla_CFI/index.qmd": {
     "index.html": "fd61839b"
+  },
+  "cursos.qmd": {
+    "cursos.html": "703f3a35"
+  },
+  "cursos/intro_r.qmd": {
+    "intro_r.html": "20281a98"
   }
 }

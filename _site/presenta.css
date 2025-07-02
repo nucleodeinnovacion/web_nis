@@ -23,7 +23,13 @@ h2 {
 }
 
 
-
+h4 {
+    font-size: 35px;
+    color: var(--primary-color); /* Color atractivo para el título */
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 30px;
+}
 
 /* Card o caja para resaltar las secciones */
 .card {
@@ -207,4 +213,9 @@ section {
 
 .contacto a:hover {
     background-color: #740aa5; /* Color al pasar el mouse */
+}
+
+
+.body-centrado {
+    text-align: center;
 }
