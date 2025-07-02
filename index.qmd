@@ -32,6 +32,7 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 :::
 :::::
 
+
 # <img src="images/Developer.gif" width="40px"/> ¿Qué hacemos? <img src="images/Developer.gif" width="40px"/>
 
 ::::::::::: grid
@@ -67,6 +68,17 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 #### 📄 Informes ad-hoc
 :::
 :::::::::::
+<br>
+<div style="background-color: #9d0fc8; color: white; padding: 40px 20px; text-align: center; border-radius: 12px; margin-bottom: 30px;">
+
+<h3 style="color: white; margin-bottom: 10px;">Accedé a nuestros cursos y capacitaciones</h2>
+
+<p>Potenciá tus habilidades con nuestras formaciones en ciencias sociales computacionales</p>
+
+<a href="cursos.html" class="btn" style="background-color: white; color: #9d0fc8; font-weight: 600; padding: 10px 20px; border-radius: 8px; display: inline-block; margin-top: 15px;">Ver cursos y capacitaciones</a>
+
+</div>
+
 
 # Novedades
 

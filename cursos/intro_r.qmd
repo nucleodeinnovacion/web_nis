@@ -19,8 +19,6 @@ Vas a aprender todo lo necesario para comenzar a analizar datos:
 
 Sumate a la NIS Academy y aprendé a analizar tus datos con autonomía.
 
-[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){target="_blank" .btn}
-
 ---
 
 ### Modalidad y fechas
