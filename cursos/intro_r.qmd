@@ -4,6 +4,7 @@ format: html
 page-layout: full
 css: ../presenta.css
 ---
+
 #### **Introducción al análisis de datos con R para Ciencias Sociales**
 
 Desde el NIS pensamos en un curso de introducción al análisis de datos con R desde y para las Ciencias Sociales.
@@ -12,14 +13,11 @@ Estuvimos como vos: en ese momento en que quisimos procesar nuestros propios dat
 
 Si te cansaste de usar Excel, SPSS o simplemente querés arrancar de cero, este curso es para vos.
 
-Vas a aprender todo lo necesario para comenzar a analizar datos:
-- Manipulación y limpieza de datos
-- Visualización de datos con gráficos y mapas
-- Generación de informes HTML claros y atractivos
+Vas a aprender todo lo necesario para comenzar a analizar datos: - Manipulación y limpieza de datos - Visualización de datos con gráficos y mapas - Generación de informes HTML claros y atractivos
 
 Sumate a la NIS Academy y aprendé a analizar tus datos con autonomía.
 
----
+------------------------------------------------------------------------
 
 ### Modalidad y fechas
 
@@ -27,20 +25,87 @@ El curso tiene una duración de ocho encuentros virtuales, una vez por semana.
 
 **Opciones de cursada:**
 
-- Martes de 18:30 a 20:30
+-   Martes de 18:30 a 20:30
 
-- Viernes de 18:30 a 20:30
+-   Viernes de 18:30 a 20:30
 
 Inicio: semana del 5 de agosto.
 
----
+------------------------------------------------------------------------
 
 ### Inscripción
 
-El curso tiene un costo de $70.000, que podés abonar por transferencia en un solo pago o en dos cuotas de $37.500.
+El curso tiene un costo de \$70.000, que podés abonar por transferencia en un solo pago o en dos cuotas de \$37.500.
 
 Para confirmar tu inscripción, completá el siguiente formulario y adjuntá el comprobante de pago:
 
-[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){target="_blank" .btn}
+[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){.btn target="_blank"}
+
+## Docentes
+
+:::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;font-size: 0.9rem;"}
+
+::: {style="background-color: #9d0fc8; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
+
+<h3 style="text-align: center; color: white; margin-top: 0;">Ariana Bardauil</h3>
+Politóloga (UNLaM) y candidata a magíster en Generación y Análisis de la Información Estadística (UNTREF). Docente en UFLO y UNLaM. Data scientist en el Ministerio de Salud (GCBA). Co-organizadora de R en Buenos Aires y coordinadora del Núcleo de Innovación Social.
+
+:::
+
+::: {style="background-color: #8dc63f; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
 
 
+<h3 style="text-align: center; color: white; margin-top: 0;">Betsy Cohen</h3>
+
+Socióloga (UBA), diplomada en Gestión y Políticas Culturales (IDAES-UNSAM). Maestranda en Generación y Análisis de la Información Estadística (UNTREF). Miembro de RLadies Buenos Aires. Experta en industrias creativas y políticas públicas, con experiencia en estadísticas editoriales y opinión pública.
+
+:::
+
+::: {style="background-color: #14c0cc; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
+
+
+
+<h3 style="text-align: center; color: white; margin-top: 0;">Joaquín Lovizio Ramos</h3>
+
+Politólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios.
+
+:::
+
+::: {style="background-color: #9d0fc8; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
+
+
+
+<h3 style="text-align: center; color: white; margin-top: 0;">Juan Esteban Barriola</h3>
+
+Sociólogo (UBA) y magíster en Generación y Análisis de la Información Estadística (UNTREF). Especialista en análisis de datos con R y Python, visualización y automatización de reportes. Experiencia en análisis aplicado a políticas públicas y proyectos en educación y comunicación política.
+
+:::
+
+::::
+
+
+------------------------------------------------------------------------
+
+## Tutores
+
+::::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;font-size: 0.9rem;"}
+<!-- Candela -->
+
+::: {style="background-color: #14c0cc; color: white; padding: 20px; border-radius: 12px; max-width: 350px; text-align: center;"}
+
+
+### Candela Fia
+
+Estudiante avanzada de Ciencia Política (UNLaM) y becaria de investigación en participación y políticas públicas. Analista de datos en el Núcleo de Innovación Social.
+:::
+
+<!-- Cristopher -->
+
+::: {style="background-color: #8dc63f; color: white; padding: 20px; border-radius: 12px; max-width: 350px; text-align: center;"}
+
+
+### Cristopher Cardarelli
+
+Licenciado en Ciencia Política (UNLaM), diplomado en análisis de datos (UNAB) y en archivística y gestión documental (UNTREF). Analista de datos en el Ministerio de Salud (GCBA) y en el Núcleo de Innovación Social.
+:::
+:::::

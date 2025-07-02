@@ -1,229 +1,5 @@
 [
   {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Proyectos",
-    "section": "",
-    "text": "Estos son los proyectos en los que hemos participado\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInforme de Producción Anual del Libro Argentino 2024\n\n\n\n\n\n\n\n\n\nMay 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonitor de la producción editorial comercial\n\n\n\n\n\n\n\n\n\nDec 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResultados de la encuesta del sector del libro\n\n\n\n\n\n\n\n\n\nDec 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInforme de Avance EPEAR 2024\n\n\n\n\n\n\n\n\n\nSep 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEncuesta del sector del libro: Sumate a visibilizar la situación de la industria editorial\n\n\n\n\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLanzamos la EPEAR 2024\n\n\n\n\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInforme Anual de Producción Editorial 2023: Un Panorama de la Industria en Argentina\n\n\n\n\n\n\n\n\n\nApr 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInforme abierto de la primera Encuesta con Perspectiva de Envejecimiento en la República Argentina\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnuario NIS 2023\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "proyectos/2025_03_07_monitor_seguridad/index.html",
-    "href": "proyectos/2025_03_07_monitor_seguridad/index.html",
-    "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
-    "section": "",
-    "text": "En el mundo actual, donde la información circula rápidamente y los medios de comunicación juegan un rol crucial en la conformación de la agenda pública, es fundamental contar con herramientas que permitan seguir de cerca la presencia de figuras clave en los medios. Uno de los actores más importantes en la agenda de seguridad es el Ministro de Seguridad. Para facilitar este seguimiento, hemos desarrollado un monitor en tiempo real que permite observar la frecuencia y el contexto de las menciones a los Ministros de Seguridad en los medios de comunicación.\nEste proyecto fue desarrollado por Ariana Bardauil, en colaboración con Cristopher Cardarelli, utilizando los datos proporcionados por Chaski.com. El objetivo es ofrecer un análisis detallado de la cobertura mediática relacionada con los temas de seguridad y el rol que los ministros desempeñan en ellos."
-  },
-  {
-    "objectID": "proyectos/2025_03_07_monitor_seguridad/index.html#introducción",
-    "href": "proyectos/2025_03_07_monitor_seguridad/index.html#introducción",
-    "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
-    "section": "",
-    "text": "En el mundo actual, donde la información circula rápidamente y los medios de comunicación juegan un rol crucial en la conformación de la agenda pública, es fundamental contar con herramientas que permitan seguir de cerca la presencia de figuras clave en los medios. Uno de los actores más importantes en la agenda de seguridad es el Ministro de Seguridad. Para facilitar este seguimiento, hemos desarrollado un monitor en tiempo real que permite observar la frecuencia y el contexto de las menciones a los Ministros de Seguridad en los medios de comunicación.\nEste proyecto fue desarrollado por Ariana Bardauil, en colaboración con Cristopher Cardarelli, utilizando los datos proporcionados por Chaski.com. El objetivo es ofrecer un análisis detallado de la cobertura mediática relacionada con los temas de seguridad y el rol que los ministros desempeñan en ellos."
-  },
-  {
-    "objectID": "proyectos/2025_03_07_monitor_seguridad/index.html#cómo-funciona-el-monitor",
-    "href": "proyectos/2025_03_07_monitor_seguridad/index.html#cómo-funciona-el-monitor",
-    "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
-    "section": "¿Cómo Funciona el Monitor?",
-    "text": "¿Cómo Funciona el Monitor?\nEl monitor de ministros de seguridad en medios permite visualizar en tiempo real la aparición de estos actores en diversas fuentes de medios digitales. Este sistema se encuentra disponible en línea a través de la siguiente plataforma:\nAcceder al monitor.\nLa herramienta se basa en una combinación de tecnologías de web scraping y análisis de texto, que extrae información de distintos medios de comunicación. Posteriormente, se procesan estos datos y se presentan visualmente en un dashboard interactivo, proporcionando indicadores clave sobre las menciones de los ministros de seguridad.\n\nCaracterísticas Principales\n\nSeguimiento en Tiempo Real: El sistema permite monitorear las menciones de los ministros de seguridad a medida que ocurren.\nFiltrado por Fuente y Fecha: Puedes filtrar la información por el medio de comunicación y por el periodo de tiempo que desees analizar.\nAnálisis de Tendencias: La herramienta presenta gráficos interactivos que permiten observar las tendencias de aparición en los medios, lo que facilita la comprensión de la cobertura mediática.\nAccesibilidad y Usabilidad: El monitor es completamente accesible desde cualquier dispositivo con conexión a internet y está diseñado para ser intuitivo."
-  },
-  {
-    "objectID": "proyectos/2025_03_07_monitor_seguridad/index.html#aplicaciones-del-monitor",
-    "href": "proyectos/2025_03_07_monitor_seguridad/index.html#aplicaciones-del-monitor",
-    "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
-    "section": "Aplicaciones del Monitor",
-    "text": "Aplicaciones del Monitor\nEste tipo de herramienta puede ser útil en una variedad de contextos, tales como:\n\nInvestigación Académica: Analizar la cobertura mediática de temas de seguridad pública y las percepciones que se construyen alrededor de los ministros de seguridad.\nPolítica Pública: Ayudar a los tomadores de decisiones a entender cómo los medios informan sobre los temas de seguridad y cómo esto influye en la opinión pública.\nEstudios de Medios: Observar los patrones de cobertura de temas específicos en los medios digitales."
-  },
-  {
-    "objectID": "proyectos/2025_03_07_monitor_seguridad/index.html#cómo-puedes-usarlo",
-    "href": "proyectos/2025_03_07_monitor_seguridad/index.html#cómo-puedes-usarlo",
-    "title": "Monitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real",
-    "section": "¿Cómo Puedes Usarlo?",
-    "text": "¿Cómo Puedes Usarlo?\n\nAccede al Monitor: Ingresa al siguiente enlace para acceder al dashboard interactivo:\nMonitor de Ministros de Seguridad en los Medios.\nExplora los Gráficos y Datos: Puedes navegar por los diferentes filtros y explorar las menciones a los ministros en distintas plataformas mediáticas.\nDescarga los Reportes: Si lo necesitas, también puedes descargar los informes generados para un análisis más detallado.\n\n\nPara más detalles sobre este proyecto, no dudes en seguirnos o contactarnos."
-  },
-  {
-    "objectID": "proyectos/2024_12_monitor_editorial/index.html",
-    "href": "proyectos/2024_12_monitor_editorial/index.html",
-    "title": "Monitor de la producción editorial comercial",
-    "section": "",
-    "text": "Foto de Kimberly Farme en Unsplash\n\n\nJunto a la Cámara Argentina del Libro, desarrollamos el Monitor de Producción Editorial, una herramienta diseñada para explorar y comprender mejor los principales datos del sector comercial en Argentina.\nUtilizando la información recopilada por la Agencia Argentina de ISBN, esta aplicación permite visualizar tendencias, identificar patrones y generar conocimiento sobre la industria editorial.\nTe invitamos a conocerlo en https://monitoreditorialcal.shinyapps.io/monitor_editorial/"
-  },
-  {
-    "objectID": "proyectos/2024_08_Encuestas_cal/index.html",
-    "href": "proyectos/2024_08_Encuestas_cal/index.html",
-    "title": "Encuesta del sector del libro: Sumate a visibilizar la situación de la industria editorial",
-    "section": "",
-    "text": "En el Núcleo de Innovación Social (NIS), estamos trabajando junto a la Cámara Argentina del Libro (CAL) para comprender mejor los desafíos que enfrentan libreros y editores en el contexto actual. Por eso, te invitamos a participar de nuestra encuesta sectorial.\n\n¿Por qué es importante? La información recopilada nos permitirá generar datos sólidos para impulsar políticas específicas y diseñar estrategias colectivas que fortalezcan los lazos entre actores clave del sector. Con tu aporte, podremos trabajar juntos para encontrar soluciones que mitiguen los efectos de la crisis inflacionaria y de costos crecientes.\n¿Cómo participar? Completá la encuesta de manera online en es.research.net/r/encuesta_sector_libro o agendá una cita con nuestro equipo de encuestadoras para hacerlo de forma asistida. Si es tu primera vez respondiendo, te recomendamos optar por la modalidad asistida.\n¿Qué información necesitás tener a mano? Antes de comenzar, asegurate de contar con datos clave sobre:\n\nFacturación anual 2023.\nCantidad de empleados en relación de dependencia y temporales.\nVariaciones porcentuales de unidades vendidas (2022-2023 y último semestre 2024 vs. 2023).\nDatos específicos según tu perfil (librería o editorial/distribuidora).\n\nSi tenés dudas o consultas, podés escribirnos a info@nucleodeinnovacion.com.\nSobre nosotros El NIS es un laboratorio interdisciplinario que promueve la transformación colectiva mediante tecnología, conocimiento e innovación sostenible. Por su parte, la CAL representa a más de 500 editoriales, librerías y distribuidoras de todo el país, trabajando desde 1938 por el desarrollo del sector editorial argentino.\nUnite a esta iniciativa Tu experiencia es clave. Participar de la encuesta no solo ayuda a visibilizar la realidad del sector, sino que también contribuye a diseñar soluciones efectivas.\n¿Qué estás esperando? Sumate ahora y construyamos juntos un mejor futuro para la industria del libro."
-  },
-  {
-    "objectID": "proyectos/2024_04_informe_anual_cal/index.html",
-    "href": "proyectos/2024_04_informe_anual_cal/index.html",
-    "title": "Informe Anual de Producción Editorial 2023: Un Panorama de la Industria en Argentina",
-    "section": "",
-    "text": "En el marco de la alianza entre el Núcleo de Innovación Social (NIS) y la Cámara Argentina del Libro (CAL), se presenta el informe anual de producción editorial 2023. Esta colaboración entre ambas entidades destaca la importancia de analizar y entender las tendencias actuales en la industria editorial de Argentina y su impacto en el mercado.\nEntre sus principales hallazgos el informe da cuenta de una caída del 24% en la producción de libros respecto al año anterior, lo que refleja un retorno a niveles de producción similares a los de la pre-pandemia. Las ventas en librerías también experimentaron una disminución, llegando a un 40% menos en marzo. Estos datos evidencian los desafíos significativos que enfrenta el sector, como el aumento de los costos de producción, especialmente debido al alza en los precios del papel.\nLa articulación entre el NIS y la CAL ha permitido un análisis profundo y completo de los datos, proporcionando una visión clara de los factores que afectan a la industria editorial. Esta sinergia fomenta la colaboración entre espacios de innovación, la industria y organizaciones de la sociedad civil, generando un intercambio de ideas y estrategias.\nLos datos también resaltan cambios en las temáticas y géneros publicados, así como un aumento en las publicaciones digitales. Las editoriales han tenido que adaptarse a las demandas cambiantes de los lectores, explorando nuevas formas de llegar a un público más diverso.\nEn el informe se subraya la importancia de las editoriales pequeñas e independientes, que juegan un papel fundamental en la promoción de nuevos autores y la exploración de nuevos formatos. Además, destaca la necesidad de innovar en la distribución para enfrentar los retos del mercado actual.\nLa colaboración entre el Núcleo de Innovación Social y la Cámara Argentina del Libro es un ejemplo del valor de trabajar en conjunto para abordar los desafíos de la industria editorial. En sinergia, las institiciones buscan generar un impacto positivo en el sector, promoviendo la democratización de la lectura y la cultura en toda la sociedad argentina.\nNota del informe en Página 12"
-  },
-  {
-    "objectID": "proyectos/2023_06_Informe_EPAR/index.html",
-    "href": "proyectos/2023_06_Informe_EPAR/index.html",
-    "title": "Informe abierto de la primera Encuesta con Perspectiva de Envejecimiento en la República Argentina",
-    "section": "",
-    "text": "En una iniciativa conjunta entre el Colectivo Gerontológico de ADISAC y el Núcleo de Innovación Social del Colegio de Sociólogos y Sociólogas de la Provincia de Buenos Aires (Ley 10.307), damos lugar al primer informe abierto de la Encuesta con Perspectiva de Envejecimiento de la República Argentina (EPEAR), una nueva herramienta para conocer el mundo de vida de las personas mayores en Argentina.\n\nEl primer documento de avance puede encontrarse aquíy es fruto del trabajo coordinado e interdisciplinario de profesionales de las ciencias sociales con especialistas de la salud mental y el campo gerontológico con el objetivo común de dar voz a un sujeto colectivo tradicionalmente relegado en las agendas públicas: la tercera edad.\n\nCon este valioso proceso de investigación y desarrollo el NIS avanza en una de sus misiones fundamentales que es la de proveer apoyo técnico/tecnológico a actores de la sociedad civil, allí donde sea convocado, para la articulación, la disrupción y la inovación a través del conocimiento social aplicado."
-  },
-  {
-    "objectID": "institucional.html",
-    "href": "institucional.html",
-    "title": " Nuestra Misión ",
-    "section": "",
-    "text": "Nuestra Misión \nPromover procesos de transformación y mejora colectiva\nBasándonos en el conocimiento, la innovación y la sostenibilidad.\n\n\n\nNuestros pilares\n\nTransformamos lo que se puede conocer\n\nTransformamos el conocimiento en acciones, soluciones y productos tecnológicos con impacto concreto y mensurable.\n\n\n\nIdeas basadas en evidencia para construir accionables\n\nAbarcamos una amplia gama de áreas de estudio, incluyendo la relación entre las personas y la tecnología, así como procesos políticos, económicos y culturales de alta complejidad.\n\n\n\nFormar para transformar\n\nDiseñamos procesos de aprendizaje constante promoviendo una lógica de crecimiento y desarrollo técnico en el campo de las ciencias sociales."
-  },
-  {
-    "objectID": "equipo.html",
-    "href": "equipo.html",
-    "title": " | Núcleo de Innovación Social",
-    "section": "",
-    "text": "Betsy Cohen\n \n\n\n\nAriana Bardauil"
-  },
-  {
-    "objectID": "equipo.html#coordinación",
-    "href": "equipo.html#coordinación",
-    "title": " | Núcleo de Innovación Social",
-    "section": "",
-    "text": "Betsy Cohen\n \n\n\n\nAriana Bardauil"
-  },
-  {
-    "objectID": "equipo.html#equipo",
-    "href": "equipo.html#equipo",
-    "title": " | Núcleo de Innovación Social",
-    "section": "Equipo",
-    "text": "Equipo\n\n\n\nAndrea Gómez Vargas\nConsultoría\n  \n\n\n\nCandela Fia\nMetodología e investigación\n  \n\n\n\nCristopher Cardarelli\nAnálisis de datos\n  \n\n\n\n\n\nEugenia Martino\nComunicación\n \n\n\n\nFlorencia Buschi\nDesarrollo Institucional\n \n\n\n\nGuadalupe Mercado\nFormación\n \n\n\n\n\n\nLautaro Perez\nAnalisis de datos\n \n\n\n\nLorena Upiachihua\nRelevamientos\n \n\n\n\nMarina Anderson\nDesarrollo Institucional  \n\n\n\n\n\nPaula Federico\nFormación\n \n\n\n\nVioleta Bardauil\nRelevamientos\n\n\n\n\nWalter González\nOpinión Pública"
-  },
-  {
-    "objectID": "equipo.html#fundador",
-    "href": "equipo.html#fundador",
-    "title": " | Núcleo de Innovación Social",
-    "section": "Fundador",
-    "text": "Fundador\n\n\n\n\nPedro Orden\nFounder"
-  },
-  {
-    "objectID": "cursos/intro_r.html",
-    "href": "cursos/intro_r.html",
-    "title": " | Núcleo de Innovación Social",
-    "section": "",
-    "text": "Introducción al análisis de datos con R para Ciencias Sociales\nDesde el NIS pensamos en un curso de introducción al análisis de datos con R desde y para las Ciencias Sociales.\nEstuvimos como vos: en ese momento en que quisimos procesar nuestros propios datos y no sabíamos por dónde empezar.\nSi te cansaste de usar Excel, SPSS o simplemente querés arrancar de cero, este curso es para vos.\nVas a aprender todo lo necesario para comenzar a analizar datos: - Manipulación y limpieza de datos - Visualización de datos con gráficos y mapas - Generación de informes HTML claros y atractivos\nSumate a la NIS Academy y aprendé a analizar tus datos con autonomía.\n\n\n\nModalidad y fechas\nEl curso tiene una duración de ocho encuentros virtuales, una vez por semana.\nOpciones de cursada:\n\nMartes de 18:30 a 20:30\nViernes de 18:30 a 20:30\n\nInicio: semana del 5 de agosto.\n\n\n\nInscripción\nEl curso tiene un costo de $70.000, que podés abonar por transferencia en un solo pago o en dos cuotas de $37.500.\nPara confirmar tu inscripción, completá el siguiente formulario y adjuntá el comprobante de pago:\nInscribirme al curso"
-  },
-  {
-    "objectID": "charlas.html",
-    "href": "charlas.html",
-    "title": "Formación, Charlas y actividades",
-    "section": "",
-    "text": "En el NIS llevamos a cabo diversas actividades relacionadas con nuestra misión: investigamos, desarrollamos y formamos.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPrimer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornadas del CFI\n\n\n\nPolitica de datos\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nJun 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR para la demografía social\n\n\n\nR\n\n\nEstadística\n\n\nRenBaires\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaller abierto de programación aplicada a datos electorales\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\nOpinion Pública\n\n\n\n\n\n\n\n\n\n\nNov 15, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nActividad abierta con la Carrera de Sociología de la Universidad de Mar del Plata\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJornadas sobre Prácticas Profesionales en Antropología\n\n\n\nSociologia\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nOct 12, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaller abierto de análisis de lenguaje natural\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRLadies+NIS llevan la EPh a Sociales\n\n\n\nR\n\n\nEstadística\n\n\nRLadies\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCiencias Sociales aplicadas, Data y Opinión Pública\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\nOpinion Pública\n\n\n\n\n\n\n\n\n\n\nAug 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProcesando datos de encuestas con R\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nMay 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR en 90 minutos\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nMay 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaller abierto de Sports Analytics con R\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nNov 2, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaller abierto: “Creando informes en R con Quarto”\n\n\n\nR\n\n\nEstadística\n\n\nCharlas\n\n\n\n\n\n\n\n\n\n\nJul 21, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "charlas/2024-10_r_para_demo/index.html",
-    "href": "charlas/2024-10_r_para_demo/index.html",
-    "title": "R para la demografía social",
-    "section": "",
-    "text": "Los y las invitamos a participar del taller titulado “R para la demografía social: un taller aplicado a la EPH”, organizado por la Cátedra de Demografía Social de la Licenciatura en Ciencia Política de la Universidad Nacional de La Matanza (UNLaM), la Secretaría de Ciencia y Tecnología de la UNLaM, R en Buenos Aires y el Núcleo de Innovación Social (NIS).\nDurante este encuentro, se explorarán las herramientas que ofrece el software R para el análisis sociodemográfico en el entorno de ciencia de datos, con un enfoque especial en el uso de diversos paquetes que facilitan el trabajo en este campo.\nExpositoras:\nBetsy Cohen\nAndrea Gómez Vargas\nFecha y hora: Martes 29 de octubre, a las 18:00 hs.\nLugar: Auditorio de la Biblioteca de la Universidad Nacional de La Matanza.Dirección: Florencio Varela 1903, B1754 San Justo, Provincia de Buenos Aires.\nSe recomienda a quienes deseen realizar la práctica en vivo, traer sus computadoras. Previo al taller, se enviarán las instrucciones para la instalación del software."
-  },
-  {
-    "objectID": "charlas/2023_09_r_para_demo_uba/index.html",
-    "href": "charlas/2023_09_r_para_demo_uba/index.html",
-    "title": "RLadies+NIS llevan la EPh a Sociales",
-    "section": "",
-    "text": "Andrea Gómez y Betsy Cohen, guiaron a los más de 100 inscriptos en una experiencia de programación hands on con tres paquetes del lenguaje de código abierto R: EPH, Tidyverse y GT.\nLa actrividad organizada en conjunto desde RLadies y el NIS contó con el apoyo de los Colegios Profesionales de Sociología de CABA y PBA, así como de las autoridades de la Carrera de Sociología UBA.\nLa actividad tuvo como objetivo elaborar descargar diractamente desde R las bases de EPH, realizar una serie de pasos de limpieza de datos y disponibilizarlos en una tabla en HTML.\nTodo el material (incluyendo slides y ejercicios) está disponible en el micrositio del Taller https://eph-ubasociales.netlify.app/"
-  },
-  {
-    "objectID": "charlas/2023-12_progra_datos_electorales/index.html",
-    "href": "charlas/2023-12_progra_datos_electorales/index.html",
-    "title": "Taller abierto de programación aplicada a datos electorales",
-    "section": "",
-    "text": "El martes 14 de noviembre, se llevó a cabo la última clase abierta de programación hands-on del año, enfocada en el análisis de datos electorales utilizando R. Esta sesión fue coorganizada por la Carrera de Sociología de la UBA y contó con la participación activa del Lic. Pedro Damian Orden, Director del Núcleo de Innovación Social.\n\nEl evento nucleó a estudiantes, académicos y profesionales interesados en el cruce entre la ciencia de datos y las ciencias sociales. el Lic. Orden inició la clase destacando la importancia de R como herramienta para el análisis científico en sociología, especialmente para el manejo de grandes conjuntos de datos.\nLa sesión se centró en el procesamiento y análisis de los microdatos de las Elecciones Generales 2023, obtenidos del portal del Estado Nacional. Los participantes trabajaron con volúmenes de datos desafiantes, demostrando la capacidad de R para superar las limitaciones de herramientas más convencionales.\nUna parte clave de la clase se dedicó al paradigma tidy y el uso del Tidyverse en R, mostrando cómo una estructura de datos bien organizada puede simplificar significativamente el análisis de datos. Los asistentes aplicaron técnicas de filtrado, transformación y resumen de datos, además de explorar métodos de visualización efectiva.\nEl evento culminó con la invitación a los participantes a seguir explorando los recursos y el código abierto proporcionado en el blog de Lic. Orden. La clase fue un ejemplo claro de la sinergia entre la ciencia de datos y la sociología, ofreciendo herramientas y conocimientos valiosos para el análisis de fenómenos sociales complejos.\nLa coorganización con la Carrera de Sociología de la UBA fue fundamental para el éxito de la actividad, reflejando un esfuerzo colaborativo para integrar la ciencia de datos en el estudio de las ciencias sociales."
-  },
-  {
-    "objectID": "charlas/2023-08_cs_soc_y_op/index.html",
-    "href": "charlas/2023-08_cs_soc_y_op/index.html",
-    "title": "Ciencias Sociales aplicadas, Data y Opinión Pública",
-    "section": "",
-    "text": "El Núcleo de Innovación Social (NIS), en su continua búsqueda de promover la integración de las ciencias sociales con la tecnología, organizó recientemente una actividad que fusionó el análisis político con avanzadas técnicas de programación. La misma fue llevada a cabo por el reconocido sociólogo y científico de datos, el Lic. Walter González.\nDurante el encuentro, el Lic. González compartió su extensa experiencia y conocimientos en el análisis de encuestas de opinión pública y su representación en los medios de comunicación, utilizando el lenguaje de programación R. Su presentación no solo ofreció insights valiosos sobre la interpretación y el manejo de datos en el ámbito público, sino que también demostró cómo las herramientas de programación pueden ser aplicadas de manera efectiva en la investigación social.\nLa jornada fue moderada por el Lic. Pedro D. Orden (Mat. Prof. N° 304), presidente del Colegio de Sociólogos de la Provincia de Buenos Aires y Coodinador del Núcleo de Innovación Social, quien subrayó la importancia de este tipo de eventos en la promoción y visibilización del trabajo sociológico en campos interdisciplinarios.\nEl objetivo de esta y otras jornadas organizadas por el NIS es doble: por un lado, generar espacios de divulgación de las acciones y trabajos realizados por colegas en el campo de la Sociología; y por otro, socializar herramientas de programación y técnicas avanzadas que amplíen la comprensión sobre la empleabilidad y las aplicaciones prácticas de nuestra disciplina.\nEste encuentro es un claro ejemplo de cómo la sociología, en combinación con la ciencia de datos, puede crear nuevas narrativas y enfoques en el estudio de fenómenos sociales complejos. El NIS se enorgullece de ser un facilitador de estos espacios de aprendizaje e intercambio, contribuyendo al desarrollo profesional continuo de sociólogos y sociólogas.\nPara quienes no pudieron asistir, compartimos el video evento. Invitamos a todos los interesados a ver esta interesante presentación y a sumarse a futuras jornadas que continúan explorando los límites y posibilidades de las ciencias sociales en el mundo contemporáneo."
-  },
-  {
-    "objectID": "charlas/2022_11_taller_sports_analytics/index.html",
-    "href": "charlas/2022_11_taller_sports_analytics/index.html",
-    "title": "Taller abierto de Sports Analytics con R",
-    "section": "",
-    "text": "En el marco de un nuevo taller abierto de programación en vivo, el viernes 11 de noviembre entre las 18:30 y 19:30 hs (hora argentina) llevaremos adelante vía streaming una experiencia de trabajo en vivo con datos deportivos. La propuesta del encuentro es indagar grupalmente, y de manera aplicada, técnicas y lógicas para la recopilación, exploración y visualización de grandes volúmenes de datos.\nLos talleres abiertos son espacios de difusión y socialización experiencias profesionales relacionadas con el mundo de los datos, creados para hacer y experimentar con las tecnologías del momento, y construir así nuevos saberes aplicables a otros procesos de trabajo y/o investigación.\nEl ingreso al taller es libre pero con espacios limitados por orden de llegada y requiere una pre inscripción en el siguiente enlace. Quienes se inscriban, el día de la actividad recibirán un link con un acceso para participar del Zoom del taller.\nInvitan y acompañan la actividad: Núcleo de Innovación Social, Colegio de Sociólogos y Sociólogas de la Provincia de Buenos Aires, Consejo de Profesionales en Sociología y la Asociación de Sociólogos de la República Argentina."
-  },
-  {
-    "objectID": "charlas/2022_07_taller_quarto/index.html",
-    "href": "charlas/2022_07_taller_quarto/index.html",
-    "title": "Taller abierto: “Creando informes en R con Quarto”",
-    "section": "",
-    "text": "El pasado viernes 29 de julio, de 18:30 a 19:30 hs., llevamos adelante el taller abierto “Creando informes en R con Quarto”, una actividad de actualización técnica orientada a profesionales de las ciencias sociales, pero abierta a cualquier persona interesada en participar de la experiencia.\nLa propuesta consistió en explorar paso a paso el sistema de publicación Quarto, destacándolo como una herramienta esencial para comunicar procesos de análisis generados en R. Durante la actividad, se introdujo al público en conceptos clave como la replicabilidad, la iteración y la mejora continua.\nEl encuentro fue presentado y coordinado por el Lic. Pedro Orden, Sociólogo (UBA) y Científico de Datos. Si bien no se requirieron conocimientos avanzados de programación, fue necesario contar con una idea general de R y tener RStudio instalado en las computadoras para poder replicar los ejercicios propuestos en el taller.\nLa actividad fue libre y gratuita, organizada por el Núcleo de Innovación Social con el apoyo de los Colegios Profesionales de Sociología de la Provincia y Ciudad de Buenos Aires y la Asociación de Sociólogos de la República Argentina.\nAgradecemos a todas y todos los participantes por sumarse y compartir este espacio de aprendizaje e intercambio.\nPonemos a disposición del público el video del taller abierto para profesionales de las ciencias sociales orientado a la creación de informes con R y Quarto, llevado adelante el pasado viernes 29 de julio en vivo vía Zoom.\nLos materiales de cursada y bases de datos se encuentrán abiertos y pueden consultarse en github."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Nuestra historia",
-    "section": "",
-    "text": "El Núcleo de Innovación Social (NIS) comenzó como un laboratorio de tecnología social en 2017, gracias a la colaboración entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.\nEn sus inicios, el NIS se centró en conectar a los profesionales de la sociología involucrados en tecnología y en organizar jornadas de programación. Con el tiempo, el laboratorio se consolidó, expandiendo su campo de acción hacia áreas estratégicas como Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías.\nUna característica distintiva del NIS es su estructura descentralizada, lo que permite una mayor flexibilidad y colaboración entre diferentes actores. Este enfoque innovador y colaborativo continúa marcando la diferencia en todos nuestros proyectos."
-  },
-  {
-    "objectID": "about.html#el-nis-en-el-tiempo",
-    "href": "about.html#el-nis-en-el-tiempo",
-    "title": "Nuestra historia",
-    "section": "El NIS en el tiempo",
-    "text": "El NIS en el tiempo\nNació en 2017 como un esfuerzo colaborativo entre la Comisión Interinstitucional de Ciencia y Tecnología del Colegio de Sociólogos de la Provincia de Buenos Aires, el Consejo de Profesionales de Sociología y la Asociación de Sociólogos y Sociólogas de la República Argentina.\nDesde su creación, el NIS se ha enfocado en promover la integración de las ciencias sociales con las tecnologías emergentes, buscando crear soluciones innovadoras que aborden los problemas más complejos de nuestra sociedad.\nA lo largo de los años, el NIS ha evolucionado para convertirse en un referente en áreas clave como Ciencia de Datos, Inteligencia Artificial, Diseño de Experiencias y Cripto Tecnologías. Nos enorgullece ser un espacio descentralizado que fomenta el trabajo interdisciplinario, facilitando la colaboración entre profesionales de diversas áreas y disciplinas.\nHoy en día, el NIS continúa impulsando el intercambio de conocimientos y la cooperación entre la tecnología y las ciencias sociales. Nuestro objetivo es generar nuevas preguntas y respuestas para los desafíos contemporáneos, utilizando la innovación social como motor de cambio."
-  },
-  {
-    "objectID": "charlas/2022_09_procesando_datos_encuestas/index.html",
-    "href": "charlas/2022_09_procesando_datos_encuestas/index.html",
-    "title": "Procesando datos de encuestas con R",
-    "section": "",
-    "text": "En el marco del ciclo de talleres abiertos del NIS orientados a la actualización técnico profesional, presentamos una nueva actividad denominada: Procesando datos de encuestas con R.\nEn esta oportunidad nos encontramos para conocer desde adentro cómo es un flujo de trabajo en el procesamiento de datos de encuestas utilizando el lenguaje de programación R y su par Rstudio. Vamos a programar en vivo, partiendo de un caso real de sondeo, que procuraremos bajar a nuestras computadoras, explorar y graficar. Para esto último utilizaremos ggplot2 y presentaremos esquisse, un paquete de R que simplifica la visualización.\nEl evento se llevará a cabo el próximo viernes 16 de septiembre, de 18:30 a 19:30 vía Zoom. Coordina y presenta elLic. Pedro Orden, Sociólogo (UBA) y Científico de Datos.\nLa actividad es libre y gratuita, organizada por el Núcleo de Innovación Social con el apoyo de los colegios Profesionales de Sociología de laProvincia yCiudad de Buenos Aires y laAsociación de Sociólogos de la República Argentina.\nLa experiencia no requiere mayores conocimientos en programación, pero a los fines de poder replicar los ejercicios en tiempo real se debería manejar unaidea general de R, y tener RStudio instalado en la computadora.\n\nPara participar del taller sólo es necesario completar el siguiente formulario, el viernes 16 una hora antes del evento, quienes se hayan inscripto recibirán un mail con el ingreso al taller."
-  },
-  {
-    "objectID": "charlas/2022_12_taller_NLP/index.html",
-    "href": "charlas/2022_12_taller_NLP/index.html",
-    "title": "Taller abierto de análisis de lenguaje natural",
-    "section": "",
-    "text": "El miércoles 21 de diciembre, entre las 18:30 y las 19:30 hs., realizamos el último taller abierto del año, un espacio orientado a introducir conocimientos básicos sobre el Análisis de Lenguaje Natural (NLP). Esta disciplina, enraizada en la lingüística computacional y aplicada en campos como las ciencias de la computación, la ingeniería y la inteligencia artificial, es hoy una herramienta fundamental para las y los cientistas sociales contemporáneos.\nDurante el encuentro, presentamos un contexto general del NLP, repasamos la escena productiva actual y nos enfocamos en una implementación inicial de técnicas de procesamiento de texto utilizando R. Bajo la modalidad de codeo en vivo, aplicamos estas herramientas a la exploración de los subtítulos de una película mundialmente famosa (sorpresa incluida), lo que permitió a las y los participantes experimentar de manera práctica con las tecnologías del momento.\nLos talleres abiertos son espacios creados para la difusión y socialización de experiencias profesionales en el mundo de los datos. Su objetivo es fomentar el aprendizaje, la experimentación y la construcción de nuevos saberes aplicables a procesos de trabajo e investigación.\nAcompañaron e invitaron a esta actividad: el Núcleo de Innovación Social, el Colegio de Sociólogos y Sociólogas de la Provincia de Buenos Aires, el Consejo de Profesionales en Sociología y la Asociación de Sociólogos de la República Argentina."
-  },
-  {
-    "objectID": "charlas/2023-11_actividad_uni_mdq/index.html",
-    "href": "charlas/2023-11_actividad_uni_mdq/index.html",
-    "title": "Actividad abierta con la Carrera de Sociología de la Universidad de Mar del Plata",
-    "section": "",
-    "text": "El 27 de octubre pasado, participamos de una jornada abierta en la Facultad de Humanidades de la Universidad Nacional de Mar del Plata bajo el título “Sociología y Big Data: Explorando Nuevos Horizontes Profesionales y Análisis Electoral en Argentina”. En este evento se analizó el impacto de la programación y el análisis de datos en el campo de la sociología. Por el NIS Pedro Orden, Director y Fundador del Núcleo de Innovación Social, Coordinador de Data & Audiencias en Infobae, y expresidente del Colegio de Sociólogos de la Provincia de Buenos Aires (2017-2023). Pedro Orden, con su experiencia en la intersección de datos y sociología, proporcionó una visión experta de las oportunidades emergentes en la disciplina.\nLa videoconferencia contó con la moderación de Carolina Tavano, docente del Departamento de Sociología, y Fermín Rodriguez, estudiante de la carrera de Sociología. Ambos desempeñaron un papel fundamental en las discusiones y las preguntas de la audiencia.\nEduardo Chávez Molina, Director del Departamento de Sociología, inauguró el evento, destacando la importancia de los temas a tratar y la necesidad de explorar nuevas dimensiones de la sociología en la era digital.\nLa primera parte del evento se centró en la transformación del campo profesional de la sociología con la irrupción de Big Data. Los temas clave incluyeron:\n\nBig Data y Sociología Profesional: Pedro Orden compartió su experiencia y reflexiones sobre cómo el acceso a datos masivos está redefiniendo las prácticas profesionales en sociología.\nHabilidades en Programación: Se destacó la creciente demanda de habilidades en programación y análisis de datos en el mercado laboral de los sociólogos.\nPerspectivas Futuras: Los panelistas debatieron cómo esta convergencia entre sociología y tecnología está moldeando el futuro de la disciplina.\n\nLa segunda parte del evento consistió en una actividad práctica de codificación con datos reales de las elecciones generales de 2023 en Argentina. Los participantes tuvieron la oportunidad de aplicar conceptos de programación y análisis de datos a un caso electoral real.\nLos códigos para replicar la actividad del video los encuentran en github"
-  },
-  {
-    "objectID": "charlas/2023_05_R_en_90_minutos/index.html",
-    "href": "charlas/2023_05_R_en_90_minutos/index.html",
-    "title": "R en 90 minutos",
-    "section": "",
-    "text": "El pasado miércoles 17 de mayo en el aula 300 de la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on R en 90 minutos, la cual fue organizada por la Carrera de Sociología y contó con el apoyo de los Colegios Profesionales de Sociología de CABA y PBA.\nLa actividad tuvo como objetivo llevar adelante una primera inmersión en vivo, para los y las estudiantes, en el mundo de la programación aplicada al analisis de datos, utilizando el lenguaje de código abierto R. La misma estuvo a cargo de tres miembros del NIS, egresadxs de la carrera y reprentantes de los Colegios Profesionales: Betsabé Cohen, Alejandro González y Pedro Damian Orden\nLos materiales del curso estan subidos a github para su consulta y descarga pública."
-  },
-  {
-    "objectID": "charlas/2023_10_jornadas_antropo/index.html",
-    "href": "charlas/2023_10_jornadas_antropo/index.html",
-    "title": "Jornadas sobre Prácticas Profesionales en Antropología",
-    "section": "",
-    "text": "El mundo de las ciencias sociales se encuentra en constante evolución, y las tecnologías desempeñan un papel crucial en este proceso. El pasado 11 de cotubre tuvimos el privilegio de participar en un muy interesante stream junto al Colegio de Graduados en Antropología de la República Argentina, en el marco de las III Jornadas sobre Prácticas Profesionales en Antropología. Durante esta enriquecedora conversación, exploramos las intersecciones entre tecnología, trabajo y el futuro de las ciencias sociales.\nUno de los temas destacados en el evento fue la influencia de la tecnología en la investigación y práctica de la antropología. La capacidad de acceder a grandes cantidades de datos y utilizar herramientas de análisis avanzadas está transformando la forma en que los antropólogos abordan sus investigaciones. Esto abre nuevas posibilidades para comprender mejor las dinámicas sociales y culturales en un mundo cada vez más interconectado.\nLa conversación también abordó el impacto de las tecnologías en el mercado laboral de las ciencias sociales. Se discutió cómo las habilidades digitales y la adaptación a entornos tecnológicos se han vuelto esenciales para los profesionales en este campo. La capacidad de utilizar herramientas tecnológicas para recopilar y analizar datos es una ventaja significativa en el mercado laboral actual.\nEsta conversación proporciona valiosas perspectivas sobre el futuro de las ciencias sociales en un mundo impulsado por la tecnología. Para las personas interesadas en explorar más a fondo estos temas, compartimos el registro al video de la actividad aquí."
-  },
-  {
-    "objectID": "charlas/2025-06_charla_CFI/index.html",
-    "href": "charlas/2025-06_charla_CFI/index.html",
-    "title": "Primer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornadas del CFI",
-    "section": "",
-    "text": "El Núcleo de Innovación Social (NIS) participó de las Primeras Jornadas de Integración organizadas en el marco del Programa Federal de Formación en Industrias Culturales e Innovación del Consejo Federal de Inversiones (CFI). El evento reunió a representantes de las áreas de cultura de las 24 provincias argentinas, consolidándose como un espacio clave de intercambio y proyección federal.\n\n\n\nFotos: Cortesía Consejo Federal de Inversiones.\n\n\nJunto a representantes de las áreas de cultura que presentaron sus iniciativas en políticas culturales, nuestra coordinadora, Betsy Cohen, fue parte de una conversación junto a Cynthia Edul —directora de la Maestría en Gestión de la Cultura y coordinadora de Paraíso, un club de artes escénicas— y Leopol Mones Cazón —galerista y marchante de Isla Flotante—. El diálogo propuso miradas diversas desde la práctica artística, la gestión cultural y el análisis de políticas públicas, con el objetivo de trazar un primer diagnóstico colectivo e informal sobre las iniciativas que podrían escalarse territorialmente y a nivel federal.\nLas jornadas, impulsadas por la Escuela Federal de Desarrollo del CFI, incluyeron clases, talleres, dinámicas grupales, visitas y espacios de aprendizaje situados. Un recorrido que busca potenciar el enfoque federal desde la reflexión compartida y el trabajo conjunto.\n\n\n\nFotos: Cortesía Consejo Federal de Inversiones.\n\n\nEl encuentro tuvo lugar el miércoles 21 de mayo en el Observatorio UNESCO - Villa Ocampo, antigua residencia de la escritora Victoria Ocampo. Un sitio cargado de historia y patrimonio, cuya biblioteca de más de once mil volúmenes guarda dedicatorias manuscritas de figuras como Pablo Neruda, Aldous Huxley y Alejandra Pizarnik. Ideal para pensar la cultura como legado y también como horizonte.\nAdemás, el NIS seguirá participando en este programa con dos clases magistrales previstas para agosto. En ellas abordaremos la producción editorial federal y el desarrollo de herramientas basadas en evidencia para su diseño e implementación desde políticas públicas.\n\n\n\nFotos: Cortesía Consejo Federal de Inversiones."
-  },
-  {
-    "objectID": "contacto.html",
-    "href": "contacto.html",
-    "title": "📬 Contactanos",
-    "section": "",
-    "text": "Si necesitás de nuestros servicios, querés participar o tenés una propuesta de investigación, no dudes en consultarnos.\n\n📩 info@nucleodeinnovacion.com"
-  },
-  {
     "objectID": "cursos.html",
     "href": "cursos.html",
     "title": "NIS Academy",
@@ -231,59 +7,24 @@
     "text": "Explora, aprende, transforma: Cursos prácticos para potenciar tus habilidades en datos.\n\n\n\n\n\nIntroducción al Análisis de Datos con R\n\nUn curso hecho desde y para las ciencias sociales\n\nAprenderás manipulación de datos, limpieza, visualización, gráficos y armado de documentos con R\n\nARS$70.000\n\nVer curso"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "¡Bienvenidos al Núcleo de Innovación Social!",
+    "objectID": "cursos/intro_r.html",
+    "href": "cursos/intro_r.html",
+    "title": " | Núcleo de Innovación Social",
     "section": "",
-    "text": "¡Bienvenidos al Núcleo de Innovación Social!\n\n\nSomos un laboratorio de trabajo con un enfoque multidisciplinario, arraigado en las ciencias sociales.\nCreamos iniciativas de investigación, desarrollo y formación generando insights accionables basados en evidencia.\nNuestra misión es promover procesos de transformación y mejora colectiva basados en el conocimiento, la innovación y la sostenibilidad.\n\n\n\n\n\n\n\n\n\n\n ¿Qué hacemos? \n\n\n🎤 Workshops y capacitaciones\n\n\n🧼 Limpieza y normalización de datos\n\n\n📊 Modelado estadístico\n\n\n📖 Data storytelling interactivo\n\n\n📈 Indicadores de gestión y producción\n\n\n🏗️ Gestión de datos e información\n\n\n📝 Encuestas online\n\n\n📄 Informes ad-hoc\n\n\n\n\n\nAccedé a nuestros cursos y capacitaciones\n\n\nPotenciá tus habilidades con nuestras formaciones en ciencias sociales computacionales\n\nVer cursos y capacitaciones\n\n\nNovedades\n\n\n\n\n\n\n\n\n\n\n\nPrimer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornadas del CFI\n\n\n\n\n\n\n\n\n\nJun 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInforme de Producción Anual del Libro Argentino 2024\n\n\n\n\n\n\n\n\n\nMay 20, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMonitor de Ministros de Seguridad en los Medios: Seguimiento en Tiempo Real\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Desde el NIS pensamos en un curso de introducción al análisis de datos con R desde y para las Ciencias Sociales.\nEstuvimos como vos: en ese momento en que quisimos procesar nuestros propios datos y no sabíamos por dónde empezar.\nSi te cansaste de usar Excel, SPSS o simplemente querés arrancar de cero, este curso es para vos.\nVas a aprender todo lo necesario para comenzar a analizar datos: - Manipulación y limpieza de datos - Visualización de datos con gráficos y mapas - Generación de informes HTML claros y atractivos\nSumate a la NIS Academy y aprendé a analizar tus datos con autonomía."
   },
   {
-    "objectID": "proyectos/2023_12_anuario_2023/index.html",
-    "href": "proyectos/2023_12_anuario_2023/index.html",
-    "title": "Anuario NIS 2023",
-    "section": "",
-    "text": "Como cada año, les ofrecemos un resumen de las actividades más significativas llevadas a cabo por el Núcleo de Innovación Social en 2023.\n\nEste informe destaca nuestros logros en las áreas clave: investigación, formación y construcción de redes. En cada una de estas, hemos alcanzado importantes avances, tanto en la amplitud como en la calidad de nuestras acciones.\nNos llena de orgullo haber contribuido otro año más al desarrollo de las ciencias sociales aplicadas. Queremos agradecer especialmente a los colectivos con los que hemos articulado por confiar en nuestro conocimiento y por ser parte esencial de esta historia.\nFeliz 2024 a todos y todas.\nVisita el informe aquí"
+    "objectID": "cursos/intro_r.html#docentes",
+    "href": "cursos/intro_r.html#docentes",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Docentes",
+    "text": "Docentes\n\n\n\nAriana Bardauil\n\nPolitóloga (UNLaM) y candidata a magíster en Generación y Análisis de la Información Estadística (UNTREF). Docente en UFLO y UNLaM. Data scientist en el Ministerio de Salud (GCBA). Co-organizadora de R en Buenos Aires y coordinadora del Núcleo de Innovación Social.\n\n\n\nBetsy Cohen\n\nSocióloga (UBA), diplomada en Gestión y Políticas Culturales (IDAES-UNSAM). Maestranda en Generación y Análisis de la Información Estadística (UNTREF). Miembro de RLadies Buenos Aires. Experta en industrias creativas y políticas públicas, con experiencia en estadísticas editoriales y opinión pública.\n\n\n\nJoaquín Lovizio Ramos\n\nPolitólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios.\n\n\n\nJuan Esteban Barriola\n\nSociólogo (UBA) y magíster en Generación y Análisis de la Información Estadística (UNTREF). Especialista en análisis de datos con R y Python, visualización y automatización de reportes. Experiencia en análisis aplicado a políticas públicas y proyectos en educación y comunicación política."
   },
   {
-    "objectID": "proyectos/2024_07_EPAR/index.html",
-    "href": "proyectos/2024_07_EPAR/index.html",
-    "title": "Lanzamos la EPEAR 2024",
-    "section": "",
-    "text": "El Colectivo Gerontológico ADISAC y el Núcleo de Innovación Social (NIS) anuncian la realización de la segunda edición de la Encuesta con Perspectiva de Envejecimiento (EPEAR). Este estudio tiene como objetivo relevar la situación de las personas adultas mayores en Argentina de manera federal, ofreciendo una visión detallada y abarcativa de sus condiciones de vida, derechos y necesidades.\n\nLa Encuesta con Perspectiva de Envejecimiento (EPEAR) busca recopilar datos precisos y actualizados que permitirán la elaboración de propuestas y políticas públicas orientadas a mejorar la calidad de vida de las personas mayores en nuestro país. Esta información será fundamental para la construcción de una agenda integral de acciones en favor de este colectivo.\nLa encuesta estará disponible en formato online hasta el 9 de julio de 2024. Los resultados del estudio serán procesados y compartidos en nuestras páginas institucionales progresivamente.\nPara más información y acceso a la encuesta, se puede visitar el siguiente enlace\nLos resultados de la primera edición pueden consultarse aquí.\nAgradecemos de antemano la colaboración de todas las personas que participen, ya que su aporte será esencial para mejorar las condiciones de vida de las personas mayores en Argentina."
-  },
-  {
-    "objectID": "proyectos/2024_11_informe_avance_EPEAR/index.html",
-    "href": "proyectos/2024_11_informe_avance_EPEAR/index.html",
-    "title": "Informe de Avance EPEAR 2024",
-    "section": "",
-    "text": "El Núcleo de Innovación Social (NIS), en conjunto con el Colectivo Gerontológico de ADISAC y el Instituto de Estudios y Formación de la CTA, ha publicado la segunda edición de la Encuesta con Perspectiva de Envejecimiento (EPEAR) 2024, un estudio dedicado a comprender las condiciones de vida de las personas mayores en Argentina. Este informe se centra en uno de los temas más urgentes: los cuidados y la calidad de vida de este sector de la población.\nEl envejecimiento trae consigo desafíos específicos en materia de cuidados, tanto a nivel personal como institucional. La encuesta revela que muchas personas mayores dependen de cuidados esenciales que no siempre están garantizados, lo que plantea la necesidad de fortalecer los servicios de asistencia y apoyo para este grupo etario. En este sentido, el estudio busca abrir un espacio de reflexión sobre cómo mejorar la calidad de esos cuidados.\nLa calidad de vida de las personas mayores está íntimamente relacionada con la provisión de cuidados. Las personas mayores que requieren asistencia para realizar tareas cotidianas, como la limpieza, el traslado o la alimentación, a menudo dependen de familiares o cuidadores no remunerados. Esta situación no solo afecta su bienestar, sino que también genera una carga significativa sobre sus seres queridos. El informe destaca la importancia de avanzar hacia un sistema de cuidados más accesible y equitativo.\n\nUno de los puntos críticos abordados por el informe es la soledad no deseada, que afecta a muchas personas mayores que viven solas o que no reciben el acompañamiento adecuado. Esta situación, agravada en los últimos años, genera un impacto negativo en la salud emocional y física de las personas mayores. Es necesario, entonces, crear políticas que fomenten redes de apoyo y programas de acompañamiento para quienes más lo necesitan.\nEn este contexto, el informe EPEAR 2024 pone en relieve la importancia de que las personas mayores participen activamente en la definición de sus propios cuidados. La encuesta recoge sus voces y experiencias, subrayando que es fundamental promover una cultura de cuidado basada en el respeto y la dignidad. Esto implica tanto un compromiso de las instituciones como de la sociedad en su conjunto.\nLa calidad de vida en la vejez no debe ser vista únicamente desde una perspectiva económica, sino también desde un enfoque integral que contemple el acceso a servicios de cuidado de calidad, el bienestar emocional y la participación social. En este sentido, el NIS, junto con sus organizaciones aliadas, apuesta por un envejecimiento saludable y activo, donde las personas mayores puedan ejercer plenamente sus derechos y vivir con dignidad.\n\nEste informe, fruto de un esfuerzo colaborativo interdisciplinario, busca ser una herramienta clave para que decisores políticos, instituciones y la sociedad civil tomen acciones concretas que mejoren los servicios de cuidados. Es imperativo garantizar que las personas mayores reciban el apoyo que necesitan para vivir plenamente, respetando su autonomía y promoviendo su bienestar en todas las etapas de la vida.\nFinalmente, el informe EPEAR 2024 aspira a abrir un nuevo capítulo en el abordaje de los cuidados en Argentina, donde la calidad de vida de las personas mayores se convierta en una prioridad en la agenda pública, asegurando así un futuro más justo y equitativo para todos.\nTe invitamos a leer el primer documento aquí"
-  },
-  {
-    "objectID": "proyectos/2024_12_resultados_encusta_cal/index.html",
-    "href": "proyectos/2024_12_resultados_encusta_cal/index.html",
-    "title": "Resultados de la encuesta del sector del libro",
-    "section": "",
-    "text": "La Cámara Argentina del Libro (CAL), en conjunto con el Núcleo de Innovación Social (NIS) del Colegio de Sociólogos de la Provincia de Buenos Aires, presentó el informe de ventas del sector editorial argentino basado en una encuesta realizada en agosto de 2024, con la participación de 95 empresas del sector.\n\nEntre los principales hallazgos se observó que\n\nParticipación por actividad: Más del 90% de las empresas encuestadas se dedican a la venta en librerías y la edición de libros. Concentración geográfica: El 73% de las empresas se ubican en Ciudad y Provincia de Buenos Aires.\nEstructura empresarial: La mayoría de las empresas tienen menos de 10 empleados, reflejando una operación en pequeña escala.\nFacturación: El 27% factura entre 100 y 499 millones anuales, siendo este el rango más representativo.\nTendencias de ventas: Las librerías muestran un impacto prolongado en la caída de ingresos, con un 94% reportando disminuciones en el primer semestre de 2024 comparado con 2023. Por su parte, las editoriales presentan una caída interanual del 36% en sus ventas mayores al 26%.\nExpectativas del sector: El 80% de las empresas perciben una caída en la demanda interna como su mayor desafío, sumado al aumento en los costos de producción y distribución. A pesar de este panorama, las empresas mantienen expectativas moderadas, enfocadas en adaptarse a los cambios del mercado y fortalecer sus estrategias comerciales.\n\n\nColaboración técnica: El informe fue desarrollado utilizando R, asegurando estándares de anonimización y reproducibilidad en el marco de un convenio entre la CAL y el NIS, promoviendo la transparencia y el fortalecimiento del sector editorial.\nEste análisis busca aportar herramientas estratégicas para enfrentar los desafíos del mercado y fomentar el desarrollo del sector del libro argentino.\nEl informe completo ya puede leerse aquí"
-  },
-  {
-    "objectID": "proyectos/2025_05_informe_isbn/index.html",
-    "href": "proyectos/2025_05_informe_isbn/index.html",
-    "title": "Informe de Producción Anual del Libro Argentino 2024",
-    "section": "",
-    "text": "Ya está disponible el nuevo informe sobre la Producción del Libro Argentino 2024, elaborado a partir de los registros del ISBN Argentina gestionados por la Cámara Argentina del Libro. Este análisis nos permite conocer las principales tendencias de la industria editorial en el país.\n\n\nEl ISBN (International Standard Book Number) es un sistema internacional que identifica de forma única a cada libro publicado. En Argentina, los datos provienen de los registros declarados por editoras y editoriales, lo que permite saber qué, cuándo y dónde se publican libros en nuestro país."
-  },
-  {
-    "objectID": "proyectos/2025_05_informe_isbn/index.html#producción-del-libro-argentino-2024",
-    "href": "proyectos/2025_05_informe_isbn/index.html#producción-del-libro-argentino-2024",
-    "title": "Informe de Producción Anual del Libro Argentino 2024",
-    "section": "",
-    "text": "Ya está disponible el nuevo informe sobre la Producción del Libro Argentino 2024, elaborado a partir de los registros del ISBN Argentina gestionados por la Cámara Argentina del Libro. Este análisis nos permite conocer las principales tendencias de la industria editorial en el país.\n\n\nEl ISBN (International Standard Book Number) es un sistema internacional que identifica de forma única a cada libro publicado. En Argentina, los datos provienen de los registros declarados por editoras y editoriales, lo que permite saber qué, cuándo y dónde se publican libros en nuestro país."
-  },
-  {
-    "objectID": "proyectos/2025_05_informe_isbn/index.html#principales-hallazgos-del-informe",
-    "href": "proyectos/2025_05_informe_isbn/index.html#principales-hallazgos-del-informe",
-    "title": "Informe de Producción Anual del Libro Argentino 2024",
-    "section": "Principales hallazgos del informe",
-    "text": "Principales hallazgos del informe\n\n🔍 Publicaciones en el Sector Editorial Comercial\nEn 2024, se registraron 10.104 novedades en el Sector Editorial Comercial (SEC), que abarca principalmente a las publicaciones destinadas a librerías. Esto representa una caída del 7% respecto al año anterior en cuanto al número de publicaciones, y una baja del 14% en los ejemplares declarados para primera edición.\nSin embargo, no todos los actores del sector se comportan igual:\n\nLos grandes grupos editoriales declaran tiradas más altas, con un valor típico de 2000 ejemplares.\nLas pequeñas y medianas editoriales (pymes) tienden a registrar tiradas de alrededor de 1000 ejemplares.\n\n\n\n📍 Concentración geográfica\nLa producción editorial sigue fuertemente concentrada en la Ciudad Autónoma de Buenos Aires, que representa el 57% del total de publicaciones del SEC. Le siguen:\n\nProvincia de Buenos Aires: 18%\nCórdoba: 8%\nSanta Fe: 4%\nResto del país: 13%\n\n📎 Accedé al informe completo acá: Informe de Producción Anual del Libro Argentino 2024"
+    "objectID": "cursos/intro_r.html#tutores",
+    "href": "cursos/intro_r.html#tutores",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Tutores",
+    "text": "Tutores\n\n\n\nCandela Fia\nEstudiante avanzada de Ciencia Política (UNLaM) y becaria de investigación en participación y políticas públicas. Analista de datos en el Núcleo de Innovación Social.\n\n\n\nCristopher Cardarelli\nLicenciado en Ciencia Política (UNLaM), diplomado en análisis de datos (UNAB) y en archivística y gestión documental (UNTREF). Analista de datos en el Ministerio de Salud (GCBA) y en el Núcleo de Innovación Social."
   }
 ]
