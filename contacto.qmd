@@ -7,5 +7,5 @@ css: presenta.css
 Si necesitás de nuestros servicios, querés participar o tenés una propuesta de investigación, no dudes en consultarnos.
 
 ::: contacto
-[📩 nucleodeinnovacion@gmail.com](mailto:nucleodeinnovacion@gmail.com)
+[📩 info@nucleodeinnovacion.com](mailto:info@nucleodeinnovacion.com)
 :::
