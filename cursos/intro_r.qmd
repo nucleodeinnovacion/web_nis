@@ -49,7 +49,7 @@ Para confirmar tu inscripción, completá el siguiente formulario y adjuntá el 
 
 <a href="programa_intro_r.pdf" target="_blank" style="background-color: #14c0cc; color: white; padding: 12px 20px; text-decoration: none; border-radius: 8px; font-weight: 600; display: inline-block; margin-top: 15px;">Descargá el programa del curso (PDF)</a>
 
-Cualquier duda o consulta podes escribirnos a info@nucleodeinnovacion.com
+Cualquier duda o consulta podes escribirnos a nucleodeinnovacion@gmail.com
 
 ## Docentes
 
