@@ -78,6 +78,23 @@ css: equipo.css
 :::
 
 ::: team-grid
+
+::: team-card
+![](images/team/juan.png){.team-img}
+
+**Juan Esteban Barriola**
+
+*Opinión Pública*
+:::
+::: team-card
+![](images/team/joaquin.jpg){.team-img}
+
+**Joaquín Lovizio Ramos**
+
+*Opinión Pública*
+
+:::
+
 ::: team-card
 ![](images/team/lauti.jpg){.team-img}
 
@@ -85,6 +102,10 @@ css: equipo.css
 *Analisis de datos*\
 <a href="https://x.com/lautaroX86" target="_blank"><i class="bi bi-twitter"></i></a> <a href="https://www.linkedin.com/in/lautaro-perez-771a6087/" target="_blank"><i class="bi bi-linkedin"></i></a>
 :::
+
+:::
+
+::: team-grid
 
 ::: team-card
 ![](images/team/lore.jpg){.team-img}
@@ -94,11 +115,21 @@ css: equipo.css
 <a href="https://www.x.com/Lole_upiachi" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:lorenaupiachi@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
 :::
 
+
 ::: team-card
 ![](images/team/marina.jpg){.team-img}
 
 **Marina Anderson**\
 *Desarrollo Institucional* <a href="www.linkedin.com/in/marina-anderson-545391265" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto:msandersonp@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a>
+:::
+
+::: team-card
+![](images/team/mati.jpg){.team-img}
+
+**Matías Lavizzari**\
+*Análisis de datos*\
+<a href="https://www.linkedin.com/in/matias-lavizzari/" target="_blank"><i class="bi bi-linkedin"></i></a> <a href="mailto: matias.lavizzari@gmail.com" target="_blank"><i class="bi bi-envelope"></i></a><a href="https://github.com/Lavi-85" target="_blank"><i class="bi bi-github"></i></a> 
+
 :::
 :::
 
@@ -126,8 +157,8 @@ css: equipo.css
 
 *Opinión Pública*
 :::
-:::
 
+:::
 ## Fundador
 
 ::: center

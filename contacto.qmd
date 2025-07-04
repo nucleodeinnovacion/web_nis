@@ -4,9 +4,8 @@ format: html
 css: presenta.css
 ---
 
-Si necesitás de nuestros servicios, querés participar o tenés una propuesta de investigación, no dudes en consultarnos.  
+Si necesitás de nuestros servicios, querés participar o tenés una propuesta de investigación, no dudes en consultarnos.
 
 ::: contacto
-[📩 info@nucleodeinnovacion.com](mailto:info@nucleodeinnovacion.com)
+[📩 nucleodeinnovacion@gmail.com](mailto:nucleodeinnovacion@gmail.com)
 :::
-
