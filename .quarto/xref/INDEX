@@ -100,5 +100,14 @@
   },
   "cursos/intro_r.qmd": {
     "intro_r.html": "20281a98"
+  },
+  "blog/2025_07_datos_personales/index.qmd": {
+    "index.html": "4c7e611e"
+  },
+  "blog.qmd": {
+    "blog.html": "e131bd75"
+  },
+  "charlas/2025-02_curso_r_nis/index.qmd": {
+    "index.html": "3ca08aac"
   }
 }

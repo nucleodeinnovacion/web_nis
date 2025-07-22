@@ -1,0 +1,24 @@
+---
+title: "Primer curso del NIS"
+subtitle: "Introducción al análisis de datos con R para Ciencias Sociales"
+date: "2025-07-01"
+categories: [R, Cursos]
+image: "portada.png"
+toc: false
+---
+
+R no es una herramienta: es un universo. Un sistema entero de paquetes que te permite transformar datos, hacer visualizaciones, automatizar reportes o crear dashboards.
+
+Desde el Núcleo de Innovación Social lanzamos este curso de análisis de datos pensado para cientistas sociales que quieren incorporar herramientas para el trabajo con datos.
+
+No se requieren conocimientos previos.
+
+🟣Modalidad virtual: 8 encuentros, uno por semana.
+
+⚪Arranca la semana del 5 de agosto.
+
+⚫Elegí tu día de cursada: Martes de 18:30 a 20:30 (Grupo 1) o Viernes de 18:30 a 20:30 (Grupo 2)
+
+📌 Más información en este [enlace ](www.nucleodeinnovacion.com.ar/cursos)
+
+¡Te esperamos para sumarte a la comunidad de NIS Academy!

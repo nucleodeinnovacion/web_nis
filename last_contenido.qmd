@@ -11,6 +11,7 @@ listing:
   - /novedades
   - /charlas
   - /proyectos
+  - /blog
   sort: "date desc"
   type: grid
   categories: true

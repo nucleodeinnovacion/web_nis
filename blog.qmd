@@ -1,0 +1,10 @@
+---
+title: "Nuestras publicaciones"
+listing: 
+  contents: blog
+  type: grid
+  sort: "date desc"
+  categories: true
+  feed: true
+  fields: [image, date, title, author, reading-time]
+---

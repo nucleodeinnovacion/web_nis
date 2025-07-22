@@ -1,16 +1,21 @@
 {
   "listingMap": {
+    "blog.qmd": [
+      "blog"
+    ],
     "charlas.qmd": [
       "charlas"
     ],
     "index.qmd": [
       "/charlas",
-      "/proyectos"
+      "/proyectos",
+      "/blog"
     ],
     "last_contenido.qmd": [
       "/novedades",
       "/charlas",
-      "/proyectos"
+      "/proyectos",
+      "/blog"
     ],
     "proyectos.qmd": [
       "proyectos"

@@ -4,7 +4,7 @@ css: presenta.css
 listing: 
   contents: charlas
   categories: true
-  type: grid
+  type: default
   sort: "date desc"
   sort-ui: true
   filter-ui: true

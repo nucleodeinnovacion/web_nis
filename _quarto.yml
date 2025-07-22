@@ -53,6 +53,9 @@ website:
 
       - href: cursos.qmd
         text: Cursos
+
+      - href: blog.qmd
+        text: Blog
         
       - href: contacto.qmd
         text: Contactanos
