@@ -19,7 +19,7 @@ listing:
 
 # **¡Bienvenidos al Núcleo de Innovación Social!**
 
-::::: columns
+::: columns
 ::: {.column width="60%"}
 Somos un `laboratorio` de trabajo con un enfoque multidisciplinario, arraigado en las `ciencias sociales.`
 
@@ -31,11 +31,11 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 ::: {.column width="40%"}
 ![](images/logoNIS.png){fig-align="center" width="230"}
 :::
-:::::
+:::
 
 # <img src="images/Developer.gif" width="40px"/> ¿Qué hacemos? <img src="images/Developer.gif" width="40px"/>
 
-::::::::::: grid
+::: grid
 ::: {.g-col-6 .card4}
 #### 🎤 Workshops y capacitaciones
 :::
@@ -67,11 +67,12 @@ Nuestra misión es promover procesos de `transformación` y mejora colectiva bas
 ::: {.g-col-6 .card4}
 #### 📄 Informes ad-hoc
 :::
-:::::::::::
+:::
 
 <br>
 
 :::: {style="background-color: #9d0fc8; color: white; padding: 40px 20px; text-align: center; border-radius: 12px; margin-bottom: 30px;"}
+
 <h3 style="color: white; margin-bottom: 10px;">
 
 Accedé a nuestros cursos y capacitaciones
