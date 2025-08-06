@@ -7,24 +7,28 @@ css: presenta.css
 
 ::: body-centrado
 Explora, aprende, transforma: Cursos prácticos para potenciar tus habilidades en datos.
-
 :::
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
-
-<div class="card" style="max-width: 320px; text-align: center;">
-
-<img src="images/curso_r.png" alt="Curso R" style="width: 100%; border-radius: 12px; margin-bottom: -40px;">
+:::: {style="display: flex; justify-content: center; align-items: center; padding: 10px;"}
+::: {.card style="max-width: 320px; text-align: center;"}
+<img src="images/curso_r.png" alt="Curso R" style="width: 100%; border-radius: 12px; margin-bottom: -40px;"/>
 
 ### Introducción al Análisis de Datos con R
 
 Aprenderás manipulación de datos, limpieza, visualización, gráficos y armado de documentos con R
 
-<h3 style="color: var(--primary-color); font-size: 1.2rem; margin-top: 10px;">ARS$70.000</h3>
+<h3 style="color: var(--primary-color); font-size: 1.2rem; margin-top: 10px;">
+
+ARS\$70.000
+
+</h3>
 
 <a href="cursos/intro_r.html" target="_blank" class="btn" style="margin-top: 10px;">+Info</a>
+:::
+::::
 
-</div>
 
-</div>
+
+<script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src="https://widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgdzxwuSQVZA5gS55pIr4pOSb5YLSS_2BiHbKJ3kHcpQYeLx.js",a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script>
+
 
