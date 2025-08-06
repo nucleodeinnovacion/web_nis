@@ -1,0 +1,26 @@
+---
+title: "Si las miradas mataran, no te la podrían robar"
+author: "Guadalupe Mercado"
+date: "2025-07-22"
+categories: [Privacidad]
+image: "orbe.jpeg"
+toc: false
+---
+
+Hay una creencia común sobre que los datos personales sólo hacen referencia a nuestro nombre y apellido, número de documento y domicilio, pero ¿y si te digo que los datos personales abarcan un mundo mucho más amplio?
+
+Primero dejemos las cosas en claro, un dato personal es toda aquella información que te identifica, directa o indirectamente. Es decir, cuando podes ser identificado por elementos característicos de tu identidad física, fisiológica, genética, biométrica, psíquica, económica, cultural, social, etc. 
+
+Dentro del mundo de los datos personales también hay que respetar rangos, por eso aparecen los datos sensibles. ¿Alguna vez escuchaste hablar de los datos sensibles?  Como en un partido de fútbol, cuando cuidas al jugador más importante, esos son los datos sensibles que, por su naturaleza, necesitan y merecen que les prestemos un poco más de atención y cuidado. Te preguntarás, bueno y ¿por qué son tan importantes? Se debe especialmente a que refieren estrictamente a tu esfera más íntima, o cuya utilización indebida pueda dar origen a discriminación o conllevar un riesgo grave para esta.
+
+¿Cómo los reconozco? Una definición puede considerar sensibles los datos personales que puedan revelar aspectos como origen étnico; creencias o convicciones religiosas, filosóficas y morales; afiliación sindical u opiniones políticas; datos relativos a la salud, discapacidad, orientación sexual, identidad de género, o datos genéticos o biométricos. 
+
+Ahora bien, la lista de datos sensibles puede ser bastante intuitiva, pero y ¿qué pensamos de los datos biométricos? ¿Mi cara es un dato personal? Aunque usted no lo crea, así es. Técnicamente, un dato biométrico son los datos obtenidos a partir de un tratamiento técnico específico, relativos a las características físicas, fisiológicas o conductuales de una persona humana, que permitan o confirmen su identificación única, tales como imágenes faciales o datos dactiloscópicos, entre otros. ¿Pero sabés qué es también un dato personal? Tus ojos, específicamente tu iris. 
+
+El avance de la tecnología, veloz como un autito de fórmula 1, llevó a los datos biométricos a otro escalón de valor. Hace un tiempo, no muy lejano, viajar en tren o estar cerca de un lugar con un conglomerado de gente implicaba ver un puesto de la famosa empresa que te escaneaba el iris, esa que con la promesa de un par de pesos se llevaba algo más valioso de vos. Lo que genera la empresa con tu dato, o planea generar en un tratamiento posterior del mismo, vale muchísimo más que la recompensa que te prometieron. No hay una única forma de usar ese dato y no hay una única herramienta que puedan entrenar con él, por eso es importante conocer cómo proteger nuestros datos.
+
+Acá no juzgamos a quienes se escanearon el ojo, lejos de eso, queremos aportar a tu derecho de información para que frente a una nueva situación de este tipo puedas decidir con todas la cartas sobre la mesa. Muchas veces frente a la necesidad no hay mucho que hacer, pero el conocimiento es poder dicen algunos. 
+
+Si estamos nuevamente frente ante esta situación, ¿qué tenemos que hacer? Ante cualquier situación que involucre ceder tus datos personales tenes que tener presente la Triple Q, qué datos míos van a utilizar, qué finalidad tendrá esa recolección, quién será el responsable de tratar mis datos. Además de saber que, si decidís brindar tus datos tenés derechos que te protegen, consagrados en la Ley 25.326. Tenés derecho a acceder a qué datos la empresa tiene tuyos, a rectificar, actualizar y hasta suprimirlos. Si sucede que te niegan tu derecho, podes denunciarlo.
+
+Cuando tu mamá y tu papá te dicen “sos único en el mundo”, lo dicen en serio. No regales tus datos, porque valen y mucho. 

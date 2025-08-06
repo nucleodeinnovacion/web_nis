@@ -17,8 +17,9 @@ website:
         icon: linkedin
         aria-label: LinkedIn
       - href: https://www.instagram.com/nucleodeinnovacion/
-        icon: twitter-x
+        icon: instagram
         aria-label: Twitter/X
+      - text: "info@nucleodeinnovacion.com"
 
 
    
@@ -53,6 +54,9 @@ website:
 
       - href: cursos.qmd
         text: Cursos
+
+      - href: blog.qmd
+        text: Blog
         
       - href: contacto.qmd
         text: Contactanos

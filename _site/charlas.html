@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.7.32">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-91c80d9448edf1303d093bd44d5bbc76.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -198,6 +198,10 @@ window.Quarto = {
 <span class="menu-text">Cursos</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./contacto.html"> 
 <span class="menu-text">Contactanos</span></a>
   </li>  
@@ -213,7 +217,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Q2hhcmxhcw==">Charlas <span class="quarto-category-count">(12)</span></div><div class="category" data-category="RXN0YWQlQzMlQURzdGljYQ==">Estadística <span class="quarto-category-count">(10)</span></div><div class="category" data-category="T3BpbmlvbiUyMFAlQzMlQkFibGljYQ==">Opinion Pública <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UG9saXRpY2ElMjBkZSUyMGRhdG9z">Politica de datos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(10)</span></div><div class="category" data-category="UmVuQmFpcmVz">RenBaires <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UkxhZGllcw==">RLadies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaW9sb2dpYQ==">Sociologia <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="Q2hhcmxhcw==">Charlas <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Q3Vyc29z">Cursos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXN0YWQlQzMlQURzdGljYQ==">Estadística <span class="quarto-category-count">(10)</span></div><div class="category" data-category="T3BpbmlvbiUyMFAlQzMlQkFibGljYQ==">Opinion Pública <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UG9saXRpY2ElMjBkZSUyMGRhdG9z">Politica de datos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(11)</span></div><div class="category" data-category="UmVuQmFpcmVz">RenBaires <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UkxhZGllcw==">RLadies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaW9sb2dpYQ==">Sociologia <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -241,7 +245,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
@@ -267,17 +271,52 @@ window.Quarto = {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UG9saXRpY2ElMjBkZSUyMGRhdG9zJTJDQ2hhcmxhcw==" data-listing-date-sort="1751252400000" data-listing-file-modified-sort="1751661742178" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
-<a href="./charlas/2025-06_charla_CFI/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2025-06_charla_CFI/20250624-Participacion en Jornadas de Integracion Industrias Culturales CFI_1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Primer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornadas del CFI
-</h5>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="UiUyQ0N1cnNvcw==" data-listing-date-sort="1751338800000" data-listing-file-modified-sort="1753723321308" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<div class="thumbnail"><a href="./charlas/2025-02_curso_r_nis/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2025-02_curso_r_nis/portada.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2025-02_curso_r_nis/index.html" class="no-external">Primer curso del NIS</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2025-02_curso_r_nis/index.html" class="no-external">Introducción al análisis de datos con R para Ciencias Sociales</a>
+</div>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q3Vyc29z'); return false;">Cursos</div>
+
+</div>
+<div class="delink listing-description"><a href="./charlas/2025-02_curso_r_nis/index.html" class="no-external">
+R no es una herramienta: es un universo. Un sistema entero de paquetes que te permite transformar datos, hacer visualizaciones, automatizar reportes o crear dashboards.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./charlas/2025-02_curso_r_nis/index.html" class="no-external">
+<div class="listing-date">
+Jul 1, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="UG9saXRpY2ElMjBkZSUyMGRhdG9zJTJDQ2hhcmxhcw==" data-listing-date-sort="1751252400000" data-listing-file-modified-sort="1753723321360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="303">
+<div class="thumbnail"><a href="./charlas/2025-06_charla_CFI/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2025-06_charla_CFI/20250624-Participacion en Jornadas de Integracion Industrias Culturales CFI_1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2025-06_charla_CFI/index.html" class="no-external">Primer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornadas del CFI</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2025-06_charla_CFI/index.html" class="no-external">El NIS participó de las Primeras Jornadas de Integración organizadas en el marco del Programa Federal de Formación en Industrias Culturales e Innovación del Consejo Federal de Inversiones (CFI).</a>
+</div>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('UG9saXRpY2ElMjBkZSUyMGRhdG9z'); return false;">Politica de datos</div>
@@ -285,30 +324,31 @@ Primer diagnóstico colectivo sobre industrias culturales: el NIS en las Jornada
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2025-06_charla_CFI/index.html" class="no-external">
 El Núcleo de Innovación Social (NIS) participó de las Primeras Jornadas de Integración organizadas en el marco del Programa Federal de Formación en Industrias Culturales e…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2025-06_charla_CFI/index.html" class="no-external">
 <div class="listing-date">
 Jun 30, 2025
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="2" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNSZW5CYWlyZXMlMkNDaGFybGFz" data-listing-date-sort="1727751600000" data-listing-file-modified-sort="1753723321308" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
+<div class="thumbnail"><a href="./charlas/2024-10_r_para_demo/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2024-10_r_para_demo/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2024-10_r_para_demo/index.html" class="no-external">R para la demografía social</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2024-10_r_para_demo/index.html" class="no-external">Nos recibe la Cátedra de Demografía Social de UNLaM en un taller exclusivo para estudiantes de la cátedra</a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNSZW5CYWlyZXMlMkNDaGFybGFz" data-listing-date-sort="1727751600000" data-listing-file-modified-sort="1741349128792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
-<a href="./charlas/2024-10_r_para_demo/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2024-10_r_para_demo/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-R para la demografía social
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -320,30 +360,31 @@ R para la demografía social
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2024-10_r_para_demo/index.html" class="no-external">
 Los y las invitamos a participar del taller titulado “R para la demografía social: un taller aplicado a la EPH”, organizado por la Cátedra de Demografía Social de la…<strong></strong><strong></strong>
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2024-10_r_para_demo/index.html" class="no-external">
 <div class="listing-date">
 Oct 1, 2024
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="3" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFzJTJDT3BpbmlvbiUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1700017200000" data-listing-file-modified-sort="1753723321298" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
+<div class="thumbnail"><a href="./charlas/2023-12_progra_datos_electorales/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023-12_progra_datos_electorales/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023-12_progra_datos_electorales/index.html" class="no-external">Taller abierto de programación aplicada a datos electorales</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023-12_progra_datos_electorales/index.html" class="no-external">Ponemos Hands-on en el análisis de datos electorales utilizando R en la Facultad de Ciencias Sociales UBA</a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFzJTJDT3BpbmlvbiUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1700017200000" data-listing-file-modified-sort="1741289158528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
-<a href="./charlas/2023-12_progra_datos_electorales/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023-12_progra_datos_electorales/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Taller abierto de programación aplicada a datos electorales
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -355,30 +396,31 @@ Taller abierto de programación aplicada a datos electorales
 <div class="listing-category" onclick="window.quartoListingCategory('T3BpbmlvbiUyMFAlQzMlQkFibGljYQ=='); return false;">Opinion Pública</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023-12_progra_datos_electorales/index.html" class="no-external">
 El martes 14 de noviembre, se llevó a cabo la última clase abierta de programación hands-on del año, enfocada en el análisis de datos electorales utilizando R. Esta sesión…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023-12_progra_datos_electorales/index.html" class="no-external">
 <div class="listing-date">
 Nov 15, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="4" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1698807600000" data-listing-file-modified-sort="1753723321296" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
+<div class="thumbnail"><a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023-11_actividad_uni_mdq/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="no-external">Actividad abierta con la Carrera de Sociología de la Universidad de Mar del Plata</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="no-external">Charlamos sobre Sociología y Big Data y su impacto en el horizonte Profesional</a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1698807600000" data-listing-file-modified-sort="1741289158528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="329">
-<a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023-11_actividad_uni_mdq/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Actividad abierta con la Carrera de Sociología de la Universidad de Mar del Plata
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -388,30 +430,31 @@ Actividad abierta con la Carrera de Sociología de la Universidad de Mar del Pla
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="no-external">
 El 27 de octubre pasado, participamos de una jornada abierta en la Facultad de Humanidades de la Universidad Nacional de Mar del Plata bajo el título “Sociología y Big Data…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023-11_actividad_uni_mdq/index.html" class="no-external">
 <div class="listing-date">
 Nov 1, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="5" data-categories="U29jaW9sb2dpYSUyQ0NoYXJsYXM=" data-listing-date-sort="1697079600000" data-listing-file-modified-sort="1753723321306" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
+<div class="thumbnail"><a href="./charlas/2023_10_jornadas_antropo/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023_10_jornadas_antropo/image.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023_10_jornadas_antropo/index.html" class="no-external">Jornadas sobre Prácticas Profesionales en Antropología</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023_10_jornadas_antropo/index.html" class="no-external">Conversación, exploramos las intersecciones entre tecnología, trabajo y el futuro de las ciencias sociales.</a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="U29jaW9sb2dpYSUyQ0NoYXJsYXM=" data-listing-date-sort="1697079600000" data-listing-file-modified-sort="1741289158536" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
-<a href="./charlas/2023_10_jornadas_antropo/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023_10_jornadas_antropo/image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Jornadas sobre Prácticas Profesionales en Antropología
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('U29jaW9sb2dpYQ=='); return false;">Sociologia</div>
@@ -419,30 +462,31 @@ Jornadas sobre Prácticas Profesionales en Antropología
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023_10_jornadas_antropo/index.html" class="no-external">
 El mundo de las ciencias sociales se encuentra en constante evolución, y las tecnologías desempeñan un papel crucial en este proceso. El pasado 11 de cotubre tuvimos el…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023_10_jornadas_antropo/index.html" class="no-external">
 <div class="listing-date">
 Oct 12, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="6" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1696129200000" data-listing-file-modified-sort="1753723321291" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
+<div class="thumbnail"><a href="./charlas/2022_12_taller_NLP/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2022_12_taller_NLP/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2022_12_taller_NLP/index.html" class="no-external">Taller abierto de análisis de lenguaje natural</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2022_12_taller_NLP/index.html" class="no-external">Veni a conocer un campo especializado de las ciencias de la computación, la ingeniería y la inteligencia artificial enraizado en la lingüística computacional</a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1696129200000" data-listing-file-modified-sort="1741289158517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
-<a href="./charlas/2022_12_taller_NLP/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2022_12_taller_NLP/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Taller abierto de análisis de lenguaje natural
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -452,30 +496,31 @@ Taller abierto de análisis de lenguaje natural
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2022_12_taller_NLP/index.html" class="no-external">
 El miércoles 21 de diciembre, entre las 18:30 y las 19:30 hs., realizamos el último <strong>taller abierto del año</strong>, un espacio orientado a introducir conocimientos básicos sobre el <strong>A…</strong>
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2022_12_taller_NLP/index.html" class="no-external">
 <div class="listing-date">
 Oct 1, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="7" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNSTGFkaWVzJTJDQ2hhcmxhcw==" data-listing-date-sort="1696129200000" data-listing-file-modified-sort="1753723321304" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
+<div class="thumbnail"><a href="./charlas/2023_09_r_para_demo_uba/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023_09_r_para_demo_uba/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023_09_r_para_demo_uba/index.html" class="no-external">RLadies+NIS llevan la EPh a Sociales</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023_09_r_para_demo_uba/index.html" class="no-external">Más de 80 participantes se sumaron el pasado jueves 7 de Septiembre en el Taller de Introducción al análisis de la Encuesta Permanente de Hogares (EPH)</a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNSTGFkaWVzJTJDQ2hhcmxhcw==" data-listing-date-sort="1696129200000" data-listing-file-modified-sort="1741289158536" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="./charlas/2023_09_r_para_demo_uba/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023_09_r_para_demo_uba/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-RLadies+NIS llevan la EPh a Sociales
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -487,30 +532,31 @@ RLadies+NIS llevan la EPh a Sociales
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023_09_r_para_demo_uba/index.html" class="no-external">
 Andrea Gómez y Betsy Cohen, guiaron a los más de 100 inscriptos en una experiencia de programación hands on con tres paquetes del lenguaje de código abierto R: EPH…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023_09_r_para_demo_uba/index.html" class="no-external">
 <div class="listing-date">
 Oct 1, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="8" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFzJTJDT3BpbmlvbiUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1753723321294" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
+<div class="thumbnail"><a href="./charlas/2023-08_cs_soc_y_op/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023-08_cs_soc_y_op/image.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023-08_cs_soc_y_op/index.html" class="no-external">Ciencias Sociales aplicadas, Data y Opinión Pública</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023-08_cs_soc_y_op/index.html" class="no-external">Walter González nos comparte su experiencia en el analisis de encuestas y opinión pública</a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFzJTJDT3BpbmlvbiUyMFAlQzMlQkFibGljYQ==" data-listing-date-sort="1691982000000" data-listing-file-modified-sort="1741289158528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
-<a href="./charlas/2023-08_cs_soc_y_op/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023-08_cs_soc_y_op/image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ciencias Sociales aplicadas, Data y Opinión Pública
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -522,30 +568,31 @@ Ciencias Sociales aplicadas, Data y Opinión Pública
 <div class="listing-category" onclick="window.quartoListingCategory('T3BpbmlvbiUyMFAlQzMlQkFibGljYQ=='); return false;">Opinion Pública</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023-08_cs_soc_y_op/index.html" class="no-external">
 El Núcleo de Innovación Social (NIS), en su continua búsqueda de promover la integración de las ciencias sociales con la tecnología, organizó recientemente una actividad que…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023-08_cs_soc_y_op/index.html" class="no-external">
 <div class="listing-date">
 Aug 14, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="9" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1684378800000" data-listing-file-modified-sort="1753723321289" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="thumbnail"><a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2022_09_procesando_datos_encuestas/image.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="no-external">Procesando datos de encuestas con R</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="no-external">En la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on R en 90 minutos</a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1684378800000" data-listing-file-modified-sort="1741289158517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
-<a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2022_09_procesando_datos_encuestas/image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Procesando datos de encuestas con R
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -555,30 +602,31 @@ Procesando datos de encuestas con R
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="no-external">
 En el marco del ciclo de <strong>talleres abiertos del NIS</strong> orientados a la actualización técnico profesional, presentamos una nueva actividad denominada: <strong>Procesando datos de…</strong>
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2022_09_procesando_datos_encuestas/index.html" class="no-external">
 <div class="listing-date">
 May 18, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="10" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1684378800000" data-listing-file-modified-sort="1753723321301" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<div class="thumbnail"><a href="./charlas/2023_05_R_en_90_minutos/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2023_05_R_en_90_minutos/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2023_05_R_en_90_minutos/index.html" class="no-external">R en 90 minutos</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2023_05_R_en_90_minutos/index.html" class="no-external">En la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on R en 90 minutos</a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1684378800000" data-listing-file-modified-sort="1741289158536" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
-<a href="./charlas/2023_05_R_en_90_minutos/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2023_05_R_en_90_minutos/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-R en 90 minutos
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -588,30 +636,31 @@ R en 90 minutos
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2023_05_R_en_90_minutos/index.html" class="no-external">
 El pasado miércoles 17 de mayo en el aula <strong>300</strong> de la Facultad de Ciencias Sociales de la UBA llevamos adelante la experiencia de programación hands on <strong>R en 90 minutos</strong>, la…<strong></strong><strong></strong>
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2023_05_R_en_90_minutos/index.html" class="no-external">
 <div class="listing-date">
 May 18, 2023
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="11" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1667358000000" data-listing-file-modified-sort="1753723321291" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
+<div class="thumbnail"><a href="./charlas/2022_11_taller_sports_analytics/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2022_11_taller_sports_analytics/image.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2022_11_taller_sports_analytics/index.html" class="no-external">Taller abierto de Sports Analytics con R</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2022_11_taller_sports_analytics/index.html" class="no-external">Una experiencia de trabajo en vivo con datos deportivos</a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1667358000000" data-listing-file-modified-sort="1741289158517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
-<a href="./charlas/2022_11_taller_sports_analytics/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2022_11_taller_sports_analytics/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Taller abierto de Sports Analytics con R
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -621,30 +670,31 @@ Taller abierto de Sports Analytics con R
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2022_11_taller_sports_analytics/index.html" class="no-external">
 En el marco de un nuevo taller abierto de programación en vivo, el viernes 11 de noviembre entre las 18:30 y 19:30 hs (hora argentina) llevaremos adelante vía streaming una…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2022_11_taller_sports_analytics/index.html" class="no-external">
 <div class="listing-date">
 Nov 2, 2022
 </div>
+</a>
 </div>
 </div>
-</div></a>
+<div class="quarto-post image-right" data-index="12" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1658372400000" data-listing-file-modified-sort="1753723321287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
+<div class="thumbnail"><a href="./charlas/2022_07_taller_quarto/index.html" class="no-external">
+
+<img loading="lazy" src="./charlas/2022_07_taller_quarto/image.webp" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./charlas/2022_07_taller_quarto/index.html" class="no-external">Taller abierto: “Creando informes en R con Quarto”</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./charlas/2022_07_taller_quarto/index.html" class="no-external">Perdro Orden presenta la nueva plataforma de publicacions para R</a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="UiUyQ0VzdGFkJUMzJUFEc3RpY2ElMkNDaGFybGFz" data-listing-date-sort="1658372400000" data-listing-file-modified-sort="1741289158517" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
-<a href="./charlas/2022_07_taller_quarto/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./charlas/2022_07_taller_quarto/image.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Taller abierto: “Creando informes en R con Quarto”
-</h5>
 <div class="listing-categories">
 
 <div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
@@ -654,19 +704,17 @@ Taller abierto: “Creando informes en R con Quarto”
 <div class="listing-category" onclick="window.quartoListingCategory('Q2hhcmxhcw=='); return false;">Charlas</div>
 
 </div>
-<div class="card-text listing-description delink">
+<div class="delink listing-description"><a href="./charlas/2022_07_taller_quarto/index.html" class="no-external">
 El pasado <strong>viernes 29 de julio</strong>, de 18:30 a 19:30 hs., llevamos adelante el taller abierto <strong>“Creando informes en R con Quarto”</strong>, una actividad de actualización técnica orientada…
+</a></div>
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
+<div class="metadata">
+<a href="./charlas/2022_07_taller_quarto/index.html" class="no-external">
 <div class="listing-date">
 Jul 21, 2022
 </div>
+</a>
 </div>
-</div>
-</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
