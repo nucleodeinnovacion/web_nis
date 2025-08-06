@@ -19,11 +19,11 @@ Aprenderás manipulación de datos, limpieza, visualización, gráficos y armado
 
 <h3 style="color: var(--primary-color); font-size: 1.2rem; margin-top: 10px;">
 
-ARS\$70.000
+Inscripciones cerradas
 
 </h3>
 
-<a href="cursos/intro_r.html" target="_blank" class="btn" style="margin-top: 10px;">+Info</a>
+<a href="https://es.research.net/r/RJHB6RB" target="_blank" class="btn" style="margin-top: 10px;">Anotate en lista de espera</a>
 :::
 ::::
 
