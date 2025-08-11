@@ -1,0 +1,50 @@
+---
+title: "¿Qué se juega en Argentina? "
+subtitle: "Lanzamos la primera Encuesta Nacional sobre Consumo de Videojuegos"
+date: "2025-08-07"
+categories: [Videojuejos, Encuestas, OVEA]
+image: "ovea.png"
+toc: false
+---
+
+![](ovea.png)
+
+¿Qué se juega en Argentina? ¿En qué plataformas? ¿Cuánto tiempo le dedicamos? ¿Jugamos solos, en red, con amigos? ¿Consumimos juegos argentinos? ¿Pagamos por jugar? ¿Nos alcanza el tiempo, la guita, la máquina?
+
+Hasta ahora, todas estas preguntas tenían la misma respuesta: **"no sabemos"**.
+
+La industria de los videojuegos en Argentina crece año tras año, pero no contamos con datos públicos y sistemáticos sobre los hábitos de consumo gamer en el país. Y sin datos, no hay políticas públicas, no hay inversión, no hay estrategias que potencien el desarrollo local.
+
+Desde el **Núcleo de Innovación Social (NIS)**, a través del flamante **Observatorio de la Industria de Videojuegos y Deportes Electrónicos de Argentina (OVEA)**, lanzamos la **Primera Encuesta Nacional sobre Consumo de Videojuegos en Argentina**, una iniciativa que busca echar luz sobre un ecosistema muy activo, pero aún poco estudiado.
+
+## **¿Por qué una encuesta sobre videojuegos?**
+
+Porque **no tener datos de calidad es una desventaja enorme**. Para la industria, para quienes diseñan políticas públicas, para quienes desarrollan, y también para quienes juegan.
+
+Esta encuesta nos permitirá responder, por primera vez con evidencia empírica, a preguntas clave:
+
+-   ¿Qué géneros se juegan más en Argentina?
+
+-   ¿Cómo influye el género, la edad o la ubicación en los hábitos de juego?
+
+-   ¿Pagamos por jugar?¿Cuánto y por qué?
+
+-   ¿Qué barreras existen para jugar?\
+    \
+
+## **¿Quién puede participar?**
+
+📌 **Cualquier persona que juegue videojuegos y tenga nacionalidad argentina**, viva o no en el país.\
+📌 No hace falta ser "gamer profesional": si jugás en el celu, en la compu, en consola o en la Play del primo, ¡vale igual!
+
+## **¿Por qué es importante que participes?**
+
+Porque **nadie mejor que vos para contar cómo se vive el gaming en Argentina hoy**.\
+Tu participación ayuda a construir un panorama real, diverso y actual del ecosistema gamer y basado en información.\
+La encuesta dura solo 5 minutos y es completamente anónima si todavía no respondiste podes hacerlo hasta el 20 de agosto en este link[ https://es.research.net/r/encuesta_videojuegos_nis](https://es.research.net/r/encuesta_videojuegos_nis)
+
+## **¿Quiénes somos?**
+
+El **Núcleo de Innovación Social (NIS)** es un espacio interdisciplinario que cruza ciencias sociales y tecnología para investigar, diseñar y evaluar soluciones a problemas sociales. Creemos que para transformar realidades, necesitamos datos confiables, análisis crítico y participación activa.
+
+El **Observatorio de la Industria de Videojuegos y Deportes Electrónicos (OVEA)** es una de nuestras nuevas iniciativas, dedicada a producir conocimiento sobre un sector en auge, pero con poca visibilidad en términos de datos. Nos interesa entender al gaming desde una perspectiva social, económica, cultural y política.
