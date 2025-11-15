@@ -1,0 +1,22 @@
+---
+title: "TODOS DEJAMOS HUELLAS EN EL MUNDO"
+author: "Paula Federico"
+date: "2025-11-14"
+categories: [Privacidad]
+image: "huella.jpg"
+toc: false
+---
+
+Las interacciones que realizamos en el mundo digital dejan una marca, una “huella” que funciona como colección de datos que pueden identificar a una persona a partir de su actividad digital. Nuestro comportamiento en redes sociales, esos productos que ponemos en nuestro carrito online, los comentarios que ponemos en TikTok o Youtube y hasta el recorrido que hacemos con nuestro celular a diario. Todo eso y más hace a nuestra huella digital, nos hace presentes en la digitalidad. 
+
+Dejamos nuestra huella de manera pasiva, automáticamente mientras navegamos en internet, o de manera activa, con acciones realizadas por nosotros,  como por ejemplo cuando compartimos una publicación. La huella pasiva brinda datos sobre nuestra dirección IP, ubicación, tiempo de permanencia en una página, historial de navegación. Mientras que la huella activa es voluntaria y brinda datos sobre nuestras preferencias y pensamientos. 
+
+Y si todo esto te parecía poco, también existe el rastreo continuo mediante cookies, metadatos y tecnologías de geolocalización. Estas herramientas de búsqueda monitorean, registran y analizan de forma permanente o semipermanente. Las famosas cookies son las que almacenan archivos para recordarte, para que la próxima vez que ingreses al sitio web este sea “personalizado” para vos. Te ayudan, por ejemplo, a dejarte logueado y no tener que acordarte de decenas de contraseñas, pero te muestran publicidad dirigida como el buzo de perritos que queres hace meses y evitas comprarlo.
+
+Pero, ¿quiénes son los que recolectan estos datos? son muchos la verdad, están las grandes empresas, de cualquier tipo, los bancos, aseguradoras, gobiernos, empresas de marketing y hasta los del supermercado. Es parte de la estructura de negocios global actual de la que lejos estamos, en este posteo, de hacer una valoración ética. El hecho es que lo hacen, y con ello obtienen información muy valiosa. Pueden inferir gustos, hábitos, ubicaciones y creencias, ya sea para diseñar campañas de marketing, campañas políticas, políticas públicas, etc. 
+
+El impacto social de estas prácticas es profundo y complejo, va más allá de lo técnico o comercial. Por primera vez en la historia se pueden recolectar, almacenar y procesar datos a gran escala. En primera instancia, el objetivo de construir información a modo de perfiles de usuario es anticipar posibles comportamientos para tomar decisiones. La lógica podría resumirse como: más información, más conocimiento, menos incertidumbre, resultados más acertados.
+
+Todo lo que se hace en internet es información valiosa para los que rastrean y para los que dejan la huella. Si no leíste el blog sobre la importancia de los datos personales y su protección te invitamos a hacerlo. La huella digital forma parte de nuestra identidad, porque te representa en ese entorno donde no estás físicamente. 
+
+Acá te dejamos 3 tips para tener mayor control de tus datos en internet: configurar los niveles de privacidad, ser consciente de los permisos que damos y diferenciar qué compartimos en forma pública y privada.  En definitiva, la huella digital no es algo ajeno o abstracto: es parte de nuestra identidad moderna. Reconocerla, protegerla y gestionarla responsablemente es clave para preservar nuestros derechos en línea.

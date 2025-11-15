@@ -2,7 +2,7 @@
   {
     "listing": "/proyectos.html",
     "items": [
-      "/proyectos/2025_08_encuesta_ovea/index.html",
+      "/proyectos/2025-08_encuesta_ovea/index.html",
       "/proyectos/2025_07_grilla_arancelaria_cps/index.html",
       "/proyectos/2025_05_informe_isbn/index.html",
       "/proyectos/2025_03_07_monitor_seguridad/index.html",
@@ -19,7 +19,6 @@
   {
     "listing": "/charlas.html",
     "items": [
-      "/charlas/2025-08_encuesta_ovea/index.html",
       "/charlas/2025-02_curso_r_nis/index.html",
       "/charlas/2025-06_charla_CFI/index.html",
       "/charlas/2024-10_r_para_demo/index.html",
@@ -38,14 +37,15 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2025_11_huellas_digitales/index.html",
       "/blog/2025_07_datos_personales/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/charlas/2025-08_encuesta_ovea/index.html",
-      "/proyectos/2025_08_encuesta_ovea/index.html",
+      "/blog/2025_11_huellas_digitales/index.html",
+      "/proyectos/2025-08_encuesta_ovea/index.html",
       "/proyectos/2025_07_grilla_arancelaria_cps/index.html",
       "/blog/2025_07_datos_personales/index.html",
       "/charlas/2025-02_curso_r_nis/index.html",
@@ -76,8 +76,8 @@
   {
     "listing": "/last_contenido.html",
     "items": [
-      "/charlas/2025-08_encuesta_ovea/index.html",
-      "/proyectos/2025_08_encuesta_ovea/index.html",
+      "/blog/2025_11_huellas_digitales/index.html",
+      "/proyectos/2025-08_encuesta_ovea/index.html",
       "/proyectos/2025_07_grilla_arancelaria_cps/index.html",
       "/blog/2025_07_datos_personales/index.html",
       "/charlas/2025-02_curso_r_nis/index.html",
