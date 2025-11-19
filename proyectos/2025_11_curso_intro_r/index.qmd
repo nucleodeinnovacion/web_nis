@@ -1,0 +1,24 @@
+---
+title: "Finalizó el curso “Introducción al Análisis de Datos con R”"
+subtitle: ""
+date: "2025-11-19"
+categories: [Cursos, R]
+image: "curso_intro_r_portada_nota.png"
+toc: false
+---
+
+![""](curso_intro_r_portada_nota.png)
+
+El Núcleo de Innovación Social (NIS) cerró una nueva edición del curso introductorio de análisis de datos con R, una propuesta pensada para quienes buscan dar sus primeros pasos en el trabajo con datos desde las ciencias sociales. Durante ocho encuentros de dos horas y media, personas de Argentina, Chile, Uruguay y Colombia se sumaron a esta experiencia formativa.
+
+El programa combinó contenidos esenciales ---instalación de R y RStudio, manipulación y limpieza de datos, tidyverse, visualización, mapas y armado de tablas--- con la elaboración de informes reproducibles mediante Quarto, integrando texto, código y gráficos en un mismo documento.
+
+El curso se organizó a partir de ejercicios guiados y desafíos prácticos, con el objetivo de que cada participante pudiera aplicar las herramientas directamente sobre casos reales. El cierre incluyó un Trabajo Final en el que se trabajó con un dataset de interés propio para desarrollar un flujo completo de análisis: limpieza, exploración, visualización y conclusiones.
+
+Los temas elegidos fueron variados: consumos culturales, movilidad urbana, educación, políticas sociales y datos abiertos locales. El resultado fue doble: proyectos sólidos y una comunidad que aprende colaborando.
+
+![](curso_intro_r_portada_nota_2.png)
+
+Esta iniciativa forma parte del compromiso del NIS con la formación en habilidades de análisis de datos y la promoción del uso de evidencia para entender mejor nuestro entorno. En las próximas semanas compartiremos nuevas propuestas formativas.
+
+Conocé más acerca de la experiencia docente en la nota de Candela Fia en [nuestro blog](https://nucleodeinnovacionsocial.com.ar/blog)
