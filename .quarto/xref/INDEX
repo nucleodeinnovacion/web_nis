@@ -124,5 +124,11 @@
   },
   "proyectos/2025-08_encuesta_ovea/index.qmd": {
     "index.html": "85e625be"
+  },
+  "blog/2025_11_aprender_a_mirar_datos/index.qmd": {
+    "index.html": "0710a2b9"
+  },
+  "proyectos/2025_11_curso_intro_r/index.qmd": {
+    "index.html": "2395a2bd"
   }
 }
