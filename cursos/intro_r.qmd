@@ -27,29 +27,38 @@ Sumate a la **NIS Academy** y aprendé a analizar tus datos con autonomía.
 
 ### Modalidad y fechas
 
-El curso tiene una duración de ocho encuentros virtuales, una vez por semana.
+El curso tiene una duración de ocho encuentros virtuales, una vez por semana, en modalidad 100% online y sincrónica.
 
 **Opciones de cursada:**
 
--   Martes de 18:30 a 20:30
+-   Miércoles de 18:30 a 20:30 hs. — Inicio: 8 de abril / Finalización: 27 de mayo
 
--   Viernes de 18:30 a 20:30
+-   Jueves de 18:30 a 20:30 hs. — Inicio: 9 de abril / Finalización: 28 de mayo
 
-Inicio: semana del 5 de agosto.
+Las clases quedarán grabadas y estarán disponibles para consulta junto con el material de trabajo.
+
+**Requisitos para la aprobación:**
+
+-   Asistir al 80% de los encuentros
+
+-   Presentar el trabajo práctico integrador 
 
 ------------------------------------------------------------------------
 
 ### Inscripción
 
-El curso tiene un costo de \$70.000, que podés abonar por transferencia en un solo pago o en dos cuotas de \$37.500.
+El curso tiene un costo de ARS$95.000, abonables por transferencia bancaria en un solo pago. También podés optar por 3 cuotas sin interés de ARS$39.533,92. Si sos del exterior, el costo es de USD 100.
 
-Para confirmar tu inscripción, completá el siguiente formulario y adjuntá el comprobante de pago:
+Para confirmar tu inscripción, completá el siguiente formulario:
 
-[Inscribirme al curso](https://es.research.net/r/curso-intro-r-nis){.btn target="_blank"}
+[Inscribirme al curso](https://es.research.net/r/curso_nis_intro_a_R){.btn target="_blank"}
 
-<a href="programa_intro_r.pdf" target="_blank" style="background-color: #14c0cc; color: white; padding: 12px 20px; text-decoration: none; border-radius: 8px; font-weight: 600; display: inline-block; margin-top: 15px;">Descargá el programa del curso (PDF)</a>
+<a href="https://www.canva.com/design/DAHDM6yTiPA/i6iZvcSgMbhxnhvs8SvCxw/view?utm_content=DAHDM6yTiPA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h44ca514ee2" target="_blank" style="background-color: #14c0cc; color: white; padding: 12px 20px; text-decoration: none; border-radius: 8px; font-weight: 600; display: inline-block; margin-top: 15px;">Descargá el programa del curso (PDF)</a>
 
-Cualquier duda o consulta podes escribirnos a nucleodeinnovacion\@gmail.com o a info\@nucleodeinnovacion.com
+Cualquier duda o consulta podés escribirnos a info@nucleodeinnovacion.com
+
+------------------------------------------------------------------------
+
 
 ## Docentes
 
@@ -84,15 +93,6 @@ Joaquín Lovizio Ramos
 Politólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios.
 :::
 
-::: {style="background-color: #9d0fc8; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
-<h3 style="text-align: center; color: white; margin-top: 0;">
-
-Juan Esteban Barriola
-
-</h3>
-
-Sociólogo (UBA) y magíster en Generación y Análisis de la Información Estadística (UNTREF). Especialista en análisis de datos con R y Python, visualización y automatización de reportes. Experiencia en análisis aplicado a políticas públicas y proyectos en educación y comunicación política.
-:::
 :::::::
 
 ------------------------------------------------------------------------
@@ -116,3 +116,19 @@ Estudiante avanzada de Ciencia Política (UNLaM) y becaria de investigación en 
 Licenciado en Ciencia Política (UNLaM), diplomado en análisis de datos (UNAB) y en archivística y gestión documental (UNTREF). Analista de datos en el Ministerio de Salud (GCBA) y en el Núcleo de Innovación Social.
 :::
 :::::
+
+------------------------------------------------------------------------
+
+## Bibliografía y recursos
+
+- Antonio Vazquez Brust (2015). "Ciencia de datos para gente sociable". [Disponible en línea](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
+- Garrett Grolemund (2014). "Programación práctica con R". O'Reilly. [Disponible en línea](https://davidrsch.github.io/hopres/)
+- Hadley Wickham, Garrett Grolemund. R Para Ciencia de Datos (2023). [Disponible en línea](https://es.r4ds.hadley.nz/index.html)
+- Mendoza Vega Juan Bosco (2018). "R para principiantes". [Disponible en línea](https://bookdown.org/jboscomendoza/r-principiantes4/)
+- Wickham, Hadley, Mine Çetinkaya-Rundel, y Garrett Grolemund. ggplot2: Elegant Graphics for Data Analysis. 3rd ed. (2023). [Disponible en línea](https://ggplot2-book.org/preface-3e.html)
+
+**Software requerido (libre y gratuito):**
+
+- [RStudio (IDE)](https://posit.co/download/rstudio-desktop/)
+- [R (lenguaje de programación)](https://www.r-project.org/)
+

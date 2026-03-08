@@ -137,7 +137,7 @@
     "href": "cursos/intro_r.html#docentes",
     "title": " | Núcleo de Innovación Social",
     "section": "Docentes",
-    "text": "Docentes\n\n\n\nAriana Bardauil\n\nPolitóloga (UNLaM) y candidata a magíster en Generación y Análisis de la Información Estadística (UNTREF). Docente en UFLO y UNLaM. Data scientist en el Ministerio de Salud (GCBA). Co-organizadora de R en Buenos Aires y coordinadora del Núcleo de Innovación Social.\n\n\n\nBetsy Cohen\n\nSocióloga (UBA), diplomada en Gestión y Políticas Culturales (IDAES-UNSAM). Maestranda en Generación y Análisis de la Información Estadística (UNTREF). Miembro de RLadies Buenos Aires. Experta en industrias creativas y políticas públicas, con experiencia en estadísticas editoriales y opinión pública.\n\n\n\nJoaquín Lovizio Ramos\n\nPolitólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios.\n\n\n\nJuan Esteban Barriola\n\nSociólogo (UBA) y magíster en Generación y Análisis de la Información Estadística (UNTREF). Especialista en análisis de datos con R y Python, visualización y automatización de reportes. Experiencia en análisis aplicado a políticas públicas y proyectos en educación y comunicación política."
+    "text": "Docentes\n\n\n\nAriana Bardauil\n\nPolitóloga (UNLaM) y candidata a magíster en Generación y Análisis de la Información Estadística (UNTREF). Docente en UFLO y UNLaM. Data scientist en el Ministerio de Salud (GCBA). Co-organizadora de R en Buenos Aires y coordinadora del Núcleo de Innovación Social.\n\n\n\nBetsy Cohen\n\nSocióloga (UBA), diplomada en Gestión y Políticas Culturales (IDAES-UNSAM). Maestranda en Generación y Análisis de la Información Estadística (UNTREF). Miembro de RLadies Buenos Aires. Experta en industrias creativas y políticas públicas, con experiencia en estadísticas editoriales y opinión pública.\n\n\n\nJoaquín Lovizio Ramos\n\nPolitólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios."
   },
   {
     "objectID": "cursos/intro_r.html#tutores",
@@ -145,6 +145,13 @@
     "title": " | Núcleo de Innovación Social",
     "section": "Tutores",
     "text": "Tutores\n\n\n\nCandela Fia\nEstudiante avanzada de Ciencia Política (UNLaM) y becaria de investigación en participación y políticas públicas. Analista de datos en el Núcleo de Innovación Social.\n\n\n\nCristopher Cardarelli\nLicenciado en Ciencia Política (UNLaM), diplomado en análisis de datos (UNAB) y en archivística y gestión documental (UNTREF). Analista de datos en el Ministerio de Salud (GCBA) y en el Núcleo de Innovación Social."
+  },
+  {
+    "objectID": "cursos/intro_r.html#bibliografía-y-recursos",
+    "href": "cursos/intro_r.html#bibliografía-y-recursos",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Bibliografía y recursos",
+    "text": "Bibliografía y recursos\n\nAntonio Vazquez Brust (2015). “Ciencia de datos para gente sociable”. Disponible en línea\nGarrett Grolemund (2014). “Programación práctica con R”. O’Reilly. Disponible en línea\nHadley Wickham, Garrett Grolemund. R Para Ciencia de Datos (2023). Disponible en línea\nMendoza Vega Juan Bosco (2018). “R para principiantes”. Disponible en línea\nWickham, Hadley, Mine Çetinkaya-Rundel, y Garrett Grolemund. ggplot2: Elegant Graphics for Data Analysis. 3rd ed. (2023). Disponible en línea\n\nSoftware requerido (libre y gratuito):\n\nRStudio (IDE)\nR (lenguaje de programación)"
   },
   {
     "objectID": "charlas.html",
@@ -291,7 +298,7 @@
     "href": "cursos.html",
     "title": "NIS Academy",
     "section": "",
-    "text": "Explora, aprende, transforma: Cursos prácticos para potenciar tus habilidades en datos.\n\n\n\n\n\nIntroducción al Análisis de Datos con R\nAprenderás manipulación de datos, limpieza, visualización, gráficos y armado de documentos con R\n\nInscripciones cerradas\n\nAnotate en lista de espera"
+    "text": "Explora, aprende, transforma: Cursos prácticos para potenciar tus habilidades en datos.\n\n\n\n\n\nIntroducción al Análisis de Datos con R\nAprenderás manipulación de datos, limpieza, visualización, gráficos y armado de documentos con R\n\nInscripciones cerradas\n\n+Info"
   },
   {
     "objectID": "index.html",
