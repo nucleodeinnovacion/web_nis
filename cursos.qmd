@@ -19,7 +19,7 @@ Aprenderás manipulación de datos, limpieza, visualización, gráficos y armado
 
 <h3 style="color: var(--primary-color); font-size: 1.2rem; margin-top: 10px;">
 
-Inscripciones cerradas
+Inscripciones abiertas
 
 </h3>
 
