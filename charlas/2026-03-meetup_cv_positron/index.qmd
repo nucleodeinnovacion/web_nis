@@ -1,0 +1,32 @@
+---
+title: "Arma tu CV con Positron"
+subtitle: "La nueva IDE de Posit para R y Python"
+date: "2026-03-10"
+categories: [R, Estadística, Charlas]
+image: "image.png"
+toc: false
+---
+
+
+El próximo **jueves 19 de marzo a las 18:30 hs** tenemos un nuevo meetup para la comunidad de datos 👩‍💻👨‍💻
+
+En esta ocasión, **Ariana Bardauil** nos va a mostrar cómo crear tu CV usando **Positron**, la nueva IDE desarrollada por Posit para trabajar con **R y Python**.
+
+Además de conocer esta herramienta, la idea es aprovecharla para algo muy concreto: **mejorar cómo presentamos nuestro perfil profesional**.
+
+Si trabajás con datos, estás empezando en el mundo del análisis o simplemente querés **mejorar tu CV técnico**, este espacio es para vos.
+
+## 📅 Detalles del evento
+
+- **Fecha:** Jueves 19 de marzo  
+- **Hora:** 18:30 hs  
+- **Modalidad:** Virtual (Google Meet)  
+- **Inscripción:** [link de inscripción](https://www.meetup.com/es-es/rbuenosaires/events/313753635/)
+
+## ¿Quién organiza?
+
+Este encuentro está organizado por **Núcleo de Innovación Social** junto con la comunidad **R Buenos Aires**.
+
+Si te interesa aprender herramientas nuevas, compartir experiencias y conectar con otras personas que trabajan con datos, **sumate a la comunidad**.
+
+Nos vemos ahí 🙌

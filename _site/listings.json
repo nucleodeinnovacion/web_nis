@@ -20,6 +20,7 @@
   {
     "listing": "/last_contenido.html",
     "items": [
+      "/charlas/2026-03-meetup_cv_positron/index.html",
       "/proyectos/2025_11_curso_intro_r/index.html",
       "/blog/2025_11_aprender_a_mirar_datos/index.html",
       "/blog/2025_11_huellas_digitales/index.html",
@@ -54,6 +55,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/charlas/2026-03-meetup_cv_positron/index.html",
       "/proyectos/2025_11_curso_intro_r/index.html",
       "/blog/2025_11_aprender_a_mirar_datos/index.html",
       "/blog/2025_11_huellas_digitales/index.html",
@@ -96,6 +98,7 @@
   {
     "listing": "/charlas.html",
     "items": [
+      "/charlas/2026-03-meetup_cv_positron/index.html",
       "/charlas/2025-02_curso_r_nis/index.html",
       "/charlas/2025-06_charla_CFI/index.html",
       "/charlas/2024-10_r_para_demo/index.html",
