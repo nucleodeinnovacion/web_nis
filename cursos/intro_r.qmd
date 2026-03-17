@@ -63,6 +63,17 @@ Cualquier duda o consulta podés escribirnos a info@nucleodeinnovacion.com
 ## Docentes
 
 ::::::: {style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;font-size: 0.9rem;"}
+
+::: {style="background-color: #14c0cc; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
+<h3 style="text-align: center; color: white; margin-top: 0;">
+
+Andrea Gomez Vargas
+
+</h3>
+
+Socióloga (UBA) y analista de estadísticas de población en INDEC. Fue docente en UNaB y UNSAM, y en espacios de formación en CONICET, FLACSO y ASET, en áreas de procesamiento de datos con R, visualización de la información y desarrollo de aplicaciones con Shiny. Coorganizadora de R en Buenos Aires y mentora en rOpenSci.
+:::
+
 ::: {style="background-color: #9d0fc8; color: white; padding: 20px; border-radius: 12px; width: 250px; text-align: center; flex: 1 1 200px; max-width: 250px;"}
 <h3 style="text-align: center; color: white; margin-top: 0;">
 
