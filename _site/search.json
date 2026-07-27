@@ -116,7 +116,7 @@
     "href": "equipo.html#equipo",
     "title": " | Núcleo de Innovación Social",
     "section": "Equipo",
-    "text": "Equipo\n\n\n\nAndrea Gómez Vargas\nConsultoría\n  \n\n\n\nCandela Fia\nMetodología e investigación\n  \n\n\n\nCristopher Cardarelli\nAnálisis de datos\n  \n\n\n\n\n\nEugenia Martino\nComunicación\n \n\n\n\nFlorencia Buschi\nDesarrollo Institucional\n \n\n\n\nGuadalupe Mercado\nFormación\n \n\n\n\n\n\nJuan Esteban Barriola\nOpinión Pública\n\n\n\nJoaquín Lovizio Ramos\nOpinión Pública\n\n\n\nLautaro Perez\nAnalisis de datos\n \n\n\n\n\n\nLorena Upiachihua\nRelevamientos\n \n\n\n\nMarina Anderson\nDesarrollo Institucional  \n\n\n\nMatías Lavizzari\nAnálisis de datos\n \n\n\n\n\n\nPaula Federico\nFormación\n \n\n\n\nVioleta Bardauil\nRelevamientos\n\n\n\n\nWalter González\nOpinión Pública"
+    "text": "Equipo\n\n\n\nCandela Fia\nPolitóloga - Analista de Datos\n  \n\n\n\nGonzalo Fiordelisi\nSociólogo - Analista de Datos\n  \n\n\n\nJoaquín Lovizio Ramos\nOpinión Pública\n\n\n\n\n\nMatías Lavizzari\nAnálisis de datos\n \n\n\n\nLautaro Perez\nAnalisis de datos\n \n\n\n\nVioleta Bardauil\nComunicación"
   },
   {
     "objectID": "equipo.html#fundador",
@@ -439,5 +439,19 @@
     "title": "De datos censales a análisis demográficos con {ARcenso}",
     "section": "",
     "text": "El miércoles 13 de mayo se realizó en UMET el taller “De datos censales a análisis demográficos con {ARcenso}: taller práctico en R”, organizado por NIS, UMET y AGC TI.\n\nLa actividad estuvo a cargo de Andrea Gomez Vargas, licenciada en Sociología y desarrolladora del paquete {ARcenso}, y Emanuel Ciardullo, licenciado en Estadística y co-desarrollador de la herramienta. Durante el encuentro presentaron distintas formas de acceder y trabajar con datos censales en R de manera más eficiente y reproducible.\n\nA partir de ejemplos prácticos, se mostró cómo {ARcenso} permite simplificar procesos habituales en el análisis de datos del Censo, evitando descargas complejas y tareas manuales de limpieza y organización de información.\nEl taller contó con más de 70 personas inscriptas y generó un espacio de intercambio entre personas interesadas en análisis de datos, estadísticas públicas y herramientas open source aplicadas a investigación y gestión.\n\nGracias a quienes se acercaron, hicieron preguntas y compartieron el espacio. Y gracias especialmente a Andrea y Emanuel por abrir el detrás de escena del paquete y mostrar que la infraestructura de datos también puede ser una herramienta de democratización."
+  },
+  {
+    "objectID": "equipo.html#colaboradores",
+    "href": "equipo.html#colaboradores",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Colaboradores",
+    "text": "Colaboradores\n\n\n\nAndrea Gómez Vargas\nConsultoría\n  \n\n\n\nCristopher Cardarelli\nAnálisis de datos\n  \n\n\n\nEugenia Martino\nComunicación\n \n\n\n\n\n\nFlorencia Buschi\nDesarrollo Institucional\n \n\n\n\nGuadalupe Mercado\nFormación\n \n\n\n\nLorena Upiachihua\nRelevamientos"
+  },
+  {
+    "objectID": "equipo.html#fundadores",
+    "href": "equipo.html#fundadores",
+    "title": " | Núcleo de Innovación Social",
+    "section": "Fundadores",
+    "text": "Fundadores\n\n\n\n\nPedro Orden\nFounder\n \n\n\n\nWalter González\nFounder"
   }
 ]
