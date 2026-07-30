@@ -43,6 +43,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/2026_07_eficc/index.html",
       "/blog/2025_11_aprender_a_mirar_datos/index.html",
       "/blog/2025_11_huellas_digitales/index.html",
       "/blog/2025_07_datos_personales/index.html"
@@ -51,6 +52,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/2026_07_eficc/index.html",
       "/proyectos/2026_07_encuesta_feria_libro/index.html",
       "/charlas/2026-05-meetup-arcenso/index.html",
       "/proyectos/2026_04_informe_anual_cal/index.html",
@@ -90,6 +92,7 @@
   {
     "listing": "/last_contenido.html",
     "items": [
+      "/blog/2026_07_eficc/index.html",
       "/proyectos/2026_07_encuesta_feria_libro/index.html",
       "/charlas/2026-05-meetup-arcenso/index.html",
       "/proyectos/2026_04_informe_anual_cal/index.html",
