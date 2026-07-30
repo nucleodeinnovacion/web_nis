@@ -2,7 +2,7 @@
 title: "Construir evidencia para pensar la industria editorial: una experiencia federal en Mendoza"
 author: "Betsy Cohen"
 date: "2026-07-29"
-categories: [Privacidad]
+categories: [Datos, Inudstrias Culturales, Industria Editorial]
 image: "eficc_portada.jpeg"
 toc: false
 ---
