@@ -27,7 +27,7 @@ Sumate a la **NIS Academy** y aprendé a analizar tus datos con autonomía.
 
 ### Modalidad y fechas
 
-El curso tiene una duración de ocho encuentros virtuales, una vez por semana, en modalidad 100% online y sincrónica. 
+El curso tiene una duración de ocho encuentros virtuales, una vez por semana, en modalidad 100% online y sincrónica.
 
 **Fechas y horarios:**
 
@@ -45,31 +45,56 @@ Las clases quedarán grabadas y estarán disponibles para consulta junto con el 
 
 **Precios promociones y formas de pago:**
 
-- **Precio Regular** \$115.000. Si sos del exterior, el costo es de USD 110.\
-  Pago con transferencia o con TJ de en hasta 3 cuotas en [Este link](https://mpago.li/2nik6jj){.btn target="_blank"}
+- **Precio Regular** \
+  **Pago con transferencia: \$115.000.** \
+  Opción de pago en hasta 3 cuotas (\$145.000) en [Este link](https://mpago.li/2nik6jj){.btn target="_blank"}
+
+  Si sos del exterior, el costo es de USD 110.
 
 <!-- -->
 
-- **Inscripción temprana** ¡Al que madruga NIS lo ayuda! accede a un 10% off ($103.500) por inscripción temprana (válido hasta el 16/8). \
-  Pago con transferencia o con TJ de en hasta 3 cuotas en:[Este link](https://mpago.li/1VQuR5g){.btn target="_blank"}   
+- **Inscripción temprana** ¡Al que madruga NIS lo ayuda! accede a un 10% off por inscripción temprana (válido hasta el 16/8).\
+  **Pago por transferencia: \$103.500**
 
-- **Promo bind_rows** te inscribes con un amigo y acceden cada uno a un 20% de descuento sobre el precio regular($92.000). \
-  Pago con transferencia o con TJ de en hasta 3 cuotas en [Este link](https://mpago.li/2zPCzqF){.btn target="_blank"} 
+  Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1VQuR5g){.btn target="_blank"}
+
+- **Promo bind_rows** te inscribís con un amigo y acceden cada uno a un 20% de descuento sobre el precio regular.\
+  **Pago por transferencia: \$92.000**
+
+  Opción de pago en hasta 3 cuotas (\$107.594)  en [Este link](https://mpago.li/2zPCzqF){.btn target="_blank"} 
 
 <!-- -->
 
-- **Matriculados CPS** 10% off (para poder acceder deberás encontrarte al día con tu matrícula)\
-  Pago con transferencia ($103.500) o con TJ de en hasta 3 cuotas en [Este link](https://mpago.li/1UqRTVL){.btn target="_blank"} 
+- **Matriculados CPS** **Matriculados CPS** 10% off (para poder acceder deberás encontrarte al día con tu matrícula)
 
-**IMPORTANTE:** Los pagos con TJ aplican cargos variables dependiendo de la cantidad de cuotas e impuestos locales propios de este medio de pago.\
+  **Pago por transferencia: \$103.500** \
+  Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1UqRTVL){.btn target="_blank"}
+
+**IMPORTANTE:** Los pagos con tarjeta de crédito/débito aplican cargos variables dependiendo de la cantidad de cuotas e impuestos locales propios de este medio de pago.
+
+Las descuentos no son acumulables.
+
 Para pagos desde el exterior por favor comunicate con nosotros vía mail a info\@nucleodeinnovacion.com ya que en función del país te podamos guiar en cómo hacer la transferencia.
+
+**Datos para realizar la transferencia**
+
+Banco Supervielle
+
+Ariana Bardauil
+
+CTA: CA ARS 011-3609512-2
+
+CBU: 0270011320036095120028
+
+ALIAS: NUCLEODEINNOVACION
+
+CUIT/CUIL: 27-41151148-6
 
 ------------------------------------------------------------------------
 
 ### ¿Cómo me inscribo?
 
 *Paso 1:* Realiza el pago
-
 
 *Paso 2:* Completá tus datos y adjunta el comprobante
 
@@ -81,14 +106,11 @@ Cualquier duda o consulta podés escribirnos a info\@nucleodeinnovacion.com
 
 ## Docentes
 
-
 Joaquín Lovizio Ramos
-
 
 Politólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maestrando en Generación y Análisis de la Información Estadística (UNTREF). Analista de reporting en Provincia Microcréditos, docente en R y análisis de datos en Coderhouse y UBA, coordinador de Dicen Los Medios.
 
 ------------------------------------------------------------------------
-
 
 ## Bibliografía y recursos
 
