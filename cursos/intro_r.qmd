@@ -15,11 +15,11 @@ Si te cansaste de usar Excel, SPSS o simplemente querés arrancar de cero, este 
 
 Vas a aprender todo lo necesario para comenzar a analizar datos:
 
-- Manipulación y limpieza de datos
+-   Manipulación y limpieza de datos
 
-- Visualización de datos con gráficos y mapas
+-   Visualización de datos con gráficos y mapas
 
-- Generación de informes HTML claros y atractivos
+-   Generación de informes HTML claros y atractivos
 
 Sumate a la **NIS Academy** y aprendé a analizar tus datos con autonomía.
 
@@ -31,44 +31,44 @@ El curso tiene una duración de ocho encuentros virtuales, una vez por semana, e
 
 **Fechas y horarios:**
 
-- Miércoles de 18:30 a 20:30 hs.
-- Inicio: 2/09/2026
-- Finalización: 21/10/2026
+-   Miércoles de 18:30 a 20:30 hs.
+-   Inicio: 2/09/2026
+-   Finalización: 21/10/2026
 
 Las clases quedarán grabadas y estarán disponibles para consulta junto con el material de trabajo.
 
 **Requisitos para la aprobación:**
 
-- Asistir al 80% de los encuentros
+-   Asistir al 80% de los encuentros
 
-- Presentar el trabajo práctico integrador
+-   Presentar el trabajo práctico integrador
 
 **Precios promociones y formas de pago:**
 
-- **Precio Regular**\
-  **Pago con transferencia: \$115.000.**\
-  Opción de pago en hasta 3 cuotas (\$145.000) en [Este link](https://mpago.li/2nik6jj){.btn target="_blank"}
+-   **Precio Regular**\
+    **Pago con transferencia: \$115.000.**\
+    Opción de pago en hasta 3 cuotas (\$145.000) en [Este link](https://mpago.li/2nik6jj){.btn target="_blank"}
 
-  Si sos del exterior, el costo es de USD 110.
-
-<!-- -->
-
-- **Inscripción temprana** ¡Al que madruga NIS lo ayuda! accede a un 10% off por inscripción temprana (válido hasta el 16/8).\
-  **Pago por transferencia: \$103.500**
-
-  Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1VQuR5g){.btn target="_blank"}
-
-- **Promo bind_rows** te inscribís con un amigo y acceden cada uno a un 20% de descuento sobre el precio regular.\
-  **Pago por transferencia: \$92.000**
-
-  Opción de pago en hasta 3 cuotas (\$107.594)  en [Este link](https://mpago.li/2zPCzqF){.btn target="_blank"} 
+    Si sos del exterior, el costo es de USD 110.
 
 <!-- -->
 
-- **Matriculados CPS** **Matriculados CPS** 10% off (para poder acceder deberás encontrarte al día con tu matrícula)
+-   **Inscripción temprana** ¡Al que madruga NIS lo ayuda! accede a un 10% off por inscripción temprana (válido hasta el 16/8).\
+    **Pago por transferencia: \$103.500**
 
-  **Pago por transferencia: \$103.500**\
-  Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1UqRTVL){.btn target="_blank"}
+    Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1VQuR5g){.btn target="_blank"}
+
+-   **Promo bind_rows** te inscribís con un amigo y acceden cada uno a un 20% de descuento sobre el precio regular.\
+    **Pago por transferencia: \$92.000**
+
+    Opción de pago en hasta 3 cuotas (\$107.594)  en [Este link](https://mpago.li/2zPCzqF){.btn target="_blank"} 
+
+<!-- -->
+
+-   **Matriculados CPS** **Matriculados CPS** 10% off (para poder acceder deberás encontrarte al día con tu matrícula)
+
+    **Pago por transferencia: \$103.500**\
+    Opción de pago en hasta 3 cuotas (\$121.043) en: [Este link](https://mpago.li/1UqRTVL){.btn target="_blank"}
 
 **IMPORTANTE:** Los pagos con tarjeta de crédito/débito aplican cargos variables dependiendo de la cantidad de cuotas e impuestos locales propios de este medio de pago.
 
@@ -104,7 +104,7 @@ Cualquier duda o consulta podés escribirnos a info\@nucleodeinnovacion.com
 
 ------------------------------------------------------------------------
 
-## Docentes
+### Docentes
 
 Joaquín Lovizio Ramos
 
@@ -112,15 +112,11 @@ Politólogo (UBA) y diplomado en Ciencias Sociales Computacionales (UNSAM). Maes
 
 ------------------------------------------------------------------------
 
-## Bibliografía y recursos
+### Programa y software requerido
 
-- Antonio Vazquez Brust (2015). "Ciencia de datos para gente sociable". [Disponible en línea](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
-- Garrett Grolemund (2014). "Programación práctica con R". O'Reilly. [Disponible en línea](https://davidrsch.github.io/hopres/)
-- Hadley Wickham, Garrett Grolemund. R Para Ciencia de Datos (2023). [Disponible en línea](https://es.r4ds.hadley.nz/index.html)
-- Mendoza Vega Juan Bosco (2018). "R para principiantes". [Disponible en línea](https://bookdown.org/jboscomendoza/r-principiantes4/)
-- Wickham, Hadley, Mine Çetinkaya-Rundel, y Garrett Grolemund. ggplot2: Elegant Graphics for Data Analysis. 3rd ed. (2023). [Disponible en línea](https://ggplot2-book.org/preface-3e.html)
+[Descarga el programa aquí](ProgramaIntroR2026.pdf){.btn target="_blank"}
 
 **Software requerido (libre y gratuito):**
 
-- [RStudio (IDE)](https://posit.co/download/rstudio-desktop/)
-- [R (lenguaje de programación)](https://www.r-project.org/)
+-   [RStudio (IDE)](https://posit.co/download/rstudio-desktop/)
+-   [R (lenguaje de programación)](https://www.r-project.org/)
