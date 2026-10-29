@@ -2,7 +2,7 @@
 title: "Presentaron el Diagnóstico Federal de las Industrias Culturales y Creativas"
 date: "2026-11-02"
 categories: [R, Formacion]
-image: "DFICC tapapng"
+image: "DFICC tapa.png"
 toc: false
 ---
 
