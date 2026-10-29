@@ -1,0 +1,14 @@
+---
+title: "Finalizó la 3º edición de la NIS Academy"
+subtitle: "Una nueva camada de colegas se formó en el curso Introducción al análisis de datos con R para Ciencias Sociales"
+date: "2026-10-29"
+categories: [R, Formacion]
+image: "hex.png"
+toc: false
+---
+
+Finalizó la tercera edición del curso Introducción al análisis de datos con R para Ciencias Sociales, una propuesta de formación de la NIS Academy a cargo de Joaco Lovizio.
+
+A lo largo del curso, las y los participantes se acercaron al lenguaje de programación R y sus posibilidades para el análisis de datos, trabajando sobre herramientas de manipulación y limpieza de datos, visualización mediante gráficos y mapas, y generación de informes HTML.
+Desde el Núcleo de Innovación Social (NIS) seguimos apostando a la formación y la democratización de herramientas tecnológicas que permitan a profesionales de las ciencias sociales desarrollar mayor autonomía en el trabajo con datos.
+¡Gracias a todas las personas que participaron y a Joaco por compartir sus conocimientos!
