@@ -1,0 +1,36 @@
+---
+title: "Presentaron el Diagnóstico Federal de las Industrias Culturales y Creativas"
+date: "2026-11-02"
+categories: [R, Formacion]
+image: "DFICC tapapng"
+toc: false
+---
+
+El 28 de octubre se presentó en el Consejo Federal de Inversiones (CFI) el Diagnóstico Federal de las Industrias Culturales y Creativas, un trabajo colectivo desarrollado junto con las áreas de Cultura de las 23 jurisdicciones provinciales para construir una base de conocimiento compartida que contribuya al diseño de políticas públicas para el sector.
+
+La presentación fue el resultado de un proceso iniciado en 2025, que reunió a alrededor de 200 funcionarios y funcionarias provinciales para relevar la situación de diez sectores: artes visuales, artesanías, teatro, danza, diseño, gastronomía, música, audiovisual, videojuegos e industria editorial.
+
+Durante ese proceso, desde el Núcleo de Innovación Social (NIS) nuestra coordinadora Betsy Cohen coordinó la elaboración del diagnóstico federal de la industria editorial, una experiencia de trabajo colaborativo orientada a sistematizar información, identificar desafíos y construir prioridades para el desarrollo del sector.
+
+El diagnóstico editorial permitió reconocer problemáticas como la concentración territorial de la actividad, las dificultades de circulación y logística, la fragmentación de la información disponible y la necesidad de fortalecer los datos e indicadores para comprender la cadena de valor del libro. A partir del intercambio entre las provincias, se priorizaron líneas de trabajo vinculadas con la producción y circulación editorial y el desarrollo de herramientas de información sectorial.
+
+Estos aportes forman parte de un diagnóstico más amplio, organizado en seis dimensiones: internacionalización; datos e indicadores; financiamiento; formación; exhibición y circulación de bienes y servicios culturales; y normativa y gobernanza.
+
+La presentación en el CFI dio continuidad al trabajo desarrollado durante el Primer Encuentro Federal de Industrias Culturales y Creativas, realizado en Mendoza en junio de 2026, donde representantes provinciales intercambiaron perspectivas sobre los diagnósticos preliminares y jerarquizaron prioridades para una agenda compartida.
+
+Más que un documento de consulta, el diagnóstico busca convertirse en una herramienta de gestión y análisis continuo. Su valor reside tanto en la información que reúne como en el proceso de articulación federal que hizo posible su construcción.
+
+![](DFICC%20interior.png){fig-align="center"}
+
+Desde el Núcleo de Innovación Social entendemos que producir conocimiento aplicado es una forma de intervenir sobre problemas concretos. Sistematizar información, reconocer las particularidades territoriales y construir evidencia compartida permite ampliar las posibilidades de diseñar políticas públicas pertinentes y sostenibles.
+
+La presentación marca el cierre de una etapa de trabajo y abre un nuevo desafío: transformar los diagnósticos en herramientas concretas de planificación, gestión y desarrollo para las industrias culturales y creativas de todo el país.
+
+Los invitamos a leer el diagnóstico completo a continuación
+
+<iframe
+  src="CFI-DFICC.pdf"
+  width="100%"
+  height="800px"
+  style="border: none;">
+</iframe>
