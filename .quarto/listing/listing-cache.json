@@ -10,7 +10,8 @@
     "index.qmd": [
       "/charlas",
       "/proyectos",
-      "/blog"
+      "/blog",
+      "!charlas/**/ficha*.qmd"
     ],
     "last_contenido.qmd": [
       "/novedades",
