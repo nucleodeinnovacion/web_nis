@@ -4,7 +4,8 @@
       "blog"
     ],
     "charlas.qmd": [
-      "charlas"
+      "charlas",
+      "!charlas/**/ficha*.qmd"
     ],
     "index.qmd": [
       "/charlas",

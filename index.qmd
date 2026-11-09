@@ -8,6 +8,7 @@ listing:
     - /charlas
     - /proyectos
     - /blog
+    - "!charlas/**/ficha*.qmd" # excluyo ficha para charla
     sort: "date desc"
     type: grid
     categories: false
@@ -91,7 +92,9 @@ Accedé a nuestros cursos y capacitaciones
 ::: {#last_contenido}
 :::
 
-::::
+\:::::
 
-::::
+\:::::
+
+\:::::
 ::::
