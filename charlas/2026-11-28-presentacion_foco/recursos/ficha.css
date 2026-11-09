@@ -1,0 +1,161 @@
+/* Ficha · ¿Y ahora qué hago con esto?  —  estilos
+   Colores tomados del logo del NIS. Para cambiarlos, editá las variables de abajo. */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap");
+
+.fi-ficha {
+  --fi-ink: #1E1430;
+  --fi-muted: #625A70;
+  --fi-violet: #8A0FC2;
+  --fi-deep: #2A0A47;
+  --fi-lila: #E2BDF8;
+  --fi-soft: #F6EFFC;
+  --fi-line: #E0D2EC;
+
+  font-family: "Montserrat", sans-serif;
+  color: var(--fi-ink);
+  background: #fff;
+  max-width: 880px;
+  margin: 0 auto 2rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+.fi-ficha p { margin: 0; }
+.fi-ficha p + p, .fi-ficha p + div, .fi-ficha div + p { margin-top: 0.45em; }
+
+/* Esta página usa su propio encabezado: se oculta el título automático de Quarto */
+#title-block-header, header.quarto-title-block, .quarto-title { display: none !important; }
+
+/* Encabezado */
+.fi-header {
+  background: var(--fi-deep);
+  color: #fff;
+  border-radius: 16px;
+  padding: 1.8rem 2rem 1.6rem;
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.fi-header p { color: #fff; max-width: 38em; }
+.fi-header-text { flex: 1; }
+.fi-eyebrow, .fi-uso-title {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.fi-eyebrow { color: var(--fi-lila); }
+.fi-title {
+  display: block;
+  font-size: 2.1rem;
+  line-height: 1.12;
+  font-weight: 700;
+  color: #fff;
+}
+.fi-header p:has(.fi-title) { margin: 0.5em 0 0.7em; }
+.fi-title-accent { color: var(--fi-lila); }
+.fi-ficha img.fi-logo, .fi-ficha .fi-logo img { width: 110px; height: auto; flex: none; margin: 0; }
+.fi-header .figure, .fi-header .quarto-figure, .fi-header figure { margin: 0; flex: none; }
+
+/* Preguntas */
+.fi-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.9rem;
+  margin-top: 1rem;
+}
+.fi-q {
+  background: var(--fi-soft);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.fi-num {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--fi-violet);
+}
+.fi-q-title {
+  display: block;
+  font-size: 1.12rem;
+  line-height: 1.22;
+  font-weight: 700;
+  margin: 0.35em 0 0.1em;
+}
+.fi-ex { color: var(--fi-muted); margin-top: 0.45em; }
+.fi-ex strong { color: var(--fi-ink); }
+.fi-alerta { margin-top: auto; padding-top: 0.7em; }
+.fi-alerta strong { color: var(--fi-violet); }
+
+.fi-cross { background: var(--fi-deep); color: #fff; }
+.fi-cross p { color: #fff; }
+.fi-cross .fi-num, .fi-cross .fi-alerta strong { color: var(--fi-lila); }
+.fi-cross .fi-ex, .fi-cross .fi-ex p { color: var(--fi-line); }
+.fi-cross .fi-ex strong { color: #fff; }
+
+/* Cómo usarla */
+.fi-uso {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.9rem;
+  margin-top: 0.9rem;
+}
+.fi-uso-caja {
+  border: 1.5px solid var(--fi-line);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+}
+.fi-uso-title { color: var(--fi-violet); margin-bottom: 0.4em; }
+
+/* Pie */
+.fi-pie {
+  margin-top: 1.2rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--fi-line);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.75rem;
+  color: var(--fi-muted);
+}
+.fi-pie p { color: var(--fi-muted); }
+.fi-pie strong { color: var(--fi-ink); font-size: 0.85rem; }
+.fi-pie-evento { text-align: right; }
+
+/* Celular */
+@media (max-width: 680px) {
+  .fi-header { flex-direction: column-reverse; padding: 1.4rem 1.3rem; }
+  .fi-ficha img.fi-logo, .fi-ficha .fi-logo img { width: 80px; }
+  .fi-title { font-size: 1.6rem; }
+  .fi-grid, .fi-uso { grid-template-columns: 1fr; }
+  .fi-pie { flex-direction: column; }
+  .fi-pie-evento { text-align: left; }
+}
+
+/* Impresión: una hoja A4, sin la navegación del sitio */
+@media print {
+  @page { size: A4; margin: 9mm 12mm; }
+  #quarto-header, .nav-footer, #quarto-margin-sidebar, #quarto-sidebar,
+  .quarto-alternate-formats, .quarto-title-banner, header#title-block-header { display: none !important; }
+  html, body, #quarto-content, main { margin: 0 !important; padding: 0 !important; height: auto !important; min-height: 0 !important; }
+  #quarto-content { display: block !important; }
+  #quarto-appendix, .quarto-appendix, #quarto-document-content > :not(.fi-ficha) { display: none !important; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .fi-ficha { max-width: none; margin: 0; font-size: 8pt; line-height: 1.32; }
+  .fi-header { padding: 6mm 7mm 5.5mm; border-radius: 4mm; }
+  .fi-title { font-size: 19pt; }
+  .fi-ficha img.fi-logo, .fi-ficha .fi-logo img { width: 26mm; }
+  .fi-grid { gap: 3.2mm; margin-top: 3.5mm; }
+  .fi-q { padding: 3.6mm 4.4mm 3.4mm; border-radius: 3mm; break-inside: avoid; }
+  .fi-num { font-size: 14pt; }
+  .fi-q-title { font-size: 10.2pt; }
+  .fi-uso { gap: 3.2mm; margin-top: 3.2mm; }
+  .fi-uso-caja { padding: 3.2mm 4.4mm; border-radius: 3mm; }
+  .fi-eyebrow, .fi-uso-title { font-size: 6.8pt; }
+  .fi-pie { font-size: 7pt; margin-top: 4mm; padding-top: 3mm; }
+  .fi-pie strong { font-size: 8pt; }
+}
