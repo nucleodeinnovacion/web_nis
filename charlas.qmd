@@ -2,7 +2,9 @@
 title: "Formación, Charlas y actividades"
 css: presenta.css
 listing: 
-  contents: charlas
+  contents: 
+    - charlas
+    - "!charlas/**/ficha*.qmd" # excluyo para que no me renderice el recurso de la charla
   categories: true
   type: default
   sort: "date desc"
